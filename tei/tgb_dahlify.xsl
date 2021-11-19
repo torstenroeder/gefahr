@@ -23,7 +23,7 @@
 		<xsl:attribute name="facs">
 			<xsl:analyze-string select="." regex="id512116717/([0-9]{{3}})">
 				<xsl:matching-substring>
-					<xsl:text>https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000</xsl:text>
+					<xsl:text>data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000</xsl:text>
 					<xsl:value-of select="regex-group(1)"/>
 					<xsl:text>.tif.large.jpg</xsl:text>
 				</xsl:matching-substring>
