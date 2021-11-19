@@ -25,7 +25,7 @@
 				<xsl:matching-substring>
 					<xsl:text>https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000</xsl:text>
 					<xsl:value-of select="regex-group(1)"/>
-					<xsl:text>.tif.large.jpg/full/full/0/default.jpg</xsl:text>
+					<xsl:text>.tif.large.jpg</xsl:text>
 				</xsl:matching-substring>
 				<xsl:non-matching-substring/>
 			</xsl:analyze-string>
