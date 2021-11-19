@@ -32,12 +32,12 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin>Briefkonvolut von <persName key="rochlitz">Friedrich
+						<origin>Briefkonvolut von <persName ref="#rochlitz">Friedrich
 								Rochlitz</persName>, entstanden nach eigenen Angaben in den Tagen
 							zwischen dem 25. September und 26. Oktober 1813. Die äußere Form sowie
 							ein Schriftvergleich legen nahe, dass es sich um eine Reinschrift von
 							fremder Hand handelt. Der wahrscheinliche Empfänger ist <persName
-								key="boettiger">Carl August Böttiger</persName> in
+								ref="#boettiger">Carl August Böttiger</persName> in
 								<placeName>Dresden</placeName>. Dies entspricht den Hinweisen im
 							Text auf einen dortigen Adressaten.</origin>
 						<provenance>Im Vorbericht der späteren Publikation des Textes (1816) erwähnt
@@ -103,7 +103,7 @@
 			<pb n="U1" facs="http://digital.slub-dresden.de/id512116717/539"/>
 			<p xml:space="preserve">
 				<lb n="01"/>Tagebuch über die Begeben<pc force="weak">-</pc>
-				<lb break="no" n="02"/>heiten von <placeName key="leipzig">Leipzig</placeName>
+				<lb break="no" n="02"/>heiten von <placeName ref="#leipzig">Leipzig</placeName>
 				<lb n="03"/>vom 10 October an
 			</p>
 			<p xml:space="preserve">
@@ -122,7 +122,7 @@
 					<lb n="02"/>Ich habe in diesen Tagen stündlichen Schreckens und einer Noth, wie wir sie hier
 					<lb n="03"/>noch nicht gekannt, nicht schreiben können, weniger aus äußerer, als aus in<pc force="weak">-</pc>
 					<lb break="no" n="04"/>nerer Unmöglichkeit. Was soll man sagen, wenn es so zugeht! Mein un<pc force="weak">-</pc>
-					<lb break="no" n="05"/>glückseeliges <placeName key="connewitz">Connewitz</placeName> kann mir wohl nie wieder soviel Freude gewäh<pc force="weak">-</pc>
+					<lb break="no" n="05"/>glückseeliges <placeName ref="#connewitz">Connewitz</placeName> kann mir wohl nie wieder soviel Freude gewäh<pc force="weak">-</pc>
 					<lb break="no" n="06"/>ren, und genöße ichʼs noch viele Jahre in Frieden, als es mir in diesem Tagen
 					<lb n="07"/>Noth und Quaal gemacht hat – des großen Schadens nicht zu gedenken.
 					<lb n="08"/>Doch ist schon längst an irgend eine Ordnung gar nicht mehr zu denken;
@@ -136,12 +136,12 @@
 					<lb n="16"/>ziemlich wieder von vorn anzufangen, und es kann nun kaum etwas weiter
 					<lb n="17"/>geschehen, als daß man auch das Haus ansteckt. So handeln Freunde und
 					<lb n="18"/>Alliirte; so die große, die gebildetste Nation, selbst unter den Augen der
-					<lb n="19"/>Generale, in der Nähe unseres <rs key="friedrich-august">Königs</rs> und ihres <rs key="napoleon">Kaisers</rs>. Wohin es in
+					<lb n="19"/>Generale, in der Nähe unseres <rs ref="#friedrich-august">Königs</rs> und ihres <rs ref="#napoleon">Kaisers</rs>. Wohin es in
 					<lb n="20"/>der Stadt kommen will, da man vergebens nach Brodt läuft <abbr ana="#etc">e⁊</abbr> das
-					<lb n="21"/>mag Gott wißen. Ich weiß es wohl, daß es in und um <placeName key="dresden">Dresden</placeName> nicht
+					<lb n="21"/>mag Gott wißen. Ich weiß es wohl, daß es in und um <placeName ref="#dresden">Dresden</placeName> nicht
 					<lb n="22"/>beßer gegangen: ich wunder mich auch nicht, ich erwähne es blos, da ich
-					<lb n="23"/>nun einmal meine Schicksale Ihnen erzählen soll. <rs key="henriette">Meine Frau</rs>, da nicht
-					<lb n="24"/>viel von ihr abzuhalten ist, leidet sehr; <placeName key="connewitz">Connewitz</placeName> war ihre Lieblings<pc force="weak">-</pc>
+					<lb n="23"/>nun einmal meine Schicksale Ihnen erzählen soll. <rs ref="#henriette">Meine Frau</rs>, da nicht
+					<lb n="24"/>viel von ihr abzuhalten ist, leidet sehr; <placeName ref="#connewitz">Connewitz</placeName> war ihre Lieblings<pc force="weak">-</pc>
 					<lb break="no" n="25"/>puppe; sie kömmt, durch Sorgen, Schrecken, Mangel an Schlaf <abbr ana="#etc">e⁊</abbr>, ganz von
 					<lb n="26"/>Kräften und fällt sichtbar ab. Mich hält mehr die gewaltsame Spannung a<del><unclear extent="1" unit="chars"/></del>uf<pc force="weak">-</pc>
 					<lb break="no" n="27"/>recht: hinterher werdʼ ichs schon fühlen.
@@ -152,30 +152,30 @@
 				<dateline n="28" rend="right">den 16<hi rend="sup uu">ten</hi></dateline>
 				<p xml:id="p.2.1" xml:space="preserve">
 					<lb n="29"/>Seitdem ist unsere, so wie die öffentliche Noth, täglich gewachsen. In meinem
-					<lb n="30"/>Hause zu <placeName key="connewitz">Connewitz</placeName> ist alles, was sich nur zum Verkaufen oder Verbrennen
+					<lb n="30"/>Hause zu <placeName ref="#connewitz">Connewitz</placeName> ist alles, was sich nur zum Verkaufen oder Verbrennen
 					<lb n="31"/>ausbrechen ließ, gestohlen oder verbrannt. Keine Barriere, keine Thüre,
 					<pb facs="http://digital.slub-dresden.de/id512116717/542" n="1v"/>
 					<lb n="01"/>keine Gartenwand von Holz mehr <abbr ana="#udgl">u dgl</abbr>. Im Garten stahn nur noch die Linden
 					<lb n="02"/>und wenig Bäume, und auch diese sind vielleicht in dieser Nacht gefallen.
 					<lb n="03"/>Den Pavillon haben gestern meine Nachbarn nur durch Zufall gerettet: man
-					<lb n="04"/>hatte Feuer in ihm angelegt, und meines <rs key="connewitz.gaertnersfrau">Gärtners Frau</rs> ist, den Mißhandlungen
+					<lb n="04"/>hatte Feuer in ihm angelegt, und meines <rs ref="#connewitz.gaertnersfrau">Gärtners Frau</rs> ist, den Mißhandlungen
 					<lb n="05"/>zu entgehen, in die Stadt gelaufen, ihr Mann liegt von jenen krank darnieder –
 					<lb n="06"/>im Keller, denn kein anderes Plätzchen im ganzen Hause verstattet man ihm.
 					<lb n="07"/>Hundert fünfzig Pferde stehen im Garten, oder vielmehr auf dem wüsten
 					<lb n="08"/>Platze, der mein Garten war. Mit größter Mühe und <surplus>und</surplus> großen Lasten
-					<lb n="09"/>hatte ich mir schon zu Anfang der Woche eine <term key="sauve-garde">Sauve-garde</term> verschaft: die mei<pc force="weak">-</pc>
+					<lb n="09"/>hatte ich mir schon zu Anfang der Woche eine <term ref="#sauve-garde">Sauve-garde</term> verschaft: die mei<pc force="weak">-</pc>
 					<lb break="no" n="10"/>sten, wenn sie den Dienst thaten, stahlen mit. Da ich dieß sahe, sagte ich sie ab:
 					<lb n="11"/>dieß half nicht, ich <emph rend="u">muß</emph> sie nun behalten, damit man die Bezahlung zieht,
 					<lb n="12"/>ja man hat die Wache, ohne mein Wißen und Wollen, von 2 auf 7 Mann
 					<lb n="13"/>erhöht. Der Wahlspruch dieser Menschen, den sie immerfort ausstoßen, ist:
 					<lb n="14"/>Wir müßen sterben, aber ihr solltʼs auch! Die Einquartierung in der
-					<lb n="15"/>Stadt – im <placeName key="leipzig.catharinenstr.415">Hause der Catharinenstraße</placeName> stets zwischen 40 und 60 Mann,
+					<lb n="15"/>Stadt – im <placeName ref="#leipzig.catharinenstr.415">Hause der Catharinenstraße</placeName> stets zwischen 40 und 60 Mann,
 					<lb n="16"/>dauert ununterbrochen fort; in meiner Wohnung habe ich zwei Kriegscom<pc force="weak">-</pc>
 					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <abbr ana="#rth">r⁊.</abbr> für die Ein<pc force="weak">-</pc>
 					<lb break="no" n="18"/>quartierten im Monat <date when="1813-09">September</date>; diese Nacht (ich schreibe <time when="0600">früh gegen 6 Uhr</time>)
 					<lb n="19"/>habe ich, seit dem <time when="1100">11<hi rend="sup">ten</hi></time> zum erstenmale, drei Stunden fest, vor Erschöpfung,
 					<lb n="20"/>schlafen können. In der Stadt sind 13000 Kranke und Verwundete: der
-					<lb n="21"/><rs key="napoleon">Kaiser</rs> selbst hat vorgestern befohlen, daß man noch für 15000 Raum schaf<pc force="weak">-</pc>
+					<lb n="21"/><rs ref="#napoleon">Kaiser</rs> selbst hat vorgestern befohlen, daß man noch für 15000 Raum schaf<pc force="weak">-</pc>
 					<lb break="no" n="22"/>fen müsse, so daß, wenn diese kommen, die Gesamtzahl fast die der Einwohner
 					<lb n="23"/>erreicht. Brodt hätte ich seit zwei Tagen nicht, wenn auch nicht Freunde un<pc force="weak">-</pc>
 					<lb break="no" n="24"/>terstützten, denen es einquartierte Soldaten verschaffen. Faurrage ist gar
@@ -184,12 +184,12 @@
 					<lb n="27"/>achtʼ ich <emph rend="u">für</emph> <emph rend="u">mich</emph>, was mich betroffen, noch nicht als das Traurigste. Erhalte
 					<lb n="28"/>ich mir <abbr ana="#und">u</abbr> den Meinigen das Leben, so wird mir auch bleiben, daß ich ein<pc force="weak">-</pc>
 					<lb break="no" n="29"/>mal, kömmt Ruhe, nicht geringer, nicht sorgenvoller meine Tage ver<pc force="weak">-</pc>
-					<lb break="no" n="30"/>bringen werde, als mit <rs key="rochlitz.mutter">meiner Mutter</rs> vor 1806; und <rs key="henriette">meine Frau</rs> hat
+					<lb break="no" n="30"/>bringen werde, als mit <rs ref="#rochlitz.mutter">meiner Mutter</rs> vor 1806; und <rs ref="#henriette">meine Frau</rs> hat
 					<lb facs="http://digital.slub-dresden.de/id512116717/543" n="2r"/>
 					<lb n="01"/>Geist <abbr ana="#und">u</abbr> Charakter genug, sich darein zu finden, und darum nicht eben unglück<pc force="weak">-</pc>
 					<lb break="no" n="02"/>lich zu seÿn. Aber was ich sonst sehe und erfahre – den Menschen in seiner
 					<lb n="03"/>Verworfenheit tiefstem Grade, dann, was Andere an uns gethan <del>und</del> oder
-					<lb n="04"/>zugelaßen, mit denen wir, mit denen besonders seit längern Jahren <rs key="henriette">meine
+					<lb n="04"/>zugelaßen, mit denen wir, mit denen besonders seit längern Jahren <rs ref="#henriette">meine
 					<lb n="05"/>Frau</rs>, <emph rend="u">über</emph> ihre Kräfte ihr Brodt brach; was Männer thun, die als die geistig
 					<lb n="06"/>gebildetsten, reichsten, angesehensten erkannt sind, um nur sich und ihre Habe
 					<lb n="07"/>zu retten, die Lasten uns und <del><unclear extent="1" unit="chars"/></del>andere, welche ihre Wege nicht einschlagen können,
@@ -209,7 +209,7 @@
 					<lb break="no" n="21"/>den, oder wohl gar für thörigt oder phantastisch hielten. —
 				</p>
 				<p xml:id="p.2.2" xml:space="preserve">
-					<lb n="22"/>Der <rs key="napoleon">Kaiser</rs> war bei seinem Ankommen, bis zu dem Gefecht bei <placeName key="libertwolkwitz">Wolkwitz</placeName>,
+					<lb n="22"/>Der <rs ref="#napoleon">Kaiser</rs> war bei seinem Ankommen, bis zu dem Gefecht bei <placeName ref="#libertwolkwitz">Wolkwitz</placeName>,
 					<lb n="23"/>sehr ernst und düster, versengt in ungeheuere Anstrengungen, schonungslos
 					<lb n="24"/>gegen sich selbst: nach jenem Gefecht, obgleich es, so weit unsere blöden Augen
 					<lb n="25"/>reichen, gar nichts entschied, ist er, wie man bemerken wollen, heiter und
@@ -217,20 +217,20 @@
 					<lb n="27"/>und der dumpfen Stille aller, durch die er hinzog, gerührt: gleich darauf,
 					<lb n="28"/>als die Deputationen erschienen, zeigte er sich sehr ruhig und gefaßt, be<pc force="weak">-</pc>
 					<lb break="no" n="29"/>zeigte auch seinen Glauben an eine ganz nahe Wiederherstellung <hi rend="latin">in integrum</hi>. <metamark>—</metamark>
-					<lb n="30"/>Herr <persName key="dufour">Dufour</persName>, der ältere, ist der, von allen in der herrschenden Partei begün<pc force="weak">-</pc>
-					<lb break="no" n="31"/>stigste Bürger <placeName key="leipzig">Leipzigs</placeName>; wird besonders von Franzosen<metamark function="order" place="above">2</metamark> vornehmen<metamark function="order" place="above">1</metamark> und Polen
+					<lb n="30"/>Herr <persName ref="#dufour">Dufour</persName>, der ältere, ist der, von allen in der herrschenden Partei begün<pc force="weak">-</pc>
+					<lb break="no" n="31"/>stigste Bürger <placeName ref="#leipzig">Leipzigs</placeName>; wird besonders von Franzosen<metamark function="order" place="above">2</metamark> vornehmen<metamark function="order" place="above">1</metamark> und Polen
 					<pb facs="http://digital.slub-dresden.de/id512116717/544" n="2v"/>
-					<lb n="01"/>sehr ausgezeichnet; und sogar in <placeName key="connewitz">Connewitz</placeName> ist sein prächtiges Haus, wiewohl am
+					<lb n="01"/>sehr ausgezeichnet; und sogar in <placeName ref="#connewitz">Connewitz</placeName> ist sein prächtiges Haus, wiewohl am
 					<lb n="02"/>ersten Anlaufe gelegen, nicht berührt worden – denn das ist ein Franzos, sag<pc force="weak">-</pc>
 					<lb break="no" n="03"/>ten alle dort Befehlende, als man ihm nur einen Antheil der Einquartierung
 					<lb n="04"/>zuschieben wollte, indeß <abbr>zB.</abbr> selbst auch dem Gute des Polen, <hi rend="italic">Augustowski</hi>, alles
 					<lb n="05"/>verwüstet worde, und zum theil von Polen. In der Stadt wohnt jetzt Marschall
-					<lb n="06"/><persName key="augereau">Augereau</persName> bei <persName key="dufour"><abbr>D.</abbr></persName> <metamark>—</metamark> Unser guter <persName key="stieglitz">Stieglitz</persName> ist, von Anstrengung, seit acht
+					<lb n="06"/><persName ref="#augereau">Augereau</persName> bei <persName ref="#dufour"><abbr>D.</abbr></persName> <metamark>—</metamark> Unser guter <persName ref="#stieglitz">Stieglitz</persName> ist, von Anstrengung, seit acht
 					<lb n="07"/>Tagen krank, und hat so in die Stadt geschafft werden müßen. Er wohnt
-					<lb n="08"/>mit den Seinen bei <persName key="apel">Apel</persName>, der auch das Beste seiner Habe, in wiefern dieß
+					<lb n="08"/>mit den Seinen bei <persName ref="#apel">Apel</persName>, der auch das Beste seiner Habe, in wiefern dieß
 					<lb n="09"/>nicht schon früher zu uns und andern Freunden geschafft war, aufgenom<pc force="weak">-</pc>
 					<lb break="no" n="10"/>men hat. Das Uebrige, und sein schönes Haus, hat er nun zum beliebigen Ge<pc force="weak">-</pc>
-					<lb break="no" n="11"/>brauch offen <del>gelaßen.</del> und leer stehen laßen. <metamark>—</metamark> Der guten <persName key="loehr">Löhr</persName> Woh<pc force="weak">-</pc>
+					<lb break="no" n="11"/>brauch offen <del>gelaßen.</del> und leer stehen laßen. <metamark>—</metamark> Der guten <persName ref="#loehr">Löhr</persName> Woh<pc force="weak">-</pc>
 					<lb break="no" n="12"/>nung in der Stadt, wie ihren Garten, hat man ausgeräumt, und zum ver<pc force="weak">-</pc>
 					<lb break="no" n="13"/>langten, Gebrauch eingerichtet. Alle geräumige Gartenhäuser sind Lazarethe,
 					<lb n="14"/>oder werden eben dazu eingerichtet. Das Löhrsche ist jetzt noch leer. —</p>
@@ -258,7 +258,7 @@
 					<lb break="no" n="30"/>mer wurde. Die Sache selbst bestätigte sich so vollkommen, daß selbst
 					<pb facs="http://digital.slub-dresden.de/id512116717/545" n="3r"/>
 					<lb n="01"/>einer der bei mir wohnenden Commißäre vergeblich sich bemühte, und erklärte,
-					<lb n="02"/>solcher <emph rend="u">gänzlicher</emph> <emph rend="u">Mangel</emph> sei in <placeName key="dresden">Dresden</placeName> auch nicht Einen Tag gewesen. Auch ich
+					<lb n="02"/>solcher <emph rend="u">gänzlicher</emph> <emph rend="u">Mangel</emph> sei in <placeName ref="#dresden">Dresden</placeName> auch nicht Einen Tag gewesen. Auch ich
 					<lb n="03"/>ging aus, und kehrte erst <time when="0830">halb 9 Uhr</time> zu den Meinen zurück, als die Kanonade leb<pc force="weak">-</pc>
 					<lb break="no" n="04"/>haft anfing, und ich, da sie so nahe war, ihre Sorge mindern mußte. Die Ge<pc force="weak">-</pc>
 					<lb break="no" n="05"/>schichte dieses schreckenvollen, höchstblutigen Tages nun will ich Ihnen mit einigen
@@ -271,53 +271,53 @@
 					<lb n="12"/>Drange betrachten, und zur Erklärung eine Specialcharte nehmen.
 				</p>
 				<p xml:id="p.3.2" xml:space="preserve">
-					<lb n="13"/>Die Kanonade begann <time when="0900">gegen 9 Uhr</time> heftiger von den Anhöhen bei <placeName key="libertwolkwitz">Wolk<pc force="weak">-</pc>
+					<lb n="13"/>Die Kanonade begann <time when="0900">gegen 9 Uhr</time> heftiger von den Anhöhen bei <placeName ref="#libertwolkwitz">Wolk<pc force="weak">-</pc>
 					<lb break="no" n="14"/>witz</placeName>, welche die Franzosen ganz innehatten, und welche (als die beste Position
-					<lb n="15"/>von jener Seite) vor den <rs key="CO">Alliirten</rs> einzunehmen, neulich vielleicht zuvörderst jenes
+					<lb n="15"/>von jener Seite) vor den <rs ref="#CO">Alliirten</rs> einzunehmen, neulich vielleicht zuvörderst jenes
 					<lb n="16"/>große Gefecht statt hatte. Sie verblieb da und breitete sich weiter aus nach
-					<lb n="17"/><placeName key="meusdorf">Meusdorf</placeName>, <placeName key="probstheyde">Probstheÿda</placeName>, bis <placeName key="connewitz">Connewitz</placeName>. Infanterie schien wenig zum An<pc force="weak">-</pc>
+					<lb n="17"/><placeName ref="#meusdorf">Meusdorf</placeName>, <placeName ref="#probstheyde">Probstheÿda</placeName>, bis <placeName ref="#connewitz">Connewitz</placeName>. Infanterie schien wenig zum An<pc force="weak">-</pc>
 					<lb break="no" n="18"/>griffe zu kommen; die Cavalerie desto öfter – Anläufe zu thun. Man vermu<pc force="weak">-</pc>
-					<lb break="no" n="19"/>there den <rs key="napoleon">Kaiser</rs> selbst auf diesen Pun<del rend="overwritten">c</del>kten. Die Hauptaffaire lenkte sich <time when="1000">nach
-					<lb n="20"/>10 Uhr</time> mehr nach <placeName key="connewitz">Connewitz</placeName> zu, und entfernte sich allmälig gegen die <placeName key="leipzig.bornaische-str">bornaʼ
-					<lb n="21"/>sche Straße</placeName> hin. Hier hatten also die <rs key="FR"><abbr>Franz<ex>osen</ex><am>.</am></abbr></rs> den entscheidenden Vortheil, und es
-					<lb n="22"/>waren <rs key="AU">Oesterreicher</rs>, die die stehen blieben, aber wieder <rs key="RU">Rußen</rs>, die sich zwar
+					<lb break="no" n="19"/>there den <rs ref="#napoleon">Kaiser</rs> selbst auf diesen Pun<del rend="overwritten">c</del>kten. Die Hauptaffaire lenkte sich <time when="1000">nach
+					<lb n="20"/>10 Uhr</time> mehr nach <placeName ref="#connewitz">Connewitz</placeName> zu, und entfernte sich allmälig gegen die <placeName ref="#leipzig.bornaische-str">bornaʼ
+					<lb n="21"/>sche Straße</placeName> hin. Hier hatten also die <rs ref="#FR"><abbr>Franz<ex>osen</ex><am>.</am></abbr></rs> den entscheidenden Vortheil, und es
+					<lb n="22"/>waren <rs ref="#AU">Oesterreicher</rs>, die die stehen blieben, aber wieder <rs ref="#RU">Rußen</rs>, die sich zwar
 					<lb n="23"/>langsam, <del rend="cancelled">aber</del> doch so<metamark function="word-break">|</metamark> bald zurückzogen.
 				</p>
 				<p xml:id="p.3.3" xml:space="preserve">
 					<lb n="24"/>Indeß aber war man der anderen Seite (<time when="1000">von gegen 10 Uhr an</time>) in und nahe
-					<lb n="25"/>bei <placeName key="leutsch">Leutsch</placeName>, <placeName key="lindenau">Lindenau</placeName>, <placeName key="schoenau">Schönau</placeName> und gegen <placeName key="schocher">Schocher</placeName>, die Kanonade ungleich fürch<pc force="weak">-</pc>
-					<lb break="no" n="26"/>terlicher losgebrochen. Der Schall schien zu verrathen, daß die <rs key="CO">Alliirten</rs> hier mehr
+					<lb n="25"/>bei <placeName ref="#leutsch">Leutsch</placeName>, <placeName ref="#lindenau">Lindenau</placeName>, <placeName ref="#schoenau">Schönau</placeName> und gegen <placeName ref="#schocher">Schocher</placeName>, die Kanonade ungleich fürch<pc force="weak">-</pc>
+					<lb break="no" n="26"/>terlicher losgebrochen. Der Schall schien zu verrathen, daß die <rs ref="#CO">Alliirten</rs> hier mehr
 					<lb n="27"/>und weit gröberes Geschütz besäßen. Gegen 11 Uhr begann auch das klein-Ge<pc force="weak">-</pc>
-					<lb break="no" n="28"/>wehrfeuer. Dieß griff um sich weiter von <placeName key="schoenau">Schönau</placeName>, <placeName key="schocher">Schocher</placeName> und über daßel<pc force="weak">-</pc>
-					<lb break="no" n="29"/>be herüber gegen <placeName key="connewitz">Connewitz</placeName>; der Hauptpun<del rend="overwritten">c</del>kt schien über <placeName key="schocher">Schocher</placeName> hinaus und
-					<lb n="30"/>bei <placeName key="schoenau">Schönau</placeName> zu seÿn. Ohne einen Augenblick Unterbrechung oder auch nur Nachlaß
+					<lb break="no" n="28"/>wehrfeuer. Dieß griff um sich weiter von <placeName ref="#schoenau">Schönau</placeName>, <placeName ref="#schocher">Schocher</placeName> und über daßel<pc force="weak">-</pc>
+					<lb break="no" n="29"/>be herüber gegen <placeName ref="#connewitz">Connewitz</placeName>; der Hauptpun<del rend="overwritten">c</del>kt schien über <placeName ref="#schocher">Schocher</placeName> hinaus und
+					<lb n="30"/>bei <placeName ref="#schoenau">Schönau</placeName> zu seÿn. Ohne einen Augenblick Unterbrechung oder auch nur Nachlaß
 					<lb n="31"/>wurde dieß, so wir die Kanonade, sortgesetzt. Um die Mittagstunde wandelte
-					<lb n="32"/>sich der Hauptpun<del rend="overwritten">c</del>kt weiter gegen <placeName key="schleusig">Schleusig</placeName> <abbr ana="#etc">e⁊</abbr>, mithin schienen die <abbr>Franz<ex>osen</ex><am>.</am></abbr> hier of<pc force="weak">-</pc>
-					<lb break="no" n="33"/>fenbar zu weichen: da brach der <rs key="napoleon">Kaiser</rs> selbst eben von dieser Seite heraus,
+					<lb n="32"/>sich der Hauptpun<del rend="overwritten">c</del>kt weiter gegen <placeName ref="#schleusig">Schleusig</placeName> <abbr ana="#etc">e⁊</abbr>, mithin schienen die <abbr>Franz<ex>osen</ex><am>.</am></abbr> hier of<pc force="weak">-</pc>
+					<lb break="no" n="33"/>fenbar zu weichen: da brach der <rs ref="#napoleon">Kaiser</rs> selbst eben von dieser Seite heraus,
 					<pb facs="http://digital.slub-dresden.de/id512116717/546" n="3v"/>
-					<lb n="01"/>(vom <placeName key="leipzig.petersthor">Petersthore</placeName>) und nun überstieg die Hitze das Feuers aller Art auf diesem
-					<lb n="02"/>Punkte jeden Begriff. Allem Ansehn nach hatten die <rs key="RU">Russen</rs> die Verbindung jenes
-					<lb n="03"/>ersten und dieses dieses zweiten Corps (über <placeName key="connewitz">Connewitz</placeName>, <placeName key="gautzsch">Gautzsch</placeName> <abbr ana="#etc">e⁊</abbr> links) unterhalten
+					<lb n="01"/>(vom <placeName ref="#leipzig.petersthor">Petersthore</placeName>) und nun überstieg die Hitze das Feuers aller Art auf diesem
+					<lb n="02"/>Punkte jeden Begriff. Allem Ansehn nach hatten die <rs ref="#RU">Russen</rs> die Verbindung jenes
+					<lb n="03"/>ersten und dieses dieses zweiten Corps (über <placeName ref="#connewitz">Connewitz</placeName>, <placeName ref="#gautzsch">Gautzsch</placeName> <abbr ana="#etc">e⁊</abbr> links) unterhalten
 					<lb n="04"/>sollen, und nicht, oder zu schwach und zu wenig klug unf beharrlich, unterhalten.
 					<lb n="05"/>Wie es bei der Unbequemlichkeit des Terrains auf jenem Punkte – überall kleine
-					<lb n="06"/>Gehölze, kleine Gewässer – möglich gesorden, daß der <rs key="napoleon">Kaiser</rs>, auch nur
+					<lb n="06"/>Gehölze, kleine Gewässer – möglich gesorden, daß der <rs ref="#napoleon">Kaiser</rs>, auch nur
 					<lb n="07"/>geringen Wuderstand voraus gesetzt, so schnell dort hat ankommen, und mit
 					<lb n="08"/>so großer Macht <del rend="cancelled">hat</del> ankommen können, scheint unbegreiflich und furchtbar
 					<lb n="09"/>groß. <metamark>—</metamark> Mit gleicher Hitze und Gewalt dauerte das Feuer auf diesem Punkte
 					<lb n="10"/>(ohne daß darum irgend ein anderer schwieg) etwa eine Stunde fort; dann lenkte
-					<lb n="11"/>sich der Hauptpunkt sehr langsam wieder <placeName key="zschochau">Schochau</placeName> und <placeName key="schoenau">Schönau</placeName> zu, und dehnte sich
+					<lb n="11"/>sich der Hauptpunkt sehr langsam wieder <placeName ref="#zschochau">Schochau</placeName> und <placeName ref="#schoenau">Schönau</placeName> zu, und dehnte sich
 					<lb n="12"/>weit mehr in die Breite aus. Mithin zeigte sich auch hier der Vortheil zu Gunsten
 					<lb n="13"/>der Franzosen<supplied>.</supplied><ref target="#n3v">*)</ref> Von gegen 2 Uhr an sahen wir von unseren Fenstern durch
 					<lb n="14"/>die Allee 5 oder 6 Regimenter frische Truppen im Eilmarsch und vollkommener
 					<lb n="15"/>Ordnung vorüber, nach dem ranstädter Thore zu, marschiren, welche mithin
-					<lb n="16"/>die Alliirten, von <placeName key="lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> aus, durch brechen und in die Flanke nehmen
+					<lb n="16"/>die Alliirten, von <placeName ref="#lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> aus, durch brechen und in die Flanke nehmen
 					<lb n="17"/>sollten. Gegen 3 Uhr mochten diese zum Gefecht gekommen seÿn: aber
 					<lb n="18"/>auch ein großes Corps frischer österreichischer Regimenter war ange<pc force="weak">-</pc>
 					<lb break="no" n="19"/>kommen, und das Feuer wars gräßlich. Da indeß das Centrum der
 					<lb n="20"/>Alliirten, (wie es schien, eine bis gegen zwei Stunden weit zurückgedrängt
 					<lb n="21"/>worden war, flog der Courier zu unsere<del rend="modified">m</del>n König mit der – Siegespost.
 					<lb n="22"/>Es war einige Minuten vor 4 Uhr. Die Leibgarde bekam, auf des Königs
-					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName key="napoleon">Napoleon</persName> Vivat; der König fuhr in
+					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName ref="#napoleon">Napoleon</persName> Vivat; der König fuhr in
 					<lb n="24"/>die Schloßkapelle, das <hi rend="latin">Te Deum</hi> sich singen zu laßen; von allen Thürmen
 					<lb n="25"/>mußte geläutet werden, bis gegen 5 Uhr.
 					<note place="bottom" xml:id="n3v">
@@ -325,25 +325,25 @@
 						<lb n="27"/>te des Gefechtes aber keineswegs der Fall gewesen ist.</note>
 				</p>
 				<p xml:id="p.3.4" xml:space="preserve">
-					<lb n="27"/>Aber auf jenem Flügel der <rs key="AU">Oesterreicher</rs>, über <placeName key="lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> dauerte das
+					<lb n="27"/>Aber auf jenem Flügel der <rs ref="#AU">Oesterreicher</rs>, über <placeName ref="#lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> dauerte das
 					<lb n="28"/>Gefecht immer mit gleicher Heftigkeit, und ohne im mindesten rück- oder vor<pc force="weak">-</pc>
 					<lb break="no" n="29"/>wärts, oder auch nur zur Seite hin zu weichen, ununterbrochen fort, bis
 					<lb n="30"/>der Abend schon ganz herein gebrochen war. Mit dem Dunkel minderte sich
-					<lb n="31"/>zwar die Kanonade, aber das <term key="peloton">Pelotonfeuer</term> dauerte bis gegen 7 Uhr, und
+					<lb n="31"/>zwar die Kanonade, aber das <term ref="#peloton">Pelotonfeuer</term> dauerte bis gegen 7 Uhr, und
 					<pb facs="http://digital.slub-dresden.de/id512116717/547" n="4r"/>
 					<lb n="01"/>dieser Punkt wurde fest behauptet von beiden Parteien, so wie die Stellung bei Wolk<pc force="weak">-</pc>
-					<lb break="no" n="02"/>witz von den <rs key="AU">Oesterreichern</rs>.</p>
+					<lb break="no" n="02"/>witz von den <rs ref="#AU">Oesterreichern</rs>.</p>
 				<p xml:id="p.3.5" xml:space="preserve">
-					<lb n="03"/>Von dem, was in der Gegend vor dem <placeName key="leipzig.hallesches-thor">halleschen Thore</placeName> geschenen, kann ich, da es
+					<lb n="03"/>Von dem, was in der Gegend vor dem <placeName ref="#leipzig.hallesches-thor">halleschen Thore</placeName> geschenen, kann ich, da es
 					<lb n="04"/>außer meinem Gesichts- <abbr ana="#und">u</abbr> Gehörskreise lag, nichts sagen, als daß ebenfalls den
-					<lb n="05"/>ganzen Tag gefochten, und mit Glück für die <rs key="CO">Alliirten</rs> gefochten worden ist. Hier stan<pc force="weak">-</pc>
-					<lb break="no" n="06"/>den vornämlich <rs key="PR">Preußen</rs>.<ref target="#n4r">*)</ref><note place="bottom" xml:id="n4r"><label>*)</label> Später zeigte sich, daß dieses Glück außerordentlich groß war.</note> Und so bietet das Ganze, scheint es <add place="above">noch</add>, kein Resultat, außer der
-					<lb n="07"/>Bestätigung, daß wo der <rs key="napoleon">Kaiser</rs> selbst ist, alles möglich gemacht wird, daß aber,
+					<lb n="05"/>ganzen Tag gefochten, und mit Glück für die <rs ref="#CO">Alliirten</rs> gefochten worden ist. Hier stan<pc force="weak">-</pc>
+					<lb break="no" n="06"/>den vornämlich <rs ref="#PR">Preußen</rs>.<ref target="#n4r">*)</ref><note place="bottom" xml:id="n4r"><label>*)</label> Später zeigte sich, daß dieses Glück außerordentlich groß war.</note> Und so bietet das Ganze, scheint es <add place="above">noch</add>, kein Resultat, außer der
+					<lb n="07"/>Bestätigung, daß wo der <rs ref="#napoleon">Kaiser</rs> selbst ist, alles möglich gemacht wird, daß aber,
 					<lb n="08"/>um zu einer Entscheidung zu gelangen, morgen, oder, will man erst die Todten be<pc force="weak">-</pc>
 					<lb break="no" n="09"/>graben, übermorgen, von neuem auf allen Punkten rund um die Stadt gekämpft
 					<lb n="10"/>werden muß.</p>
 				<p xml:id="p.3.6" xml:space="preserve">
-					<lb n="11"/>Gegen Abend brachte man den tapfern <persName key="la-tour-maubourg">Latour-Maubourg</persName> herein: ein Fuß ist
+					<lb n="11"/>Gegen Abend brachte man den tapfern <persName ref="#la-tour-maubourg">Latour-Maubourg</persName> herein: ein Fuß ist
 					<lb n="12"/>ihm, vom Schenlen an, weggerißen. Mehrere ebenfalls bedeutende Generale wur<pc force="weak">-</pc>
 					<lb break="no" n="13"/>den, schwer verwundet, hereingebracht. Jetzt (es ist Abends gegen 11 Uhr) sehe ich
 					<lb n="14"/>aus meinen Fenstern die Kette der Wachfeuer, und höre die Chausseen bedeckt
@@ -360,20 +360,20 @@
 					<lb n="21"/>man hin und wieder tief im Blute schreiten muß. Man hat die Schleusen öfnen
 					<lb n="22"/>müßen, um nur dies abzuführen. Man will unter den Verwundeten zum
 					<lb n="23"/>Verwundern viel, und, zum Beweiß der Tapferkeit, viel sehr schwere getroffene
-					<lb n="24"/>Offiziere, übrigens aber im Ganzen mehr <rs key="DE">Deutsche</rs>, als <rs key="FR">Franzosen</rs> bemerken.
-					<lb n="25"/>Man giebt 20000 Mann Verlust an Todten und <add place="above">schwer</add> Verwundeten, von den <rs key="CO">Alliirten</rs>
+					<lb n="24"/>Offiziere, übrigens aber im Ganzen mehr <rs ref="#DE">Deutsche</rs>, als <rs ref="#FR">Franzosen</rs> bemerken.
+					<lb n="25"/>Man giebt 20000 Mann Verlust an Todten und <add place="above">schwer</add> Verwundeten, von den <rs ref="#CO">Alliirten</rs>
 					<lb n="26"/>aber weit mehr, und zugleich sehr viele Gefangene an. Das thun nemlich fran<pc force="weak">-</pc>
 					<lb break="no" n="27"/>zösische Behörden. Von Gefangenen ist indeß noch nichts, außer einigen kleinen
 					<lb n="28"/>Truppen von 50, 60 Mann, eingebracht worden. Wovon sollten sie auch leben?
 					<lb n="29"/>Alle diese Angaben sind übrigens nur nach Gerüchten. Bis jetzt hörte ich, aus<pc force="weak">-</pc>
-					<lb break="no" n="30"/>ser Plänkereien der Vorposten, <rs key="KS">Kosaken</rs> <abbr ana="#udgl">u dgl.</abbr>, gleich früh von 6 Uhr an, kein
-					<lb n="31"/>Feuern. Die <rs key="CO">Alliirten</rs> haben, heißt es, in der Gegend vom <placeName key="leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName key="leipzig.petersthor">Pe<pc force="weak">-</pc>
+					<lb break="no" n="30"/>ser Plänkereien der Vorposten, <rs ref="#KS">Kosaken</rs> <abbr ana="#udgl">u dgl.</abbr>, gleich früh von 6 Uhr an, kein
+					<lb n="31"/>Feuern. Die <rs ref="#CO">Alliirten</rs> haben, heißt es, in der Gegend vom <placeName ref="#leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName ref="#leipzig.petersthor">Pe<pc force="weak">-</pc>
 					<lb break="no" n="32"/>tersthore</placeName> hinaus, das Schlachtfeld in der Nacht verlaßen, und einige Stunden
-					<lb n="33"/>weiter hinaus eine neue Position genommen. Zu <placeName key="connewitz">Connewitz</placeName> war, wie auch
+					<lb n="33"/>weiter hinaus eine neue Position genommen. Zu <placeName ref="#connewitz">Connewitz</placeName> war, wie auch
 					<pb facs="http://digital.slub-dresden.de/id512116717/548" n="4v"/>
-					<lb n="01"/>in <placeName key="lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> mehrmals Feuer, obgleich im erstern Dorfe selbst nicht gefochten
+					<lb n="01"/>in <placeName ref="#lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> mehrmals Feuer, obgleich im erstern Dorfe selbst nicht gefochten
 					<lb n="02"/>wurde. Niemand war da zu löschen, und da durchaus nicht Ein Stück Zugvieh
-					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><abbr ana="#dr">D<am>.</am></abbr></hi> <persName key="hillig">Hilligs</persName> Guth,
+					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><abbr ana="#dr">D<am>.</am></abbr></hi> <persName ref="#hillig">Hilligs</persName> Guth,
 					<lb n="04"/>(Sie kennen ihn ja wohl) deßen Garten an den meinen gränzt, ist danz aus<pc force="weak">-</pc>
 					<lb break="no" n="05"/>gebrannt. Da die Luft still war, hinderten die Gärten die Verbreitung. Mein
 					<lb n="06"/>Haus, soweit es sich nicht stehlen und zum Feuermachen losbrechen läßt, steht noch.</p>
@@ -383,14 +383,14 @@
 				<p xml:id="p.5.1" xml:space="preserve">
 					<lb n="08"/>Der Zustand der Stadt ist schrechlich. Seit die gestrige Schlacht auf dem Mittelpunkt
 					<lb n="09"/>entschieden war, weiß Niemand, selbst kein General, (freilich die ausgenommen,
-					<lb n="10"/>die es wißen sollen,) wo der <rs key="napoleon">Kaiser</rs> ist. Der Gräuel auf den Straßen übersteigt
+					<lb n="10"/>die es wißen sollen,) wo der <rs ref="#napoleon">Kaiser</rs> ist. Der Gräuel auf den Straßen übersteigt
 					<lb n="11"/>allen Begriff; und die Barbarei, womit die Elenden, die noch umherliegen, von
 					<lb n="12"/>ihren französischen Kameraden behandelt werden, noch jenen Gräuel. Ich habe
 					<lb n="13"/>Scenen gesehen, für die ich sonst jeden der sie erzählt hätte, aus Menschengefühl ins
 					<lb n="14"/>Gesicht einen schändlichen Lügner hätte nennen müßen. Ueber die Stadt selbst ist,
 					<lb n="15"/>bis <date>morgen Mittag 12 Uhr</date> eine Convention abgeschloßen worden. Wenigstens
-					<lb n="16"/>sagt man dieß; und die <rs key="PR">Preußen</rs> und <rs key="KS">Kosaken</rs>, die von dem <placeName key="leipzig.hallesches-thor">halleschen Thore</placeName> bis
-					<lb n="17"/>an <placeName key="pfaffendorf">Pfaffendorf</placeName> stehen, dringen nicht ein, sondern haben nur etwa 12 Kanonen<pc force="weak">-</pc>
+					<lb n="16"/>sagt man dieß; und die <rs ref="#PR">Preußen</rs> und <rs ref="#KS">Kosaken</rs>, die von dem <placeName ref="#leipzig.hallesches-thor">halleschen Thore</placeName> bis
+					<lb n="17"/>an <placeName ref="#pfaffendorf">Pfaffendorf</placeName> stehen, dringen nicht ein, sondern haben nur etwa 12 Kanonen<pc force="weak">-</pc>
 					<lb break="no" n="18"/>kugeln hereingeworfen, die auch alle mehr oder weniger Schaden angerichtet
 					<lb n="19"/>haben. Indeß haben alle Bürger, bei angedroherer härtester Strafe, ab<pc force="weak">-</pc>
 					<lb break="no" n="20"/>liefern, müßen, was eine Armee brauchen kann und sie nur für den Au<pc force="weak">-</pc>
@@ -398,20 +398,20 @@
 					<lb n="22"/>Alles, was dazu fähig ist, muß hinaus, zum Schanzen. Die Thore und Straßen
 					<lb n="23"/>der Vorstädte, selbst die einzelnen Häuser der letztern, werden befestigt und
 					<lb n="24"/>vom Militär allein besetzt. Sie sollen bis zum letzen Mann vertheidigt
-					<lb n="25"/>werden. Die <rs key="AU">Oesterreicher</rs> halten ihre Position bei <placeName key="libertwolkwitz">Wolkwitz</placeName> <abbr ana="#etc">e⁊</abbr> Die combinirte
-					<lb n="26"/>Armee zum <placeName key="leipzig.ranstaedter-thor">ranstädter Thore</placeName> hinaus hat eine neue Stellung in derselben
+					<lb n="25"/>werden. Die <rs ref="#AU">Oesterreicher</rs> halten ihre Position bei <placeName ref="#libertwolkwitz">Wolkwitz</placeName> <abbr ana="#etc">e⁊</abbr> Die combinirte
+					<lb n="26"/>Armee zum <placeName ref="#leipzig.ranstaedter-thor">ranstädter Thore</placeName> hinaus hat eine neue Stellung in derselben
 					<lb n="27"/>Gegend, eine gestern, nur einige Stunden entfernter genommen. Indeßen
-					<lb n="28"/>war (<time>gegen 11 Uhr</time>) ein großes französisches Corps den <rs key="RU">Rußen</rs> nach, gegen
-					<lb n="29"/><placeName key="grimma">Grimma</placeName> hin, gezogen. Man hörte unaufhörlich, doch ziemlich entfernt,
+					<lb n="28"/>war (<time>gegen 11 Uhr</time>) ein großes französisches Corps den <rs ref="#RU">Rußen</rs> nach, gegen
+					<lb n="29"/><placeName ref="#grimma">Grimma</placeName> hin, gezogen. Man hörte unaufhörlich, doch ziemlich entfernt,
 					<lb n="30"/>das Geschütz. Jetzt, Abends spät, k<del rend="overwritten">o</del>am<del>m</del>en meine Commißäre daher
 					<lb n="31"/>zurück und sagten, sie haben dort einen großen und harten Kampf gehabt,
 					<pb facs="http://digital.slub-dresden.de/id512116717/549" n="5r"/>
 					<lb n="01"/>aber gesiegt. Haufenweise habe sie weit und breit Todte und Verwundete liegen
-					<lb n="02"/>gesehen. <metamark>—</metamark> Unser <rs key="friedrich-august">König</rs> hat vom <rs key="karl-johann">König von Schweden</rs> einen Parlementär
-					<lb n="03"/>erhalten, und soll seitdem beschloßen haben, <placeName key="leipzig">Leipzig</placeName> schlechterdings nicht zu ver<pc force="weak">-</pc>
-					<lb break="no" n="04"/>laßen. <persName key="napoleon">Napoleon</persName> soll diesen Vormittag von <persName key="alexander">Alexander</persName> <abbr ana="#etc">e⁊</abbr> einen freien Abzug
+					<lb n="02"/>gesehen. <metamark>—</metamark> Unser <rs ref="#friedrich-august">König</rs> hat vom <rs ref="#karl-johann">König von Schweden</rs> einen Parlementär
+					<lb n="03"/>erhalten, und soll seitdem beschloßen haben, <placeName ref="#leipzig">Leipzig</placeName> schlechterdings nicht zu ver<pc force="weak">-</pc>
+					<lb break="no" n="04"/>laßen. <persName ref="#napoleon">Napoleon</persName> soll diesen Vormittag von <persName ref="#alexander">Alexander</persName> <abbr ana="#etc">e⁊</abbr> einen freien Abzug
 					<lb n="05"/>seines Heeres verlangt haben, und dieser ihm auch zu gestanden worden seÿn,
-					<lb n="06"/>wenn er ihn bis <placeName key="erfurt">Erfurt</placeName> nähme, und zugleich <placeName key="wittenberg">Wittenberg</placeName> und <placeName key="torgau">Torgau</placeName> räumte.
+					<lb n="06"/>wenn er ihn bis <placeName ref="#erfurt">Erfurt</placeName> nähme, und zugleich <placeName ref="#wittenberg">Wittenberg</placeName> und <placeName ref="#torgau">Torgau</placeName> räumte.
 					<lb n="07"/>Das Letzte habe er nicht gemacht, und so sei die Unterhandlung abgebrochen wor<pc force="weak">-</pc>
 					<lb break="no" n="08"/>den. <metamark>—</metamark> Welche ein Tag wird uns morgen bevorstehen! —
 				</p>
@@ -420,20 +420,20 @@
 				<dateline n="09">Den 18<hi rend="sup uu">ten</hi>, Vormittags 11 Uhr.</dateline>
 				<p xml:id="p.6.1" xml:space="preserve">
 					<lb n="10"/>Die ganze Nacht hindurch gingen Wagen <abbr ana="#und">u</abbr> Regimenter an unseren Fenstern
-					<lb n="11"/>in der <placeName key="leipzig.catharinenstr">Allee</placeName> vom <placeName key="leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName key="leipzig.petersthor">Petersthore</placeName> hin und dort hinaus. Ich habe
+					<lb n="11"/>in der <placeName ref="#leipzig.catharinenstr">Allee</placeName> vom <placeName ref="#leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName ref="#leipzig.petersthor">Petersthore</placeName> hin und dort hinaus. Ich habe
 					<lb n="12"/>nicht geschlafen. Mit Tagesanbruch hörte man die Kanonade, welche jene
-					<lb n="13"/>Züge zu hindern schien; dann kam sie vom <placeName key="leipzig.hallesches-thor">halleschen Thore</placeName>, und näher, wurde
+					<lb n="13"/>Züge zu hindern schien; dann kam sie vom <placeName ref="#leipzig.hallesches-thor">halleschen Thore</placeName>, und näher, wurde
 					<lb n="14"/>stärker, und endlich fürchterlich stark. Jetzt begann sie in gleicher Weise
-					<lb n="15"/>nach allen vier Thoren hinaus. <persName key="ney">Neÿ</persName> <abbr ana="#und">u</abbr> <persName key="marmont">Marmont</persName> sind <add place="above">vor</add>gestern, selbst nach
-					<lb n="16"/>Aussage der <rs key="FR">Franzosen</rs>, von <rs key="PR">Preußen</rs> und <rs key="SW">Schweden</rs>, auf der Straße von
-					<lb n="17"/>Düben her, geschlagen. <persName key="napoleon">Napoleon</persName> hat die gestrige Schlacht selbst geliefert,
-					<lb n="18"/>um die Höhen gegen und bei <placeName key="grimma">Grimma</placeName> zu gewinnen. Das ist ihm vollkommen
+					<lb n="15"/>nach allen vier Thoren hinaus. <persName ref="#ney">Neÿ</persName> <abbr ana="#und">u</abbr> <persName ref="#marmont">Marmont</persName> sind <add place="above">vor</add>gestern, selbst nach
+					<lb n="16"/>Aussage der <rs ref="#FR">Franzosen</rs>, von <rs ref="#PR">Preußen</rs> und <rs ref="#SW">Schweden</rs>, auf der Straße von
+					<lb n="17"/>Düben her, geschlagen. <persName ref="#napoleon">Napoleon</persName> hat die gestrige Schlacht selbst geliefert,
+					<lb n="18"/>um die Höhen gegen und bei <placeName ref="#grimma">Grimma</placeName> zu gewinnen. Das ist ihm vollkommen
 					<lb n="19"/>gelungen. Er hat nun die Wahl – so weit noch, in solcher Umgebung von
-					<lb n="20"/><emph rend="u">allen</emph> Seiten eine Wahl statt hat – entweder sich, gegen <placeName key="luetzen">Lützen</placeName> <abbr ana="#etc">e⁊</abbr> hin, durch<pc force="weak">-</pc>
+					<lb n="20"/><emph rend="u">allen</emph> Seiten eine Wahl statt hat – entweder sich, gegen <placeName ref="#luetzen">Lützen</placeName> <abbr ana="#etc">e⁊</abbr> hin, durch<pc force="weak">-</pc>
 					<lb break="no" n="21"/>zuschlagen, – was ihm gewiß gelingen wird, da er den Kern seiner gan<pc force="weak">-</pc>
-					<lb break="no" n="22"/>zen Armeen an sich gezogen hat; – oder dort abzuwarten, bis die um <placeName key="leipzig">Leipzig</placeName>
+					<lb break="no" n="22"/>zen Armeen an sich gezogen hat; – oder dort abzuwarten, bis die um <placeName ref="#leipzig">Leipzig</placeName>
 					<lb n="23"/>versammelten Heere ihre Hauptmacht vereinigen und ihn angreifen, wo er
-					<lb n="24"/>dann eine neue Schlacht liefern müßte. <metamark>—</metamark> Von <placeName key="connewitz">Connewitz</placeName> kam ein entflo<pc force="weak">-</pc>
+					<lb n="24"/>dann eine neue Schlacht liefern müßte. <metamark>—</metamark> Von <placeName ref="#connewitz">Connewitz</placeName> kam ein entflo<pc force="weak">-</pc>
 					<lb break="no" n="25"/>hener Knabe herein, der an mich und einige andere Besitzer Botschaft brin<pc force="weak">-</pc>
 					<lb break="no" n="26"/>gen mußte. Die Barbaren – sie zünden, jeder Trupp, indem er aus<pc force="weak">-</pc>
 					<lb break="no" n="27"/>zieht, das Haus an, das ihn diese Tage geschützt hat; sie sagen, es geschähe
@@ -448,7 +448,7 @@
 					<lb n="03"/>winzige auf die Straße heraus, die nur noch gebließen ist. Von Schlaflo<pc force="weak">-</pc>
 					<lb break="no" n="04"/>sichkeit, körperlicher Anstrengung und innerer Bewegung fühle ich mich, wie
 					<lb n="05"/>an allen Gliedern gelähmt. <metamark>—</metamark> Es schlägt <time>12 Uhr</time>. Gott, welch ein Krachen der
-					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! – Der <rs key="friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
+					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! – Der <rs ref="#friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
 					<lb break="no" n="07"/>tet. Vor den Thoren haben sich überall mit Eins die Passagen der Züge ge<pc force="weak">-</pc>
 					<lb break="no" n="08"/>sperrt: mit Brüllen <abbr ana="#und">u</abbr> Toben sammelt sich alles auf den Straßen, in der
 					<lb n="09"/>Allee <abbr ana="#etc">e⁊</abbr> Das Feuer des kleinen Gewehrs vor den äußern Thoren beginnt
@@ -458,10 +458,10 @@
 			<div n="7" xml:id="div.7">
 				<dateline n="11">Nachmittags 5 Uhr.</dateline>
 				<p xml:id="p.7.1" xml:space="preserve">
-					<lb n="12"/>Welche eine Unterbrechung! Vom <placeName key="leipzig.hallesches-thor">halleschen Thor</placeName> her warf man, man sagt,
-					<lb n="13"/>nur acht – Bomben in die Stadt, und gleich eine der ersten fiel in <rs key="leipzig.klostergasse.162">das Haus,
+					<lb n="12"/>Welche eine Unterbrechung! Vom <placeName ref="#leipzig.hallesches-thor">halleschen Thor</placeName> her warf man, man sagt,
+					<lb n="13"/>nur acht – Bomben in die Stadt, und gleich eine der ersten fiel in <rs ref="#leipzig.klostergasse.162">das Haus,
 					<lb n="14"/>wo ich wohne</rs>, schlug durch, zersprang in der Küche, eine Treppe über mir, bei
-					<lb n="15"/><persName key="riquet">Riquets</persName>, zerschmetterte Heerd <abbr ana="#etc">e⁊</abbr> verwundete die Dienstboten und verbreitete
+					<lb n="15"/><persName ref="#riquet">Riquets</persName>, zerschmetterte Heerd <abbr ana="#etc">e⁊</abbr> verwundete die Dienstboten und verbreitete
 					<lb n="16"/>Dampf und Pulvergeruch augenblicklich durch das ganze Haus. Die eigne Art
 					<lb n="17"/>dieses Krachens, die Besorgnis in den ersten Momenten, daß die Bombe weiter
 					<lb n="18"/>im Verborgenen gezündet habe; die länger dauernde, daß ihr mehrere folgen
@@ -476,26 +476,26 @@
 					<lb n="27"/>zündeten aber sämtlich nicht. Soviel ich bis jetzt erfahren habe, haben über<pc force="weak">-</pc>
 					<lb break="no" n="28"/>haupt nur einige gezündet, nicht in meiner Nahe, und so, daß gleich wieder
 					<lb n="29"/>gelöscht werden konnte. <metamark>—</metamark> Indeß ist, seit etwa <time>vier Uhr</time>, die Kanonade
-					<lb n="30"/>almählig verstummt, (man war zu nahe <term key="handgemein">handgemein</term>) auch das Feuer des
+					<lb n="30"/>almählig verstummt, (man war zu nahe <term ref="#handgemein">handgemein</term>) auch das Feuer des
 					<lb n="31"/>kleinen Gewehrs ist schwächer geworden, hat sich mehr entfernt, und nun, seit
 					<pb facs="http://digital.slub-dresden.de/id512116717/551" n="6r"/>
-					<lb n="01"/><time>halb 5 Uhr</time> hört es fast ganz auf, die Passage der Flüchtenden zum <placeName key="leipzig.ranstaedter-thor">ranstädter
-					<lb n="02"/>Thore</placeName> hinaus ward wieder offen, die Officiere im <placeName key="leipzig.klostergasse.162">Kloster</placeName> kehrten eben zu<pc force="weak">-</pc>
+					<lb n="01"/><time>halb 5 Uhr</time> hört es fast ganz auf, die Passage der Flüchtenden zum <placeName ref="#leipzig.ranstaedter-thor">ranstädter
+					<lb n="02"/>Thore</placeName> hinaus ward wieder offen, die Officiere im <placeName ref="#leipzig.klostergasse.162">Kloster</placeName> kehrten eben zu<pc force="weak">-</pc>
 					<lb break="no" n="03"/>rück, und trugen noch einen General herein mit seinem Adjutanten, die beide
 					<lb n="04"/>schwer verwundet sind, und die sich nicht nennen. Ich kann nicht aus dem Hause und
 					<lb n="05"/>folglich Niemand sprechen: so weiß ich mit dann jene seltsame Erscheinung nicht
 					<lb n="06"/>anders zu erklären, als, daß die combinirten Heere um die Stadt sich wirklich,
 					<lb n="07"/>vielleicht bis auf Observationscorps, zurückziehen, vereinigen, und so dem
-					<lb n="08"/><rs key="napoleon">Kaiser</rs> gegen <placeName key="grimma">Grimma</placeName> entgegengehen. Es ist dieser Augenblick mithin wohl
+					<lb n="08"/><rs ref="#napoleon">Kaiser</rs> gegen <placeName ref="#grimma">Grimma</placeName> entgegengehen. Es ist dieser Augenblick mithin wohl
 					<lb n="09"/>nichts mehr zu fürchten: aber Hunger und Noth dauern nun länger, und dann ha<pc force="weak">-</pc>
-					<lb break="no" n="10"/>ben wir doch diese Scenen nochmals zu erleben, wofern nicht <persName key="napoleon"><abbr>Nap<ex>oleon</ex><am>.</am></abbr></persName> geschlagen wird,
+					<lb break="no" n="10"/>ben wir doch diese Scenen nochmals zu erleben, wofern nicht <persName ref="#napoleon"><abbr>Nap<ex>oleon</ex><am>.</am></abbr></persName> geschlagen wird,
 					<lb n="11"/>oder in dieser Nacht jenen Rückzug antritt, und dann wahrscheinlich, was
 					<lb n="12"/>hier steht, sich zu Gefanenen ergiebt. <metamark>—</metamark> Meine gute Frau ist, vornämlich
 					<lb n="13"/>von jenem Schrecken, ganz erschöpft, und doch nicht zur Ruhe zu bringen, da
 					<lb n="14"/>die innere Bewegung sie nicht einmal einige Minuten sitzen <del rend="overwritten">f</del>läßt. Wahrlich,
 					<lb n="15"/>das Schicksal giebt uns beiden jetzt vieles zu schmecken. <metamark>—</metamark> Da es jetzt dunkel
-					<lb n="16"/>wird, siehet man mehrere nahe Dörfer brennen; unter den nächsten, <placeName key="schoenfeld">Schön<pc force="weak">-</pc>
-					<lb break="no" n="17"/>feld</placeName> und <placeName key="pfaffendorf">Pfaffendorf</placeName>. <metamark>—</metamark> Es sind jetzt ganz zuverläßig mehr Kranke und Ver<pc force="weak">-</pc>
+					<lb n="16"/>wird, siehet man mehrere nahe Dörfer brennen; unter den nächsten, <placeName ref="#schoenfeld">Schön<pc force="weak">-</pc>
+					<lb break="no" n="17"/>feld</placeName> und <placeName ref="#pfaffendorf">Pfaffendorf</placeName>. <metamark>—</metamark> Es sind jetzt ganz zuverläßig mehr Kranke und Ver<pc force="weak">-</pc>
 					<lb break="no" n="18"/>wundete, als gewöhnliche Einwohner, in der Stadt.
 				</p>
 				<metamark style="hr" function="separator"/>
@@ -509,24 +509,24 @@
 					<lb break="no" n="22"/>troster will ich dem entgegengehn, was uns heute betreffen wird. Vor mei<pc force="weak">-</pc>
 					<lb break="no" n="23"/>nem Fenster, längs der Promenade, hin, und wohl rund um die innern Thore,
 					<lb n="24"/>brennen noch die Wachfeuer; die Truppen sind in Bewegung; was noch hier<del>s</del>
-					<lb n="25"/>ist – und deßen ist nicht wenig – scheint sich vornämlich noch dem <placeName key="leipzig.ranstaedter-thor">ranstädter
-					<lb n="26"/>Thore</placeName> zu drängen. Die Linie der <rs key="CO">Alliirten</rs> steht noch, wie meine Einquar<pc force="weak">-</pc>
-					<lb break="no" n="27"/>tierten eben erfahren, von <placeName key="gohlis">Gohlis</placeName>, <placeName key="euteritzsch">Euteritzsch</placeName>, <placeName key="schoenfeld">Schönfeld</placeName>, bis – über <placeName key="libertwolkwitz">Wolk<pc force="weak">-</pc>
-					<lb break="no" n="28"/>witz</placeName> hin – nach <placeName key="connewitz">Connewitz</placeName>. Danach h<choice><orig>a</orig><corr>ä</corr></choice>lt sie die Strasen, auf welchen von hier
-					<lb n="29"/>aus Verstärkung gegen <placeName key="grimma">Grimma</placeName> gehen könnte, besetzt, und bleibt zugleich,
-					<lb n="30"/>bis auf Weiteres, durchaus Meister von <placeName key="leipzig">Leipzig</placeName>. Napoleon muß schon bei
-					<lb n="31"/>seiner ersten  Ankunft in <placeName key="leipzig">Leipzig</placeName> jene Stellung beabsichtigt haben, die freilich
+					<lb n="25"/>ist – und deßen ist nicht wenig – scheint sich vornämlich noch dem <placeName ref="#leipzig.ranstaedter-thor">ranstädter
+					<lb n="26"/>Thore</placeName> zu drängen. Die Linie der <rs ref="#CO">Alliirten</rs> steht noch, wie meine Einquar<pc force="weak">-</pc>
+					<lb break="no" n="27"/>tierten eben erfahren, von <placeName ref="#gohlis">Gohlis</placeName>, <placeName ref="#euteritzsch">Euteritzsch</placeName>, <placeName ref="#schoenfeld">Schönfeld</placeName>, bis – über <placeName ref="#libertwolkwitz">Wolk<pc force="weak">-</pc>
+					<lb break="no" n="28"/>witz</placeName> hin – nach <placeName ref="#connewitz">Connewitz</placeName>. Danach h<choice><orig>a</orig><corr>ä</corr></choice>lt sie die Strasen, auf welchen von hier
+					<lb n="29"/>aus Verstärkung gegen <placeName ref="#grimma">Grimma</placeName> gehen könnte, besetzt, und bleibt zugleich,
+					<lb n="30"/>bis auf Weiteres, durchaus Meister von <placeName ref="#leipzig">Leipzig</placeName>. Napoleon muß schon bei
+					<lb n="31"/>seiner ersten  Ankunft in <placeName ref="#leipzig">Leipzig</placeName> jene Stellung beabsichtigt haben, die freilich
 					<lb n="32"/>nicht nur an sich trefflich für <emph rend="u">solch</emph> <emph rend="u">eine</emph> Armee, sondern auch noch nicht ganz
 					<pb facs="http://digital.slub-dresden.de/id512116717/552" n="6v"/>
 					<lb n="01"/>ausgezehrt, und überdieß ein Hauptschlüßel zu einem Ausweg in der Noth.
 					<lb n="02"/>Von den Höhen dort kann er seine schwächere Artillerie gegen die stärkere und
-					<lb n="03"/><emph rend="u">schwerere</emph> der <rs key="CO">Alliirten</rs> mit Vortheil brauchen; seine, mit Ausschluß weniger Regi<pc force="weak">-</pc>
+					<lb n="03"/><emph rend="u">schwerere</emph> der <rs ref="#CO">Alliirten</rs> mit Vortheil brauchen; seine, mit Ausschluß weniger Regi<pc force="weak">-</pc>
 					<lb break="no" n="04"/>menter, ganz schlechte Cavalerie hindert ihn dort weniger, und die Gegner
 					<lb n="05"/>können ihre ebenso so zahlreiche, als treffliche, nicht entfalten; seine gewaltige In<pc force="weak">-</pc>
 					<lb break="no" n="06"/>fanterie hingegen kann dort m<choice><orig>a</orig><corr>ä</corr></choice>chtig wirken. <metamark>—</metamark> Uebrigens habe ich mit den
 					<lb n="07"/>Meinen heute nur noch einige Stückchen Brodt von unserem Vorrath; zu erlangen
 					<lb n="08"/>ist, wie es nicht durchaus seÿn kann, nicht das Geringste: so müßen wir es denn
-					<lb n="09"/>wohl ohne Brodt <del>vergeßen</del> versuchen! Meiner Einquartierung habe ichʼs <term key="anhelfen">ange-</term>
+					<lb n="09"/>wohl ohne Brodt <del>vergeßen</del> versuchen! Meiner Einquartierung habe ichʼs <term ref="#anhelfen">ange-</term>
 					<lb n="10"/>und sie will sich in diesem Betracht selbst helfen.
 				</p>
 			</div>
@@ -535,7 +535,7 @@
 				<p n="1" xml:id="p.9.1" xml:space="preserve">
 					<lb n="12"/>Seit ich jenes schrieb, bis nach jetzt, gehet ein ununterbrochener Zug, meist
 					<lb n="13"/>Cavalerie und Munition, in möglichster Eil vor meinen Fenstern vorüber nach
-					<lb n="14"/>dem <placeName key="leipzig.ranstaedter-thor">ranstädter Thore</placeName>; auch fallen schon viele, doch nur noch vereinzelte Schüße.
+					<lb n="14"/>dem <placeName ref="#leipzig.ranstaedter-thor">ranstädter Thore</placeName>; auch fallen schon viele, doch nur noch vereinzelte Schüße.
 					<lb n="15"/>Wir hofften, heute frei zu bleiben: sollten wir uns getäuscht haben? <metamark>—</metamark> Es gab
 					<lb n="16"/>mir einen wahren Genuß, diese zwei Stunden an meinem gewohnten
 					<lb n="17"/>Schreibtische zuzubringen – was ich seit einigen Tagen nicht wagen durfte:
@@ -547,7 +547,7 @@
 					<lb n="23"/>theilten, in diesen Tagen der Gefahr <emph rend="u">Niemand</emph> sich um uns bekümmert, als der
 					<lb n="24"/>ehrliche Magister Schneider, der uns seine Schwester anvertraute und nur
 					<lb n="25"/>ab- und zuging. Mein Bruder, der seine 5 Kinder, und noch 2 seines
-					<lb n="26"/>Freundes aus <placeName key="lindenau">Lindenau</placeName>, zu schützen hat, kann nicht aus dem Hause. Für
+					<lb n="26"/>Freundes aus <placeName ref="#lindenau">Lindenau</placeName>, zu schützen hat, kann nicht aus dem Hause. Für
 					<lb n="27"/>Geld ist kein Beistand zu haben; und da ich nun keinen männlichen Bedien<pc force="weak">-</pc>
 					<lb break="no" n="28"/>ten habe, und die Jungmagd schwächlich ist: so werde ich derb angreifen müs<pc force="weak">-</pc>
 					<lb break="no" n="29"/>sen, um wenigstens Einiges so zu ordnen, daß es bei Feuer leichter gerettet wer<pc force="weak">-</pc>
@@ -571,19 +571,19 @@
 					<lb n="10"/>die Wohnung, theils von dieser in den Keller zu räumen. Was vermag der Mensch,
 					<lb n="11"/>wenn er <emph rend="u">muß</emph>! Ich habe getragen, was ich nun kaum rücken kann. <metamark>—</metamark> Dieß Ge<pc force="weak">-</pc>
 					<lb break="no" n="12"/>schäft war kaum begonnen, als, fast zu Einem Male, die Kanonade von allen
-					<lb n="13"/>Thoren gräßlicher, als je, begann. Unser <rs key="friedrich-august">König</rs> sandte an seinen <rs key="karl-johann">schwedischen
+					<lb n="13"/>Thoren gräßlicher, als je, begann. Unser <rs ref="#friedrich-august">König</rs> sandte an seinen <rs ref="#karl-johann">schwedischen
 					<lb n="14"/>Bruder</rs>, mit Bitte, der Stadt zu schonen: dieser versprach es, so weit es der
-					<lb n="15"/>Operationsplan irgend zulasse; nur möge man sorgen, daß nicht die <rs key="FR">Franzo<pc force="weak">-</pc>
+					<lb n="15"/>Operationsplan irgend zulasse; nur möge man sorgen, daß nicht die <rs ref="#FR">Franzo<pc force="weak">-</pc>
 					<lb break="no" n="16"/>sen</rs>, vor ihrem Abzuge, die Stadt anzündeten. Kaum war dieser halbe ode<unclear>r</unclear>
-					<lb n="17"/>Viertelstrust bekannt geworden, als ich, aus meinem Fenster, <persName key="napoleon">Napoleon</persName>, im schlech<pc force="weak">-</pc>
-					<lb break="no" n="18"/>ten, kotbesprützten Oberrock, an seiner Seite der <rs key="murat">König von Neapel</rs>, wie stets,
+					<lb n="17"/>Viertelstrust bekannt geworden, als ich, aus meinem Fenster, <persName ref="#napoleon">Napoleon</persName>, im schlech<pc force="weak">-</pc>
+					<lb break="no" n="18"/>ten, kotbesprützten Oberrock, an seiner Seite der <rs ref="#murat">König von Neapel</rs>, wie stets,
 					<lb n="19"/>im <del>Ornat</del> Glanz, beide begleitet vom ganzen großen Rest ihrer Garden zu Pferde,
 					<lb n="20"/>vorüberreiten sahe. Sie ritten nach allen Thoren: durch keins war zu dringen,
 					<lb n="21"/>wenn sie nämlich das wollten; überhaupt aber an keinem weiter etwas zu ord<pc force="weak">-</pc>
 					<lb break="no" n="22"/>nen[?], als was ohnehin geschahe, die grimmigste Vertheidigung. Woher er gekom<pc force="weak">-</pc>
 					<lb break="no" n="23"/>men, wußte Niemand, so wie <emph rend="u">noch</emph> <emph rend="u">jetzt</emph> Niemand recht weiß, wo er geblieben. (Nach 11 Uhr
 					<lb n="24"/>will man ihn noch in der Stadt gesehen haben; nach 10 Uhr habʼ ich ihn selbst gesehen.) Er machte
-					<lb n="25"/>mit <persName key="murat">Mürat</persName> dem <rs key="friedrich-august">König</rs> einen kleinen Besuch. <metamark>—</metamark> Ungeheuer war nun, als Napoleon
+					<lb n="25"/>mit <persName ref="#murat">Mürat</persName> dem <rs ref="#friedrich-august">König</rs> einen kleinen Besuch. <metamark>—</metamark> Ungeheuer war nun, als Napoleon
 					<lb n="26"/>nicht mehr gesehen wurde, der Tumult des französischen Fuhrwesens in den Straßen,
 					<lb n="27"/>auf den Promenaden <abbr ana="#etc">e⁊</abbr> Alles wollte, und nichts konnte fort. Jetzt schien ein Posten
 					<lb n="28"/>sich durchgehauen zu haben; alles eilte vor und nach: er ward zurückgeworfen, und
@@ -594,28 +594,28 @@
 					<pb facs="http://digital.slub-dresden.de/id512116717/554" n="7v"/>
 					<lb n="01"/>und Flintenkugeln fielen in den Hof. Jetzt gab ich dem Bitten der Meinen nach und
 					<lb n="02"/>ging mit hinunter in das Riquetsche Gewölbe<!--?-->, das bombenfest und sehr geräuming ist.
-					<lb n="03"/>Das ganze Personale der Einwohner des <placeName key="leipzig.klostergasse.162">Klosters</placeName> war hier schon versammelt, und es
+					<lb n="03"/>Das ganze Personale der Einwohner des <placeName ref="#leipzig.klostergasse.162">Klosters</placeName> war hier schon versammelt, und es
 					<lb n="04"/>war nicht schwer, während wir hier, in der almählig <del>mit</del> zur Stickluft sich umsetzen<pc force="weak">-</pc>
-					<lb break="no" n="05"/>den Atmosphäre verweilten, Materialien zu einem Gegenstück von <persName key="rabener">Rabeners</persName> Brie<pc force="weak">-</pc>
+					<lb break="no" n="05"/>den Atmosphäre verweilten, Materialien zu einem Gegenstück von <persName ref="#rabener">Rabeners</persName> Brie<pc force="weak">-</pc>
 					<lb break="no" n="06"/>fe zu sammeln. In meinem Kopfe schwärmt vieles darüber; aber ich habe <add place="above">jetzt</add> weder
 					<lb n="07"/>Zeit, noch Laune, es darzustellen. <metamark>—</metamark> Unter den Anwesenden war dann auch
-					<lb n="08"/>der würtenbergische Oberstleutnant <persName key="schoemlin"><abbr>v<ex>on</ex><am>.</am></abbr> Schömlin</persName>, der Generalzahlmeister jenes
+					<lb n="08"/>der würtenbergische Oberstleutnant <persName ref="#schoemlin"><abbr>v<ex>on</ex><am>.</am></abbr> Schömlin</persName>, der Generalzahlmeister jenes
 					<lb n="09"/>Corps, ein sehr gebildeter Mann meiner Bekanntschaft, der mir über den Zusam<pc force="weak">-</pc>
 					<lb break="no" n="10"/>menhang dieses, <emph rend="u">allen</emph> unerwarteten <add place="above">schnellen</add> Sturms einige nahere Notizen gab. Die Al<pc force="weak">-</pc>
 					<lb break="no" n="11"/>liirten, uns um es kurz zu sagen, haben es zu jener Schlacht eigentlich gar nicht kommen
 					<lb n="12"/>laßen, sondern mit ungeheuerer Eile und Anstrengung gegen alle Corps im
-					<lb n="13"/>Einzelnen gefochten, so daß die Vereinigung nicht statt haben, und der <rs key="napoleon">Kaiser</rs> das
+					<lb n="13"/>Einzelnen gefochten, so daß die Vereinigung nicht statt haben, und der <rs ref="#napoleon">Kaiser</rs> das
 					<lb n="14"/>kühne, trotzige Project aufgeben mußte. Zu der kurzen Unterredung mit unserem
 					<lb n="15"/>Könige hat er, offenbar abfällig, laut genug erklärt: wenn man ihm anmuthe,
-					<lb n="16"/>gegen die Ehre zu handeln, so werde er schlagen, und wenn er nur nach hundert <term key="reuter">Reu<pc force="weak">-</pc>
+					<lb n="16"/>gegen die Ehre zu handeln, so werde er schlagen, und wenn er nur nach hundert <term ref="#reuter">Reu<pc force="weak">-</pc>
 					<lb break="no" n="17"/>ter</term> hätte. Dieß erzählten wenigstens, die es wißen konnten.
 				</p>
 				<p xml:id="p.10.3" xml:space="preserve">
-					<lb n="18"/>Indeßen dauerten Kanonade und <term key="peloton">Palatanfeuer</term> fürchterlich, ganz in der Nähe der
+					<lb n="18"/>Indeßen dauerten Kanonade und <term ref="#peloton">Palatanfeuer</term> fürchterlich, ganz in der Nähe der
 					<lb n="19"/>(verschanzten, verpallisadirten, mit Gräben verwahrten) äußerer Wehr fort.
 					<lb n="20"/>Viele Kugeln fielen in die Stadt, und stifteten viel Unglück aller Ort. In den
-					<lb n="21"/>Vorstädten plünderten die <rs key="FR">Franzosen</rs>. Ganzen Theile der Vorstädte wurden, mit
-					<lb n="22"/>und ohne Willen derselben, verwüstet. In <rs key="leipzig.catharinenstr.415">meiner Frauen Hause in der Catharinenstraße</rs>
+					<lb n="21"/>Vorstädten plünderten die <rs ref="#FR">Franzosen</rs>. Ganzen Theile der Vorstädte wurden, mit
+					<lb n="22"/>und ohne Willen derselben, verwüstet. In <rs ref="#leipzig.catharinenstr.415">meiner Frauen Hause in der Catharinenstraße</rs>
 					<lb n="23"/>(wo die Gemählde sind) schlug eine Granate den Erker zum Theil herunter. Drei Häu<pc force="weak">-</pc>
 					<lb break="no" n="24"/>ser davor ging Feuer auf. Ich, und Niemand, könnte helfen. Ich weiß noch jetzt
 					<lb n="25"/>nicht, was dort alles zu Grunde gerichtet ist. Ueberhaupt habe ich noch gar keine Nach<pc force="weak">-</pc>
@@ -626,15 +626,15 @@
 					<lb n="30"/>Zetergeschrei. Es zog vor dem Hause vorüber; ein wilder Tumult folgte, durch den
 					<pb facs="http://digital.slub-dresden.de/id512116717/555" n="8r"/>
 					<lb n="01"/>man dann einzelne Männerstimmen vernahm<del>t</del>: es war errungen – das er<pc force="weak">-</pc>
-					<lb break="no" n="02"/>ste Corps <rs key="PR">Preußen</rs>, Infanterie, mit einem Trupp <rs key="KS">Kosaken</rs>, drang jauchzend, aber
+					<lb break="no" n="02"/>ste Corps <rs ref="#PR">Preußen</rs>, Infanterie, mit einem Trupp <rs ref="#KS">Kosaken</rs>, drang jauchzend, aber
 					<lb n="03"/>anständig, die Straße herauf. Eine seltsame Wendung machte, daß die ersten
-					<lb n="04"/>dieser Sieger, und dann das ganze Haupt<choice><orig>chor</orig><corr>corps</corr></choice> der <rs key="PR">preußischen</rs> Infanterie, eben
-					<lb n="05"/><emph rend="u">bei</emph> <emph rend="u">mir</emph> zum <placeName key="leipzig.barfuesser-pforte">Barfüßerpförtchen</placeName> hereinkam. Gleich an dem äußern <rs key="leipzig.ranstaedter-thor">ran<pc force="weak">-</pc>
-					<lb break="no" n="06"/>städter Thore</rs> nämlich hatten die <rs key="FR">Franzosen</rs> noch zwei Batterien von gewalti<pc force="weak">-</pc>
-					<lb break="no" n="07"/>ger Kraft; selbst zwei <term key="vierundzwanzigpfuender">24pfünder</term> waren darunter. Nach vierstündigem
-					<lb n="08"/>Kampfe dort <del>hinunter</del> hinaus setzt man beim <placeName key="leipzig.kuhthurm">Kuhthurm</placeName> durch die, eben jetzt vor<pc force="weak">-</pc>
+					<lb n="04"/>dieser Sieger, und dann das ganze Haupt<choice><orig>chor</orig><corr>corps</corr></choice> der <rs ref="#PR">preußischen</rs> Infanterie, eben
+					<lb n="05"/><emph rend="u">bei</emph> <emph rend="u">mir</emph> zum <placeName ref="#leipzig.barfuesser-pforte">Barfüßerpförtchen</placeName> hereinkam. Gleich an dem äußern <rs ref="#leipzig.ranstaedter-thor">ran<pc force="weak">-</pc>
+					<lb break="no" n="06"/>städter Thore</rs> nämlich hatten die <rs ref="#FR">Franzosen</rs> noch zwei Batterien von gewalti<pc force="weak">-</pc>
+					<lb break="no" n="07"/>ger Kraft; selbst zwei <term ref="#vierundzwanzigpfuender">24pfünder</term> waren darunter. Nach vierstündigem
+					<lb n="08"/>Kampfe dort <del>hinunter</del> hinaus setzt man beim <placeName ref="#leipzig.kuhthurm">Kuhthurm</placeName> durch die, eben jetzt vor<pc force="weak">-</pc>
 					<lb break="no" n="09"/>sumpften Wiesen, wirft hier alles, was sich entgegenstellt, nieder, dringt seitwärts
-					<lb n="10"/>vor, und könnt so in – <placeName key="leipzig.reichels-garten">Reichels</placeName> und die benachbarten Gärten, wo man
+					<lb n="10"/>vor, und könnt so in – <placeName ref="#leipzig.reichels-garten">Reichels</placeName> und die benachbarten Gärten, wo man
 					<lb n="11"/>auf allen Brücken herüber, und dann, nach gesprengter Pforte, bei den Bar<pc force="weak">-</pc>
 					<lb break="no" n="12"/>füßern hereinströmt. <ref target="#n8r">*)</ref>
 					<note place="bottom" xml:id="n8r">
@@ -643,10 +643,10 @@
 					</note>
 				</p>
 				<p xml:id="p.10.4" xml:space="preserve">
-					<lb n="13"/>So wie die ersten <rs key="PR">Preußen</rs> wirklich vor meiner Wohnung gesehen worden wa<pc force="weak">-</pc>
+					<lb n="13"/>So wie die ersten <rs ref="#PR">Preußen</rs> wirklich vor meiner Wohnung gesehen worden wa<pc force="weak">-</pc>
 					<lb break="no" n="14"/>ren, eilte ich hinaus, und ehe ich <add place="above">noch</add> zum Fenster kam, hörte ich den tausendmal ver<pc force="weak">-</pc>
 					<lb break="no" n="15"/>nommenen Marsch der Jagdhörner des preußischen freiwilligen Corps, wor<pc force="weak">-</pc>
-					<lb break="no" n="16"/>unter <persName key="koerner">Körner</persName>, <persName key="goeschen">Göschen</persName>,  <abbr ana="#etc">e⁊</abbr> waren. Wie seltsam spielen unsere Sinne mit
+					<lb break="no" n="16"/>unter <persName ref="#koerner">Körner</persName>, <persName ref="#goeschen">Göschen</persName>,  <abbr ana="#etc">e⁊</abbr> waren. Wie seltsam spielen unsere Sinne mit
 					<lb n="17"/>uns, auch in Momenten hoher Ernstes und geistiger Spannung! Ich wußte ja,
 					<lb n="18"/>was ich schon würde; ich sahʼ es ja noch nicht einmal: und diese wohlbekannten
 					<lb n="19"/>Töne, die es mir verkündigten – nein, kein Wort bezeichnet den Eindruck, den
@@ -662,9 +662,9 @@
 					<lb n="29"/>vor meinen Fenster und den gestohlnen Heerden alles preisgegeben ward <abbr ana="#etc">e⁊</abbr>
 					<lb n="30"/>So hatten sich doch in Häusern, in den Zwingern, in die Gärten, anlagen <abbr ana="#etc">e⁊</abbr> selbst in unser
 					<pb facs="http://digital.slub-dresden.de/id512116717/556" n="8v"/>
-					<lb n="01"/>winziges Gärtchen am Hause und in deßen kleines Lusthaus, <rs key="FR">Franzosen</rs> verstecke, und feuer<pc force="weak">-</pc>
+					<lb n="01"/>winziges Gärtchen am Hause und in deßen kleines Lusthaus, <rs ref="#FR">Franzosen</rs> verstecke, und feuer<pc force="weak">-</pc>
 					<lb break="no" n="02"/>ten keck und mit größter Todesverachtung, wo sie glaubten, etwas erreichen zu können.
-					<lb n="03"/>Ja selbst in dieser Stunde <term key="plaenkern">plänkern</term> von den Gärten, Wiesen <abbr ana="#etc">e⁊</abbr> immerfort einzelne
+					<lb n="03"/>Ja selbst in dieser Stunde <term ref="#plaenkern">plänkern</term> von den Gärten, Wiesen <abbr ana="#etc">e⁊</abbr> immerfort einzelne
 					<lb n="04"/>Schüsse, und es ist doch rabenfinstere Nacht, und solch ein Kerl siehet seinen Tod vor Augen,
 					<lb n="05"/>dem er entkommen könnte, ohne nun ein Schuft zu heißen! —
 				</p>
@@ -676,24 +676,24 @@
 					<lb break="no" n="10"/>gen mußten. Das letzte thaten die Sachsen ebenfalls, und, wie wenigstens Jederma<g ana="#lig-nn">nn</g>
 					<lb n="11"/>behauptet und es auch höchstswahrscheinlich ist, ohne Wissen und Wollen des Königs. Das
 					<lb n="12"/>Stadtvolk nahm sich gut: es war froh, aber nicht vorlaut, noch viel weniger in irgend
-					<lb n="13"/>einer Weise <term key="excediren">excedirend</term>. Aber Unbekannte drückten einander die Hand, flüsterten
+					<lb n="13"/>einer Weise <term ref="#excediren">excedirend</term>. Aber Unbekannte drückten einander die Hand, flüsterten
 					<lb n="14"/>einander Trostes-, Freudenworte zu; man reichte Lebensmittel, wo man auch etwas hatte;
 					<lb n="15"/>Man dankte Gott. <metamark>—</metamark> Alles Militär, soweit ich habe sehen und soweit ich habe erfahren
-					<lb n="16"/>können, hat sich musterhaft benommen. Ich kann nur von der <rs key="PR">preußischen</rs> und <rs key="RU">rus<pc force="weak">-</pc>
-					<lb break="no" n="17"/>sischen</rs> Infanterie sprechen, die, wie gesagt, unter meinen Fenstern in der <placeName key="leipzig.klostergasse">Klostergaße</placeName>
-					<lb n="18"/>dahinzog, um – nicht sowohl im Eilmarsch, als vielmehr im vollen Lauf den <rs key="FR">Franzosen</rs>
-					<lb n="19"/>durchs <placeName key="leipzig.petersthor">Petersthore</placeName> zu folgen: Alle Offiziere waren gesetzt und ernst, der gemeine
+					<lb n="16"/>können, hat sich musterhaft benommen. Ich kann nur von der <rs ref="#PR">preußischen</rs> und <rs ref="#RU">rus<pc force="weak">-</pc>
+					<lb break="no" n="17"/>sischen</rs> Infanterie sprechen, die, wie gesagt, unter meinen Fenstern in der <placeName ref="#leipzig.klostergasse">Klostergaße</placeName>
+					<lb n="18"/>dahinzog, um – nicht sowohl im Eilmarsch, als vielmehr im vollen Lauf den <rs ref="#FR">Franzosen</rs>
+					<lb n="19"/>durchs <placeName ref="#leipzig.petersthor">Petersthore</placeName> zu folgen: Alle Offiziere waren gesetzt und ernst, der gemeine
 					<lb n="20"/>Mann vergnügt aber still und in der größen Ordnung. <metamark>—</metamark> Nicht lange darauf, <time>zwi<pc force="weak">-</pc>
-					<lb break="no" n="21"/>schen 5 u. 6 Uhr</time>, ritten alle die Großen, die nun hier versammelt sind, (unsern <rs key="friedrich-august">Kö
+					<lb break="no" n="21"/>schen 5 u. 6 Uhr</time>, ritten alle die Großen, die nun hier versammelt sind, (unsern <rs ref="#friedrich-august">Kö
 					<lb break="no" n="22"/>nig</rs> ausgenommen) jeder mit einem kleinen Corps durch die Hauptstraßen der Stadt.
-					<lb n="23"/>Alle waren ohne den geringsten Schmuck, bis auf <persName key="alexander">Alexander</persName>. <metamark>—</metamark> Meinem <placeName key="leipzig.klostergasse.162">Kloster</placeName>
-					<lb n="24"/>sollte der <rs key="friedrich-wilhelm">König von Preußen</rs> zur Einquartierung zu Theil werden: aber leider
+					<lb n="23"/>Alle waren ohne den geringsten Schmuck, bis auf <persName ref="#alexander">Alexander</persName>. <metamark>—</metamark> Meinem <placeName ref="#leipzig.klostergasse.162">Kloster</placeName>
+					<lb n="24"/>sollte der <rs ref="#friedrich-wilhelm">König von Preußen</rs> zur Einquartierung zu Theil werden: aber leider
 					<lb n="25"/>fand sein Adjutant, es sei wenigstens Ein größeres Zimmer nöthig, als wir haben —
 				</p>
 				<p xml:id="p.10.6" xml:space="preserve">
 					<lb n="26"/>Ich wurde zu Tisch gerufen, und das ist gut, denn sonst schrieb ich noch ein paar Stunden.
-					<lb n="27"/><placeName key="connewitz">Connewitz</placeName> soll ganz verwüstet seÿn. Ich wundre mich nicht: ich klage auch nicht mehr.
-					<lb n="28"/>Vor drei Jahren bot man mir 14000 Thaler dafür: <rs key="henriette">meine Frau</rs> konnte sich nicht da<pc force="weak">-</pc>
+					<lb n="27"/><placeName ref="#connewitz">Connewitz</placeName> soll ganz verwüstet seÿn. Ich wundre mich nicht: ich klage auch nicht mehr.
+					<lb n="28"/>Vor drei Jahren bot man mir 14000 Thaler dafür: <rs ref="#henriette">meine Frau</rs> konnte sich nicht da<pc force="weak">-</pc>
 					<lb break="no" n="29"/>von trennen. Es sei! Ist es wirklich ganz verwüstet, so kann ichʼs freilich wohl nicht
 					<lb n="30"/>wieder aufbauen: indeß ich gehöre ja unter die, von denen es heißt:
 					<lg>
@@ -706,7 +706,7 @@
 					<lb n="02b"/>Und so: <emph rend="u">Gelobt</emph>
 					<lb n="03"/><emph rend="u">sei</emph> <emph rend="u">Gott</emph>! — Damit gute Nacht, Freund! —
 					<metamark style="hr" function="separator"/>
-					<lb n="04"/><hi rend="latin">A propos!</hi> Heute vor dem Jahre zog <persName key="napoleon">Napoleon</persName> aus <placeName key="moskau">Moskau</placeName>!!!
+					<lb n="04"/><hi rend="latin">A propos!</hi> Heute vor dem Jahre zog <persName ref="#napoleon">Napoleon</persName> aus <placeName ref="#moskau">Moskau</placeName>!!!
 				</p>
 			</div>
 			<div n="11" xml:id="div.11">
@@ -721,23 +721,23 @@
 					<lb n="12"/>beflecken mit dem, <del>was</del> womit jene Barbaren das Jahrhundert. Will ich doch über<pc force="weak">-</pc>
 					<lb break="no" n="13"/>haupt nur erwähnen, was ich selbst gesehen; und möge Gott mein Auge bewahren
 					<lb n="14"/>vor Sirenen, wie sie so vielen andern vorgekommen sind. <metamark>— —</metamark> Die Stadt war
-					<lb n="15"/>diese Nacht ruhig wie im Frieden. Kaiser <persName key="alexander">Alexander</persName> hat sich gegen die Deputa<pc force="weak">-</pc>
+					<lb n="15"/>diese Nacht ruhig wie im Frieden. Kaiser <persName ref="#alexander">Alexander</persName> hat sich gegen die Deputa<pc force="weak">-</pc>
 					<lb break="no" n="16"/>tion streng, aber sehr bedacht – ich meine, in gewählten Ausdrücken, mit viel
-					<lb n="17"/>Würde, und nicht etwa<surplus>n</surplus> in Aufwallung – <emph rend="u">über</emph> <emph rend="u">unsern</emph> <rs key="friedrich-august"><emph rend="u">König</emph></rs> geäußert. Ich
+					<lb n="17"/>Würde, und nicht etwa<surplus>n</surplus> in Aufwallung – <emph rend="u">über</emph> <emph rend="u">unsern</emph> <rs ref="#friedrich-august"><emph rend="u">König</emph></rs> geäußert. Ich
 					<lb n="18"/>will die Worte nicht eher wiederholen, bis ich mit einem der Deputirten selbst ge<pc force="weak">-</pc>
 					<lb break="no" n="19"/>sprochen habe. <metamark>—</metamark> Mehrere angesehene französische Generale und Obersten haben
 					<lb n="20"/>sich kriegsgefangen ergeben: doch will ich auch von diesen keine nennen, bis ich ganz
 					<lb n="21"/>sicher Bestätigung habe. <metamark>—</metamark> Ueber 300000 Mann sind gestern durch und um die
-					<lb n="22"/>Stadt hingezogen. Die gemeinen <rs key="RU">Russen</rs>, welche hier bleiben, liegen mit ihren Pfer<pc force="weak">-</pc>
+					<lb n="22"/>Stadt hingezogen. Die gemeinen <rs ref="#RU">Russen</rs>, welche hier bleiben, liegen mit ihren Pfer<pc force="weak">-</pc>
 					<lb break="no" n="23"/>den in den Straßen. Das ist denn gut: aber die Luft, bei unseren engen Gaßen,
 					<lb n="24"/>wird durch die ungeheuere Menge todter Pferde und Menschen, die noch nicht weg<pc force="weak">-</pc>
 					<lb break="no" n="25"/>geschafft werden konnten und bis an die inneren Thore liegen, ist zum Ersticken u.
 					<lb n="26"/>größten <del>E<unclear extent="1" unit="chars"/>el</del> Ekel. Aber warum hat man nicht wenigstens jene weggeschafft?
 					<lb n="27"/>diesen Morgen? rufen Sie. Da da muß ich doch erwähnen: wir haben an mehrern
-					<lb n="28"/>Orten in der Nacht Feuer gehabt, deren eines, in der <placeName key="leipzig.ranstaedter-vorstadt">ranstädter Vorstadt</placeName>, sehr mäch<pc force="weak">-</pc>
+					<lb n="28"/>Orten in der Nacht Feuer gehabt, deren eines, in der <placeName ref="#leipzig.ranstaedter-vorstadt">ranstädter Vorstadt</placeName>, sehr mäch<pc force="weak">-</pc>
 					<lb break="no" n="29"/>tig werden konnte, nun aber doch nur vier Häuser verzehrt hat. Zufällig war ich
 					<pb facs="http://digital.slub-dresden.de/id512116717/558" n="9v"/>
-					<lb n="01"/>Einer der Ersten, die geweckt wurden, (die Wohnung des Baumeisters <persName key="vollsack">Vollsack</persName> ist nur
+					<lb n="01"/>Einer der Ersten, die geweckt wurden, (die Wohnung des Baumeisters <persName ref="#vollsack">Vollsack</persName> ist nur
 					<lb n="02"/>durch eine leichte Wand von meinem Schlafzimmer getrennt,) und auf der Straße,
 					<lb n="03"/>als dort noch kaum etwas verlautete. Man durche nemlich nicht stürmen. Ich wand
 					<lb n="04"/>mich zwischen den Pferden hindurch, rief an <abbr ana="#etc">e⁊</abbr> und kam so übel und böse bis
@@ -745,16 +745,16 @@
 					<lb n="06"/>ich sahe den Greuel der Zerstörung ziemlich, (es war <time>fünf, eben 4 Uhr</time>) um zwischen
 					<lb n="07"/>hin zu klettern: als sich aber die Straße verengte, ließ sich nicht mehr anders schreiten,
 					<lb n="08"/>als über Leichname von Menschen und Pferden, zerbrochne Wagen, Pulver<del>wagen</del><add place="above">karren,</add>
-					<lb n="09"/>kanonen <abbr ana="#etc">e⁊</abbr> Der <rs key="ein-russischer-platzcommandant">rußische Platzcommandant</rs> kam zu Pferde mit einem kleinen
+					<lb n="09"/>kanonen <abbr ana="#etc">e⁊</abbr> Der <rs ref="#ein-russischer-platzcommandant">rußische Platzcommandant</rs> kam zu Pferde mit einem kleinen
 					<lb n="10"/>Trupp. „Licht und Raum.“ rief ich ihm zu; „und die Sturmglocke, bei welcher Je<pc force="weak">-</pc>
 					<lb break="no" n="11"/>dermann weiß, was er zu thun hat!“ – „Glauben Sie denn, antwortete er,
-					<lb n="12"/>daß ichʼs aus Schonung verboten habe? Unser <rs key="napoleon">Kaiser</rs> wäre der Erste dabei!
+					<lb n="12"/>daß ichʼs aus Schonung verboten habe? Unser <rs ref="#napoleon">Kaiser</rs> wäre der Erste dabei!
 					<lb n="13"/>Aber das ganze Heer stürzte dann herbei, und so stopfte sich der Weg, daß gar nichts
 					<lb n="14"/>gethan würde!“ – Indeßen hatten unsre braven Stadthauptleute <abbr ana="#etc">e⁊</abbr>, klüger,
 					<lb n="15"/>als ich, einen Weg von außen durch die Gärten gefunden und eiige Spritzen
-					<lb n="16"/>herbeigeführt. (Die Brücken sind von den <rs key="FR">Franzosen</rs> zertrümmert.) Und als ich
-					<lb n="17"/>weiter vordringen wollte, sahe ich, wie wahr der <rs key="ein-russischer-platzcommandant">Platzcommandant</rs> gesprochen
-					<lb n="18"/>hatte: Die <rs key="RU">Rußen</rs> kamen haufenweise mit Pferden und Piken, verstopften die
+					<lb n="16"/>herbeigeführt. (Die Brücken sind von den <rs ref="#FR">Franzosen</rs> zertrümmert.) Und als ich
+					<lb n="17"/>weiter vordringen wollte, sahe ich, wie wahr der <rs ref="#ein-russischer-platzcommandant">Platzcommandant</rs> gesprochen
+					<lb n="18"/>hatte: Die <rs ref="#RU">Rußen</rs> kamen haufenweise mit Pferden und Piken, verstopften die
 					<lb n="19"/>ganze Passage, und standen nun da und fluchten. Ihr herzlich guter Wille, ihr
 					<lb n="20"/>handfester, aber höchst ungeschickter Eifer, gab die komischsten Situationen,
 					<lb n="21"/>wenn man sie nur vor Mitleid und Sorge hätte genießen können. Mehrere
@@ -766,14 +766,14 @@
 					<lb n="27"/>ich nichts mehr hätte thun können, wenn ich mich auch hindurchgedrängt hätte.
 					<lb n="28"/>Das ließ ich folglich bleiben und kehrte <add place="above">bald</add> wieder zurück, um so ehr, da ich mich nun
 					<lb n="29"/>ganz kreuz- und schulterlahm fühlte; – ich mag mich wohl gestern verhoben
-					<lb n="30"/>und übernommen haben. <metamark>—</metamark> Von <placeName key="connewitz">Connewitz</placeName> weiß ich noch nichts, und verstatte
+					<lb n="30"/>und übernommen haben. <metamark>—</metamark> Von <placeName ref="#connewitz">Connewitz</placeName> weiß ich noch nichts, und verstatte
 					<pb facs="http://digital.slub-dresden.de/id512116717/559" n="10r"/>
 					<lb n="01"/>Niemanden, hinauszugehen, weil noch immer aus den Gärten und Gehölzen viel
 					<lb n="02"/>einzelne Schüsse fallen. <metamark>—</metamark> Übrigens ist es wohl nichts geradehin Haß zu nennen,
-					<lb n="03"/>wenn man jenes Unglück den <rs key="FR">Franzosen</rs> zuschreibt: man hat wirklich und
+					<lb n="03"/>wenn man jenes Unglück den <rs ref="#FR">Franzosen</rs> zuschreibt: man hat wirklich und
 					<lb n="04"/>gleich nach ihrem Abzug in mehrern Häusern Brennmaterialien und entzün<pc force="weak">-</pc>
 					<lb break="no" n="05"/>dete Lunten, in Ställen, auf Böden <abbr ana="#etc">e⁊</abbr> und von mehrern Spritzen waren Röhren
-					<lb n="06"/>und anderes <term key="eisenreck">Eisenreck</term> losgebrochen und gestohlen – was man erst entdeckte, als
+					<lb n="06"/>und anderes <term ref="#eisenreck">Eisenreck</term> losgebrochen und gestohlen – was man erst entdeckte, als
 					<lb n="07"/>man die heraus geschleppt hatte. Mag letzteres nun Tücke oder nur Raubsucht
 					<lb n="08"/>gethan haben: es bleibt doch Schändlichkeit. —
 				</p>
@@ -784,47 +784,47 @@
 					<lb n="10"/>Das Innere der Stadt ist so weit in Ordnung, als es bei solcher Menge und Enge
 					<lb n="11"/>möglich seÿn mag: dennoch geht man nur mit viel Gefahr. Jenes Feuer, so
 					<lb n="12"/>wie das in der Eule[?] <abbr ana="#etc">e⁊</abbr> ist wieder. Noch immerfort fallen Musketenschüsse von
-					<lb n="13"/>versteckten <rs key="FR">Franzosen</rs>. Die Kaiser und Könige (den unsern ausgenommen, der
+					<lb n="13"/>versteckten <rs ref="#FR">Franzosen</rs>. Die Kaiser und Könige (den unsern ausgenommen, der
 					<lb n="14"/>ganz still im Schloße ist,) gehen mit wenig Begleitung zu Fuß umher, um
-					<lb n="15"/>aufzumuntern <abbr ana="#etc">e⁊</abbr> <persName key="alexander">Alexander</persName> sahe ich auf dem Markte unter den ihn anbeten<pc force="weak">-</pc>
+					<lb n="15"/>aufzumuntern <abbr ana="#etc">e⁊</abbr> <persName ref="#alexander">Alexander</persName> sahe ich auf dem Markte unter den ihn anbeten<pc force="weak">-</pc>
 					<lb break="no" n="16"/>den Soldaten: man kann mit wohlwollender Humanität nicht mehr Würde
 					<lb n="17"/>sich verbunden denken, und kein liebenswürdigeres Benehmen sehen. Er ist, seit ich
 					<lb n="18"/>ihn ehemals gesehen, beträchtlich stärker und <emph rend="u">viel</emph> ernster geworden. <metamark>—</metamark> Die Hun<pc force="weak">-</pc>
 					<lb break="no" n="19"/>gersnoth kann uns noch Schreckensscenen bereiten, wenn ihr nicht <emph rend="u">bald</emph> abgehol<pc force="weak">-</pc>
-					<lb break="no" n="20"/>fen werden kann. Woher aber? <rs key="ein-russischer-general">Ein rußischer General</rs> bei meinem Schwa<pc force="weak">-</pc>
-					<lb break="no" n="21"/>ger <persName key="rummel">Rummel</persName> sagte selbst: 4 bis 5 Meilen rund um die Stadt ist <emph rend="u">alles</emph> verwü
-					<lb break="no" n="22"/>stet und aufgezehrt. <persName key="bluecher">Blücher</persName> hat auffordern laßen, die Soldaten satt zu machen —
+					<lb break="no" n="20"/>fen werden kann. Woher aber? <rs ref="#ein-russischer-general">Ein rußischer General</rs> bei meinem Schwa<pc force="weak">-</pc>
+					<lb break="no" n="21"/>ger <persName ref="#rummel">Rummel</persName> sagte selbst: 4 bis 5 Meilen rund um die Stadt ist <emph rend="u">alles</emph> verwü
+					<lb break="no" n="22"/>stet und aufgezehrt. <persName ref="#bluecher">Blücher</persName> hat auffordern laßen, die Soldaten satt zu machen —
 					<lb n="23"/>womit es seÿ; sie würden und müßten mit allem vorlieb nehmen: aber satt
 					<lb n="24"/>werden müßten sie auch, sonst sei er genöthigt zu verstatten, daß sie überall
 					<lb n="25"/>selbst Lebensmittel suchten. Dann versteht sich, daß sie, wo diese nicht sind, auch
 					<lb n="26"/>Anderes, was sie sehen, mitnehmen; und in den Vorstädten gehet es unter der Hand
-					<lb n="27"/><del><unclear extent="2" unit="chars"/></del> schon so. Jetzt, gegen 5 Uhr, gehen große Züge fort. <metamark>—</metamark> Graf <persName key="poniatowski">Poniatowskÿ</persName>
+					<lb n="27"/><del><unclear extent="2" unit="chars"/></del> schon so. Jetzt, gegen 5 Uhr, gehen große Züge fort. <metamark>—</metamark> Graf <persName ref="#poniatowski">Poniatowskÿ</persName>
 					<lb n="28"/>ist selbst, und ein großer Theil seiner Cavalarie mit ihm, vor unserm inneren
 					<lb n="29"/>Thore ertrunken. Man hat ihn gefunden. Er wollte, als zu keinem Thore mehr
-					<lb n="30"/>hinauszukommen war, durch die <geogName key="elster">Elster</geogName> bei <placeName key="leipzig.richters-garten">Richters Garten</placeName> über die Wiesen.
-					<lb n="31"/>Ein Gleiches vermuthete man mit <persName key="reynier">Reguier</persName>. Doch was vermuthet man nicht! <metamark>—</metamark>
+					<lb n="30"/>hinauszukommen war, durch die <geogName ref="#elster">Elster</geogName> bei <placeName ref="#leipzig.richters-garten">Richters Garten</placeName> über die Wiesen.
+					<lb n="31"/>Ein Gleiches vermuthete man mit <persName ref="#reynier">Reguier</persName>. Doch was vermuthet man nicht! <metamark>—</metamark>
 					<pb facs="http://digital.slub-dresden.de/id512116717/560" n="10v"/>
-					<lb n="01"/>Das weiß ich aber von Augenzeugen: <persName key="napoleon">Napoleon</persName>, der <rs key="murat">König von Neapel</rs> <abbr ana="#etc">e⁊</abbr> mit ihren
-					<lb n="02"/>Garden zu Pferde, sind zum Flößthore (der rechten Seite des <placeName key="leipzig.petersthor">Petersthores</placeName>) hinaus,
-					<lb n="03"/>über Wiesen <abbr ana="#etc">e⁊</abbr> nach <placeName key="lindenau">Lindenau</placeName> gekommen, haben dort in der Mühle gegeßen,
+					<lb n="01"/>Das weiß ich aber von Augenzeugen: <persName ref="#napoleon">Napoleon</persName>, der <rs ref="#murat">König von Neapel</rs> <abbr ana="#etc">e⁊</abbr> mit ihren
+					<lb n="02"/>Garden zu Pferde, sind zum Flößthore (der rechten Seite des <placeName ref="#leipzig.petersthor">Petersthores</placeName>) hinaus,
+					<lb n="03"/>über Wiesen <abbr ana="#etc">e⁊</abbr> nach <placeName ref="#lindenau">Lindenau</placeName> gekommen, haben dort in der Mühle gegeßen,
 					<lb n="04"/><abbr ana="#und">u</abbr> zwar zwischen 12 <abbr ana="#und">u</abbr> 1 Uhr, (begreife das, werʼs kann,) und in deßen ist zum
 					<lb n="05"/>nochmaligen Plündern des Dorfs förmlich getrommelt worden. Man hat aber
-					<lb n="06"/>fast nichts mehr gefunden. Die <rs key="CO">Alliirten</rs> haben durchaus nicht gewußt, daß
-					<lb n="07"/><persName key="napoleon">Napoleon</persName> jenen Vormittag noch in <abbr>L<ex>indenau</ex><am>.</am></abbr> seÿ, sind vielmehr durch Nachrichten, die
-					<lb n="08"/>man aufgefangen, der Ueberzeugung gewesen, er führe sein Corps bei <placeName key="borna">Borna</placeName>
-					<lb n="09"/>selbst herüber. Hätten sie den <rs key="napoleon">Kaiser</rs> noch hier gewußt, die Stadt wäre größ
+					<lb n="06"/>fast nichts mehr gefunden. Die <rs ref="#CO">Alliirten</rs> haben durchaus nicht gewußt, daß
+					<lb n="07"/><persName ref="#napoleon">Napoleon</persName> jenen Vormittag noch in <abbr>L<ex>indenau</ex><am>.</am></abbr> seÿ, sind vielmehr durch Nachrichten, die
+					<lb n="08"/>man aufgefangen, der Ueberzeugung gewesen, er führe sein Corps bei <placeName ref="#borna">Borna</placeName>
+					<lb n="09"/>selbst herüber. Hätten sie den <rs ref="#napoleon">Kaiser</rs> noch hier gewußt, die Stadt wäre größ
 					<lb break="no" n="10"/>tentheils ganz zu Grunde gerichtet worden, und <emph rend="u">ihn</emph> zu fangen, in einer nach
 					<lb n="11"/>allen Seiten offenen Stadt: das konnte man nur im Moment des entbrannten
-					<lb n="12"/>Glücksrausches hoffen! Man glaubt, er schlage sich gegen den <geogName key="harz">Harz</geogName>, um sich mit
-					<lb n="13"/><persName key="davoust">Eckmühl</persName> zu vereinigen, der zwischen 40 <abbr ana="#und">u</abbr> 60000 Mann haben soll – aber we<pc force="weak">-</pc>
-					<lb break="no" n="14"/>nig <rs key="FR">Franzosen</rs>, sondern Holländer, Westphalen, Hansestädter <abbr ana="#etc">e⁊</abbr> Der <rs key="karl-johann">König
+					<lb n="12"/>Glücksrausches hoffen! Man glaubt, er schlage sich gegen den <geogName ref="#harz">Harz</geogName>, um sich mit
+					<lb n="13"/><persName ref="#davoust">Eckmühl</persName> zu vereinigen, der zwischen 40 <abbr ana="#und">u</abbr> 60000 Mann haben soll – aber we<pc force="weak">-</pc>
+					<lb break="no" n="14"/>nig <rs ref="#FR">Franzosen</rs>, sondern Holländer, Westphalen, Hansestädter <abbr ana="#etc">e⁊</abbr> Der <rs ref="#karl-johann">König
 					<lb n="15"/>von Schweden</rs> verdolt ihn. <metamark>—</metamark> Die, man möchte nun sagen, <emph rend="u">ehemaligen</emph> Prome<pc force="weak">-</pc>
 					<lb break="no" n="16"/>naden um die innere Stadt sehen noch immer ganz, wie ein Schlachtfeld aus: Denn
 					<lb n="17"/>noch hat man zu nichts kommen können, das die Eingänge zu den Thoren frei
 					<lb n="18"/>zu machen. Selbst denen, die dort, schwer verwundet, liegen, (und ihrer sind
 					<lb n="19"/>viele) kann Niemand helfen: sie müßen verschmachten. <metamark>—</metamark> Gegen <time>Mittag</time>
-					<lb n="20"/>war mir eine neue, ganz unvermuthere Gefahr nahe genug. In der <placeName key="leipzig.thomaskirche">Thomas<pc force="weak">-</pc>
-					<lb break="no" n="21"/>kirche</placeName> hatten die <rs key="FR">Franzosen</rs> eine Menge Patronen <abbr ana="#udgl">u dgl.</abbr> in einer großen Ka<pc force="weak">-</pc>
+					<lb n="20"/>war mir eine neue, ganz unvermuthere Gefahr nahe genug. In der <placeName ref="#leipzig.thomaskirche">Thomas<pc force="weak">-</pc>
+					<lb break="no" n="21"/>kirche</placeName> hatten die <rs ref="#FR">Franzosen</rs> eine Menge Patronen <abbr ana="#udgl">u dgl.</abbr> in einer großen Ka<pc force="weak">-</pc>
 					<lb break="no" n="22"/>pelle verborgen, und Niemand wußte es, da sie längst allein die Schlüssel führten,
 					<lb n="23"/>weil die Kirche ein Lazareth ist. Gott weiß, wodurch – entzündete sich das
 					<lb n="24"/>Pulver, und mit Einem Krach flog die Kapelle <abbr ana="#und">u</abbr> was an sie sties, in die Luft.
@@ -833,13 +833,13 @@
 					<lb n="27"/>Gewürmen, auf allen Vieren heraus krochen, weil sie nicht wußten, was eigentlich
 					<lb n="28"/>vorgehe. Sie mußten mit Gewalt zurückgetrieben werden: der gräuliche Ge<pc force="weak">-</pc>
 					<lb break="no" n="29"/>danke war unter sie gekommen, man solle die Kirche mit ihnen allen in die
-					<lb n="30"/>Luft sprengen, um sie nicht mehr ernähren zu müßen. <metamark>—</metamark> <placeName key="wittenberg">Wittenberg</placeName> und
+					<lb n="30"/>Luft sprengen, um sie nicht mehr ernähren zu müßen. <metamark>—</metamark> <placeName ref="#wittenberg">Wittenberg</placeName> und
 					<pb facs="http://digital.slub-dresden.de/id512116717/561" n="11r"/>
-					<lb n="01"/><placeName key="torgau">Torgau</placeName> sind noch nicht über; von <placeName key="dresden">Dresden</placeName> haben wir keine Nachricht. Ach wahr<pc force="weak">-</pc>
+					<lb n="01"/><placeName ref="#torgau">Torgau</placeName> sind noch nicht über; von <placeName ref="#dresden">Dresden</placeName> haben wir keine Nachricht. Ach wahr<pc force="weak">-</pc>
 					<lb break="no" n="02"/>scheinlich <del>habt</del><add place="above">seÿd</add> Ihr Freunde einem Schicksal nahe, daß dem unsrigen gleich ist!
-					<lb n="03"/><metamark>—</metamark> Unser König hat sich fest erklärt, bei seiner Verbindung mit <persName key="napoleon">Napoleon</persName>
-					<lb n="04"/>zu verbleiben, aber auch <placeName key="leipzig">Leipzig</placeName> nicht ohne Gewalt zu verlaßen, und keinen
-					<lb n="05"/>der Seinen zu hindern, wenn er zur <rs key="CO">alliirten Parthei</rs> übergehen wolle. So
+					<lb n="03"/><metamark>—</metamark> Unser König hat sich fest erklärt, bei seiner Verbindung mit <persName ref="#napoleon">Napoleon</persName>
+					<lb n="04"/>zu verbleiben, aber auch <placeName ref="#leipzig">Leipzig</placeName> nicht ohne Gewalt zu verlaßen, und keinen
+					<lb n="05"/>der Seinen zu hindern, wenn er zur <rs ref="#CO">alliirten Parthei</rs> übergehen wolle. So
 					<lb n="06"/>ist er denn als Kriegsgefangener erklärt und selbst seiner Leibgarde beraubt
 					<lb n="07"/>worden: dann hat man ihm russisch <abbr>kaiserl<ex>iche</ex><am>.</am></abbr> Garde zur Bewachung seiner
 					<lb n="08"/>Person gegeben, und so ist er wieder in seiner Wohnung am Markte. Sei
@@ -847,37 +847,37 @@
 					<lb n="10"/>länger leiden müße<del>n</del>: ist er noch eines Urtheils mächtig, er muß das ehren
 					<lb n="11"/>und respektiren. <metamark>—</metamark> Morgen, ist es versprochen, soll die Stadt und ihre näch<pc force="weak">-</pc>
 					<lb break="no" n="12"/>ste Umgebung wenigstens von dem gesäubert werden, was Seuchen erzeugen
-					<lb n="13"/>müßte. <metamark>—</metamark> General <persName key="bertrand">Bertrand</persName>, und mehrere sehr geachtete französische
+					<lb n="13"/>müßte. <metamark>—</metamark> General <persName ref="#bertrand">Bertrand</persName>, und mehrere sehr geachtete französische
 					<lb n="14"/>Generale und Obersten, haben sich wirklich kriegsgefangen ergeben. Sie
-					<lb n="15"/>werden sehr anständig behandelt. Auch <persName key="lauriston">Lauriston</persName> <abbr ana="#und">u</abbr> <persName key="reynier">Raguir</persName> sind gefangen. —
+					<lb n="15"/>werden sehr anständig behandelt. Auch <persName ref="#lauriston">Lauriston</persName> <abbr ana="#und">u</abbr> <persName ref="#reynier">Raguir</persName> sind gefangen. —
 				</p>
 			</div>
 			<div n="13" xml:id="div.13">
 				<dateline n="16" rend="right">Den 21<hi rend="sup">sten</hi> Vormittags.</dateline>
 				<p n="1" xml:id="p.13.1" xml:space="preserve">
-					<lb n="17"/>Preußisches fuhrwesen bringe einen nicht unbeträchtlichen Vorrath <term key="fourage">Faur<pc force="weak">-</pc>
+					<lb n="17"/>Preußisches fuhrwesen bringe einen nicht unbeträchtlichen Vorrath <term ref="#fourage">Faur<pc force="weak">-</pc>
 					<lb break="no" n="18"/>rage</term>, aber kein Brodt, keinen Branntwein, und der Hunger der Einwohner,
 					<lb n="19"/>wie die Ungedult der Soldaten, nimmt furchtbar überhand. Ich, mit den
 					<lb n="20"/>Meinen, habe, statt Brodt, noch einen kleinen Vorrath Erdäpfel. <metamark>—</metamark> Man
-					<lb n="21"/>hört seit früh die Kanonade, sowohl über das <placeName key="leipzig.hallesches-thor">hallesche</placeName>, als über das <placeName key="leipzig.petersthor">Peters<pc force="weak">-</pc>
+					<lb n="21"/>hört seit früh die Kanonade, sowohl über das <placeName ref="#leipzig.hallesches-thor">hallesche</placeName>, als über das <placeName ref="#leipzig.petersthor">Peters<pc force="weak">-</pc>
 					<lb break="no" n="22"/>thor</placeName> hinaus, doch nach beiden Seiten entfernt. Jenes soll Verfolgung des
-					<lb n="23"/>Corps seÿn, das <persName key="napoleon">Napoleon</persName> um sich gesammelt hat; dieses, Angriff des zahl<pc force="weak">-</pc>
-					<lb break="no" n="24"/>reichen, das von <placeName key="borna">Borna</placeName> nach <placeName key="grimma">Grimma</placeName> hin, wahrscheinlich nun unter Neÿ,
+					<lb n="23"/>Corps seÿn, das <persName ref="#napoleon">Napoleon</persName> um sich gesammelt hat; dieses, Angriff des zahl<pc force="weak">-</pc>
+					<lb break="no" n="24"/>reichen, das von <placeName ref="#borna">Borna</placeName> nach <placeName ref="#grimma">Grimma</placeName> hin, wahrscheinlich nun unter Neÿ,
 					<lb n="25"/>stehet. In der Stadt äußert sich alles über den Erfolg ganz sicher. Nun, gebʼ
-					<lb n="26"/>es Gott: denn kämen hieher <rs key="FR">Franzosen</rs> zurück – wie würde es der Stadt
-					<lb n="27"/>ergehen! <metamark>—</metamark> Jetzt führt man den Marschall <persName key="macdonald">Macdonald</persName> ein: er ist gefan<pc force="weak">-</pc>
+					<lb n="26"/>es Gott: denn kämen hieher <rs ref="#FR">Franzosen</rs> zurück – wie würde es der Stadt
+					<lb n="27"/>ergehen! <metamark>—</metamark> Jetzt führt man den Marschall <persName ref="#macdonald">Macdonald</persName> ein: er ist gefan<pc force="weak">-</pc>
 					<lb break="no" n="28"/>gen, <abbr ana="#und">u</abbr>, wie es heißt, (<del>wenn</del><add place="above">de<g ana="#lig-nn">nn</g></add> man sahe eben nichts) verwundet worden in
-					<lb n="29"/>dem großen Gefecht, das die Nachsetzenden bei <persName key="merseburg">Merseburg</persName> und <persName key="weissenfels">Weißenfels</persName>
-					<lb n="30"/>mit ausgezeichnetem Vortheil, g<unclear>e</unclear>liefert haben. Bei <placeName key="erfurt">Erfurt</placeName> stehet eine starke
+					<lb n="29"/>dem großen Gefecht, das die Nachsetzenden bei <persName ref="#merseburg">Merseburg</persName> und <persName ref="#weissenfels">Weißenfels</persName>
+					<lb n="30"/>mit ausgezeichnetem Vortheil, g<unclear>e</unclear>liefert haben. Bei <placeName ref="#erfurt">Erfurt</placeName> stehet eine starke
 					<pb facs="http://digital.slub-dresden.de/id512116717/562" n="11v"/>
-					<lb n="01"/>Armee der <rs key="CO">Alliirten</rs>, und nach <placeName key="frankfurt">Frankfurt</placeName> gehet eine zweite, <persName key="napoleon">Napoleon</persName> zu empfangen
-					<lb n="02"/>und jene Verbindung mit <persName key="schmiel">Schmühl</persName> zu verhindern. Dieß erfahre ich <del>als</del> eben als eine
-					<lb n="03"/>ganz zuverläßige Wahrheit. <metamark>—</metamark> Auch der <rs key="casanova.general">Herzog von Padua</rs> ist gefangen. Die Ge<pc force="weak">-</pc>
-					<lb break="no" n="04"/>schichte des theuren <persName key="bacher">Bacher</persName>, der ersten <emph rend="u">persönlichen</emph> Entfernung <persName key="alexander">Alexanders</persName> von un<pc force="weak">-</pc>
-					<lb break="no" n="05"/>serm <rs key="friedrich-august">König</rs>, des Abmarsches der Rußen unter <persName key="bennigsen">Bennigsen</persName>, des Uebergangs der
-					<lb n="06"/><rs key="BD">Baadner</rs> in der <placeName key="leipzig.grimmaische-gasse">grimmaischen Gasse</placeName>, der Eid der sächsischen Leibgarde, die erste
-					<lb n="07"/>Malzeit <persName key="alexander">Alexanders</persName> bei <persName>Madame Kreller</persName>, <placeName>Stieglitzens Lazareth</placeName> und die <emph rend="u">häßlichen</emph>
-					<lb n="08"/>Plünderungen der <rs key="RU">Rußen</rs>, der Brand des <placeName key="pfaffendorf.lazarett">Lazareths in Pfaffendorf</placeName> – sind
+					<lb n="01"/>Armee der <rs ref="#CO">Alliirten</rs>, und nach <placeName ref="#frankfurt">Frankfurt</placeName> gehet eine zweite, <persName ref="#napoleon">Napoleon</persName> zu empfangen
+					<lb n="02"/>und jene Verbindung mit <persName ref="#schmiel">Schmühl</persName> zu verhindern. Dieß erfahre ich <del>als</del> eben als eine
+					<lb n="03"/>ganz zuverläßige Wahrheit. <metamark>—</metamark> Auch der <rs ref="#casanova.general">Herzog von Padua</rs> ist gefangen. Die Ge<pc force="weak">-</pc>
+					<lb break="no" n="04"/>schichte des theuren <persName ref="#bacher">Bacher</persName>, der ersten <emph rend="u">persönlichen</emph> Entfernung <persName ref="#alexander">Alexanders</persName> von un<pc force="weak">-</pc>
+					<lb break="no" n="05"/>serm <rs ref="#friedrich-august">König</rs>, des Abmarsches der Rußen unter <persName ref="#bennigsen">Bennigsen</persName>, des Uebergangs der
+					<lb n="06"/><rs ref="#BD">Baadner</rs> in der <placeName ref="#leipzig.grimmaische-gasse">grimmaischen Gasse</placeName>, der Eid der sächsischen Leibgarde, die erste
+					<lb n="07"/>Malzeit <persName ref="#alexander">Alexanders</persName> bei <persName>Madame Kreller</persName>, <placeName>Stieglitzens Lazareth</placeName> und die <emph rend="u">häßlichen</emph>
+					<lb n="08"/>Plünderungen der <rs ref="#RU">Rußen</rs>, der Brand des <placeName ref="#pfaffendorf.lazarett">Lazareths in Pfaffendorf</placeName> – sind
 					<lb n="09"/>ebenso intereßante als zuverläßige Materialien zu dereinstigen mündli<pc force="weak">-</pc>
 					<lb break="no" n="10"/>chen Unterredungen.
 				</p>
@@ -885,26 +885,26 @@
 			<div n="14" xml:id="div.14">
 				<dateline n="11" rend="right">Den 22<hi rend="sup u">sten</hi> früh</dateline>
 				<p n="1" xml:id="p.14.1" xml:space="preserve">
-					<lb n="12"/>Unter meinem Fenster ziehen, seit einer halben Stunde, <rs key="RU">rußische</rs> Regi<pc force="weak">-</pc>
+					<lb n="12"/>Unter meinem Fenster ziehen, seit einer halben Stunde, <rs ref="#RU">rußische</rs> Regi<pc force="weak">-</pc>
 					<lb break="no" n="13"/>menter vorüber, jenen nach, die gestern das sehr glückliche Gefecht gehal<pc force="weak">-</pc>
 					<lb break="no" n="14"/>ten haben, das auch eine Schlacht genannt wird, und das besonders viele
-					<lb n="15"/>Gefangene erworben hat. <persName key="napoleon">Napoleon</persName> hat sich bei <placeName key="dornburg">Dornburg</placeName> über der Saale
-					<lb n="16"/>festgesetzt: <persName key="alexander">Alexander</persName>, <persName key="schwarzenberg">Schwarzenberg</persName> <abbr ana="#etc">e⁊</abbr> haben heute ihe Hauptquartier
-					<lb n="17"/>zu <persName key="eisenberg">Eisenberg</persName>. Beide Feldherren denken wohl ihre Heere durch Erinne<pc force="weak">-</pc>
-					<lb break="no" n="18"/>rung an die Schlacht bei <placeName key="jena">Jena</placeName> noch besonders anzufeuern. Man erwar<pc force="weak">-</pc>
-					<lb break="no" n="19"/>tet eine wichtige Schlacht, die, ohngeachtet der großen Ueberlegenheit der <rs key="CO">Alliir<pc force="weak">-</pc>
+					<lb n="15"/>Gefangene erworben hat. <persName ref="#napoleon">Napoleon</persName> hat sich bei <placeName ref="#dornburg">Dornburg</placeName> über der Saale
+					<lb n="16"/>festgesetzt: <persName ref="#alexander">Alexander</persName>, <persName ref="#schwarzenberg">Schwarzenberg</persName> <abbr ana="#etc">e⁊</abbr> haben heute ihe Hauptquartier
+					<lb n="17"/>zu <persName ref="#eisenberg">Eisenberg</persName>. Beide Feldherren denken wohl ihre Heere durch Erinne<pc force="weak">-</pc>
+					<lb break="no" n="18"/>rung an die Schlacht bei <placeName ref="#jena">Jena</placeName> noch besonders anzufeuern. Man erwar<pc force="weak">-</pc>
+					<lb break="no" n="19"/>tet eine wichtige Schlacht, die, ohngeachtet der großen Ueberlegenheit der <rs ref="#CO">Alliir<pc force="weak">-</pc>
 					<lb break="no" n="20"/>ten</rs>, schwer zu gewinnen und mit vielem Blute zu erkaufen seÿn wird,
-					<lb n="21"/>da <persName key="napoleon">Napoleons</persName> Position so vortheilhaft ist, und nun, was ihm noch treu geblie<pc force="weak">-</pc>
+					<lb n="21"/>da <persName ref="#napoleon">Napoleons</persName> Position so vortheilhaft ist, und nun, was ihm noch treu geblie<pc force="weak">-</pc>
 					<lb break="no" n="22"/>ben, wir in Verzweiflung für das Letzte ficht. Zum Überfluß hat er (schon
-					<lb n="23"/>neulich) unter seinem Heere verbreiten lassen, die barbarischen <rs key="RU">Russen</rs> schick<pc force="weak">-</pc>
-					<lb break="no" n="24"/>ten alle Gefangene, nackend und mit aufgeschlitzten Nasen, nach <placeName key="sibirien">Sibirien</placeName>,
+					<lb n="23"/>neulich) unter seinem Heere verbreiten lassen, die barbarischen <rs ref="#RU">Russen</rs> schick<pc force="weak">-</pc>
+					<lb break="no" n="24"/>ten alle Gefangene, nackend und mit aufgeschlitzten Nasen, nach <placeName ref="#sibirien">Sibirien</placeName>,
 					<lb n="25"/>swo sie noch diel eher verhungern und erfrieren müßten, als beim Zuge von
 					<lb n="26"/>Moskau; wen sie aber verwundet fänden, dem rissen sie den Leib auf. Von
-					<lb n="27"/>alle dem waren die versteckt gefundenen <rs key="FR">Franzosen</rs> fest überzeugt, und hatten
+					<lb n="27"/>alle dem waren die versteckt gefundenen <rs ref="#FR">Franzosen</rs> fest überzeugt, und hatten
 					<lb n="28"/>daher lieber verschmachten wollen, nachdem sie sich verschossen, als sich ergeben.
-					<lb n="29"/>Ein Hauptunglück <persName key="napoleon">Napoleons</persName> ist Mangel an groben Geschütz <abbr ana="#und">u</abbr> wenig Munition.
+					<lb n="29"/>Ein Hauptunglück <persName ref="#napoleon">Napoleons</persName> ist Mangel an groben Geschütz <abbr ana="#und">u</abbr> wenig Munition.
 					<pb facs="http://digital.slub-dresden.de/id512116717/563" n="12r"/>
-					<lb n="01"/>Schon hier in <placeName key="leipzig">Leipzig</placeName> sing es sehr an, an letzterer zu gebrechen: man suchte
+					<lb n="01"/>Schon hier in <placeName ref="#leipzig">Leipzig</placeName> sing es sehr an, an letzterer zu gebrechen: man suchte
 					<lb n="02"/>auch nach kleinen Vorräthen angstlich bei den <del>H<unclear extent="1" unit="chars"/></del> Kaufleuten, und mehrere Corps
 					<lb n="03"/>vertheidigten sich zuletzt mit halben Provisionen. <metamark>—</metamark> Der gestern Abend erschie<pc force="weak">-</pc>
 					<lb break="no" n="04"/>nene Armeebericht vom 19<hi rendition="sup u"><unclear>ten</unclear></hi> ist musterhaft in Wahrheit, Klarheit und Würde.
@@ -917,13 +917,13 @@
 					<lb break="no" n="11"/>nen. Aus diesem sind auch einige Punkte meiner frühern Notizen zu berichtigen
 					<lb n="12"/>oder näher zu bestimmen: doch dürfte ich mich selbst billigen, die Hauptsachen, blos
 					<lb n="13"/>durch eignes Auge <abbr ana="#und">u</abbr> Ohr, noch so ziemlich aufgefaßt und in ihrem Zusammenhang
-					<lb n="14"/>gestellt zu haben. <persName key="schlegel">A. W. Schlegel</persName>, der hier ist, ist durch den Ernst der Zeit herr<pc force="weak">-</pc>
+					<lb n="14"/>gestellt zu haben. <persName ref="#schlegel">A. W. Schlegel</persName>, der hier ist, ist durch den Ernst der Zeit herr<pc force="weak">-</pc>
 					<lb break="no" n="15"/>lich umgestaltet und genießt vieler Achtung in seiner wahrhaft wichtigen Wirk<pc force="weak">-</pc>
-					<lb break="no" n="16"/>samkeit auf die Menge. <persName key="kotzebue">Kotzebueʼn</persName> hat man, da er seinen kleinlich neckenden,
+					<lb break="no" n="16"/>samkeit auf die Menge. <persName ref="#kotzebue">Kotzebueʼn</persName> hat man, da er seinen kleinlich neckenden,
 					<lb n="17"/>witzelnden, schmähsüchtigen Sinn in seinen Blättern darzulegen nicht laßen kön<pc force="weak">-</pc>
 					<lb break="no" n="18"/>nen, selbst in der Stille das Handwerk gelegt. Man <emph rend="u">will</emph> durch solche Künste nicht
 					<lb n="19"/>wirken, <emph rend="u">will</emph> sie dem Feinde allein laßen: und das ist edel, und wirkt gera<pc force="weak">-</pc>
-					<lb break="no" n="20"/>de am allerbesten, auf <emph rend="u">Deutsche</emph> wenigstens. <metamark>—</metamark> Als vorhin die Züge das <rs key="CO">alliir<pc force="weak">-</pc>
+					<lb break="no" n="20"/>de am allerbesten, auf <emph rend="u">Deutsche</emph> wenigstens. <metamark>—</metamark> Als vorhin die Züge das <rs ref="#CO">alliir<pc force="weak">-</pc>
 					<lb break="no" n="21"/>ten Heers</rs> vor meinen Fenstern vorüber gingen, konnte ich auch in einer Art
 					<lb n="22"/>allgemeiner Übersicht ihre Feldmusik beobachten. <emph rend="u">Das ist das Rechte!</emph> und so
 					<lb n="23"/>(im Wesentlichen) machtenʼs und hattenʼs die Alten – Griechen <abbr ana="#und">u</abbr> Römer
@@ -941,13 +941,13 @@
 			<div n="15" xml:id="div.15">
 				<dateline n="03" rend="right">Den 23<hi rend="sup uu">sten</hi></dateline>
 				<p n="1" xml:id="p.15.1" xml:space="preserve">
-					<lb n="04"/>Der <rs key="friedrich-august">König von Sachsen</rs> ist diesen Morgen, um <time>7 Uhr</time>, da er es nicht beßer,
-					<lb n="05"/>wenn auch anders, gewollt, nach <placeName key="rheinsberg">Rheinsberg</placeName> gefangen abgeführt worden.
-					<lb n="06"/>Die <rs key="amalie">Königen</rs> hat viel geweint; ihr <rs key="friedrich-august">Gemal</rs> stets eine ceremoniöse Kälte be<pc force="weak">-</pc>
+					<lb n="04"/>Der <rs ref="#friedrich-august">König von Sachsen</rs> ist diesen Morgen, um <time>7 Uhr</time>, da er es nicht beßer,
+					<lb n="05"/>wenn auch anders, gewollt, nach <placeName ref="#rheinsberg">Rheinsberg</placeName> gefangen abgeführt worden.
+					<lb n="06"/>Die <rs ref="#amalie">Königen</rs> hat viel geweint; ihr <rs ref="#friedrich-august">Gemal</rs> stets eine ceremoniöse Kälte be<pc force="weak">-</pc>
 					<lb break="no" n="07"/>wiesen. <metamark>—</metamark> Die Stadt wird allmählig reiner, aber die Vorstädte noch keines<pc force="weak">-</pc>
 					<lb break="no" n="08"/>weges, da weder Wagen- noch Zugpferde vorhanden sind, und der Brodt<pc force="weak">-</pc>
-					<lb break="no" n="09"/>mangel dauert noch fort. <metamark>—</metamark> <persName key="napoleon">Napoleon</persName> hat sich, nach den Verlusten bei <placeName key="luetzen">Lützen</placeName>,
-					<lb n="10"/><placeName key="weissenfels">Weißenfels</placeName> <abbr ana="#etc">e⁊</abbr> nicht zu <placeName key="dornburg">Dornburg</placeName> festsetzen können, sondern scheint über <placeName key="weissenfels">Wei<pc force="weak">-</pc>
+					<lb break="no" n="09"/>mangel dauert noch fort. <metamark>—</metamark> <persName ref="#napoleon">Napoleon</persName> hat sich, nach den Verlusten bei <placeName ref="#luetzen">Lützen</placeName>,
+					<lb n="10"/><placeName ref="#weissenfels">Weißenfels</placeName> <abbr ana="#etc">e⁊</abbr> nicht zu <placeName ref="#dornburg">Dornburg</placeName> festsetzen können, sondern scheint über <placeName ref="#weissenfels">Wei<pc force="weak">-</pc>
 					<lb break="no" n="11"/>mar</placeName> sich zurückzuziehen. —
 				</p>
 			</div>
@@ -963,8 +963,8 @@
 					<lb n="19"/>werden sollen, sind jetzt nach den Belegen der <emph rend="u">Behörden</emph> <emph rend="u">selbst</emph>, nahe zu 40000 hier.
 					<lb n="20"/>— Ich und die Meinen aber, was Brodt anlangt, größtentheils von Geschen<pc force="weak">-</pc>
 					<lb break="no" n="21"/>ken: zu kaufen erlangen wir wenigstens nichts. <metamark>—</metamark> (<abbr ana="#nb">NB<am>.</am></abbr> Die Militär-Exe<pc force="weak">-</pc>
-					<lb break="no" n="22"/>cution im Hause des <abbr><unclear>OhGsRths</unclear></abbr> <persName key="siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
-					<lb n="23"/>der Lazarethe <placeName key="pfaffendorf">Pfaffendorf</placeName>, <hi rend="latin">Place de repos</hi> <abbr ana="#etc">e⁊</abbr>, voller Franzosen, durch Franzosen,
+					<lb break="no" n="22"/>cution im Hause des <abbr><unclear>OhGsRths</unclear></abbr> <persName ref="#siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
+					<lb n="23"/>der Lazarethe <placeName ref="#pfaffendorf">Pfaffendorf</placeName>, <hi rend="latin">Place de repos</hi> <abbr ana="#etc">e⁊</abbr>, voller Franzosen, durch Franzosen,
 					<lb n="24"/><emph rend="u">auf</emph> <emph rend="u">Befehl</emph>! <metamark>—</metamark> Das Kind des <abbr ana="#dr">D<am>.</am></abbr> Römisch, dem auf dem Schoose des Vaters
 					<lb n="25"/>eine Grenade das Aermchen wegreißt: „Vater, weine nicht: es wächst mit ein
 					<lb n="26"/>anderes: nicht wahr, Mutter?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <abbr ana="#dr">D<am>.</am></abbr> Heim<pc force="weak">-</pc>
@@ -976,11 +976,11 @@
 			<div n="17" xml:id="div.17">
 				<dateline n="02" rend="right">Den 26<hi rend="sup uu">sten</hi></dateline>
 				<p n="1" xml:id="p.17.1" xml:space="preserve">
-					<lb n="03"/>Der erste Gang in das Innere der Stadt, in einige Vorstädte, in den <placeName key="leipzig.loehrscher-garten">löhr<pc force="weak">-</pc>
-					<lb break="no" n="04"/>schen Garten</placeName> <abbr ana="#etc">e⁊</abbr> — die <rs key="RU">russische</rs> Handhabung der chirurgischen und ähnlichen An<pc force="weak">-</pc>
+					<lb n="03"/>Der erste Gang in das Innere der Stadt, in einige Vorstädte, in den <placeName ref="#leipzig.loehrscher-garten">löhr<pc force="weak">-</pc>
+					<lb break="no" n="04"/>schen Garten</placeName> <abbr ana="#etc">e⁊</abbr> — die <rs ref="#RU">russische</rs> Handhabung der chirurgischen und ähnlichen An<pc force="weak">-</pc>
 					<lb break="no" n="05"/>stalten in Lazarethen <abbr ana="#udgl">u dgl.</abbr> mit dem stock<!--[?]-->. <metamark>—</metamark> Das feierliche Leichenbegräbnis
-					<lb n="06"/><persName key="poniatowski">Poniatowskÿʼs</persName>. <metamark>—</metamark> Die verschiedenen und charakteristischen Geschenke <persName key="alexander">Alexanders</persName>
-					<lb n="07"/>und <persName key="friedrich-wilhelm">Friedrich Wilhelms</persName> an diejenigen, bei welchen sie gewohnt hatten. <metamark>—</metamark> Allmähliche
+					<lb n="06"/><persName ref="#poniatowski">Poniatowskÿʼs</persName>. <metamark>—</metamark> Die verschiedenen und charakteristischen Geschenke <persName ref="#alexander">Alexanders</persName>
+					<lb n="07"/>und <persName ref="#friedrich-wilhelm">Friedrich Wilhelms</persName> an diejenigen, bei welchen sie gewohnt hatten. <metamark>—</metamark> Allmähliche
 					<lb n="08"/>Rückkehr öffentlicher Ordnung, der nöthigsten Lebensmittel, der bürgerlichen Sicher<pc force="weak">-</pc>
 					<lb break="no" n="09"/>heit. —
 				</p>
@@ -989,7 +989,7 @@
 				<dateline n="10" rend="right">Den 27<hi rend="sup">sten</hi>, zum
 					Beschluß</dateline>
 				<p n="1" xml:id="p.18.1" xml:space="preserve">
-					<lb n="11"/>Ich war diesen Nachmittag zum erstenmale wieder selbst in <placeName key="connewitz">Connewitz</placeName>. —
+					<lb n="11"/>Ich war diesen Nachmittag zum erstenmale wieder selbst in <placeName ref="#connewitz">Connewitz</placeName>. —
 					<lb n="12"/>Ach wie weit entlegen ist unser Wissen von unserm Empfinden! fast so weit, als
 					<lb n="13"/>unser Empfinden von unserm Thun! Ich wußte fast vollständig, was ich, im
 					<lb n="14"/>ganzen Dorfe und in meinem Hause, finden würde; und hatte ich, in beidem, mir
@@ -1005,7 +1005,7 @@
 					<lb n="24"/>daß jene Nation, oder vielmehr, jener auswurf der Nation, der den größten
 					<lb n="25"/>Theil ihrer jetzigen Heere ausmacht, nicht nur, wie ihre Anführer selbst gestehen,
 					<lb n="26"/>aus Räubern und Unmenschen besteht, sondern aus recht eigentlich <emph rend="u">niederträch</emph>
-					<lb break="no" n="27"/>tigen Räubern, selbst ohne jenen <term key="honnet">honneten</term> Räubersinn, jenen blos furchtbaren
+					<lb break="no" n="27"/>tigen Räubern, selbst ohne jenen <term ref="#honnet">honneten</term> Räubersinn, jenen blos furchtbaren
 					<lb n="28"/>Räuberstolz, ohne natürliche, blos voll erkünstelter Wildheit, ohne natürliche, nur
 					<pb facs="http://digital.slub-dresden.de/id512116717/566" n="13v"/>
 					<lb n="01"/>in künstlicher, raffinirender Wuth! <metamark>—</metamark> Was mir geschehen, wird sich für den An<pc force="weak">-</pc>
