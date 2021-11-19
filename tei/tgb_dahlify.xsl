@@ -9,13 +9,13 @@
 			<xsl:apply-templates select="@* | node()"/>
 		</xsl:result-document>
 	</xsl:template>
-	
+
 	<!-- load indices file -->
 	<xsl:variable name="indices" select="document('indices.xml')/TEI/text/body"/>
 
-	<!-- expand abbreviations (all explicit) -->
+	<!-- expand abbreviations -->
 	<xsl:template match="abbr[@ana]">
-		<xsl:sequence select="$indices//item[@xml:id=current()/substring(@ana,2)]/*"/>
+		<xsl:sequence select="$indices//item[@xml:id = current()/substring(@ana, 2)]/*"/>
 	</xsl:template>
 
 	<!-- replace facsimile link by proper iiif manifesto link -->
