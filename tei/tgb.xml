@@ -100,7 +100,7 @@
 	</teiHeader>
 	<text source="#M1" xml:lang="de">
 		<front>
-			<pb n="U1"/>
+			<pb n="U1" facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000539.tif.large.jpg/full/full/0/default.jpg"/>
 			<p xml:space="preserve">
 				<lb n="01"/>Tagebuch über die Begeben
 				<lb break="no" n="02"/>heiten von <placeName key="leipzig">Leipzig</placeName>
@@ -110,12 +110,12 @@
 				<lb n="04"/>von
 				<lb n="05"/>Fr. <hi rend="u">Rochlitz</hi>
 			</p>
-			<pb n="U2"/>
+			<pb n="U2" facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000540.tif.large.jpg/full/full/0/default.jpg"/>
 			<!--vacat-->
 		</front>
 		<body>
 			<div n="1" xml:id="div.1">
-				<pb facs="http://digital.slub-dresden.de/id512116717/541" n="1r"/>
+				<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000541.tif.large.jpg/full/full/0/default.jpg" n="1r"/>
 				<dateline n="01" rend="right">Den <date when="1813-10-11">11<hi rend="sup uu"
 							>ten</hi> Oct. 1813</date>.</dateline>
 				<p n="1" xml:id="p.1.1" xml:space="preserve">
@@ -154,7 +154,7 @@
 					<lb n="29"/>Seitdem ist unsere, so wie die öffentliche Noth, täglich gewachsen. In meinem
 					<lb n="30"/>Hause zu <placeName key="connewitz">Connewitz</placeName> ist alles, was sich nur zum Verkaufen oder Verbrennen
 					<lb n="31"/>ausbrechen ließ, gestohlen oder verbrannt. Keine Barriere, keine Thüre,
-					<pb facs="http://digital.slub-dresden.de/id512116717/542" n="1v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000542.tif.large.jpg/full/full/0/default.jpg" n="1v"/>
 					<lb n="01"/>keine Gartenwand von Holz mehr <abbr ana="#udgl">u dgl</abbr>. Im Garten stahn nur noch die Linden
 					<lb n="02"/>und wenig Bäume, und auch diese sind vielleicht in dieser Nacht gefallen.
 					<lb n="03"/>Den Pavillon haben gestern meine Nachbarn nur durch Zufall gerettet: man
@@ -171,7 +171,7 @@
 					<lb n="14"/>Wir müßen sterben, aber ihr solltʼs auch! Die Einquartierung in der
 					<lb n="15"/>Stadt – im <placeName key="leipzig.catharinenstr.415">Hause der Catharinenstraße</placeName> stets zwischen 40 und 60 Mann,
 					<lb n="16"/>dauert ununterbrochen fort; in meiner Wohnung habe ich zwei Kriegscom
-					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <abbr ana="#rth">r⁊.</abbr><!--?--> für die Ein
+					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <abbr ana="#rth">r⁊.</abbr> für die Ein
 					<lb break="no" n="18"/>quartierten im Monat <date when="1813-09">September</date>; diese Nacht (ich schreibe <time when="0600">früh gegen 6 Uhr</time>)
 					<lb n="19"/>habe ich, seit dem <time when="1100">11<hi rend="sup">ten</hi></time> zum erstenmale, drei Stunden fest, vor Erschöpfung,
 					<lb n="20"/>schlafen können. In der Stadt sind 13000 Kranke und Verwundete: der
@@ -219,7 +219,7 @@
 					<lb break="no" n="29"/>zeigte auch seinen Glauben an eine ganz nahe Wiederherstellung <hi rend="latin">in integrum</hi>. <metamark>—</metamark>
 					<lb n="30"/>Herr <persName key="dufour">Dufour</persName>, der ältere, ist der, von allen in der herrschenden Partei begün
 					<lb break="no" n="31"/>stigste Bürger <placeName key="leipzig">Leipzigs</placeName>; wird besonders von Franzosen<metamark function="order" place="above">2</metamark> vornehmen<metamark function="order" place="above">1</metamark> und Polen
-					<pb facs="http://digital.slub-dresden.de/id512116717/544" n="2v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000544.tif.large.jpg/full/full/0/default.jpg" n="2v"/>
 					<lb n="01"/>sehr ausgezeichnet; und sogar in <placeName key="connewitz">Connewitz</placeName> ist sein prächtiges Haus, wiewohl am
 					<lb n="02"/>ersten Anlaufe gelegen, nicht berührt worden – denn das ist ein Franzos, sag
 					<lb break="no" n="03"/>ten alle dort Befehlende, als man ihm nur einen Antheil der Einquartierung
@@ -256,7 +256,7 @@
 					<lb n="28"/>die Nachricht, es sei in der ganzen Stadt schlechterdings nichts von Nahrungs
 					<lb break="no" n="29"/>mitteln käuflich, (es war Sonnabend, der Hauptmarkttag) aufmerksa
 					<lb break="no" n="30"/>mer wurde. Die Sache selbst bestätigte sich so vollkommen, daß selbst
-					<pb facs="http://digital.slub-dresden.de/id512116717/545" n="3r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000545.tif.large.jpg/full/full/0/default.jpg" n="3r"/>
 					<lb n="01"/>einer der bei mir wohnenden Commißäre vergeblich sich bemühte, und erklärte,
 					<lb n="02"/>solcher <emph>gänzlicher</emph> <emph>Mangel</emph> sei in <placeName key="dresden">Dresden</placeName> auch nicht Einen Tag gewesen. Auch ich
 					<lb n="03"/>ging aus, und kehrte erst <time when="0830">halb 9 Uhr</time> zu den Meinen zurück, als die Kanonade leb
@@ -294,7 +294,7 @@
 					<lb n="31"/>wurde dieß, so wir die Kanonade, sortgesetzt. Um die Mittagstunde wandelte
 					<lb n="32"/>sich der Hauptpun<del rend="overwritten">c</del>kt weiter gegen <placeName key="schleusig">Schleusig</placeName> <abbr ana="#etc">e⁊</abbr>, mithin schienen die <abbr>Franz<ex>osen</ex><am>.</am></abbr> hier of
 					<lb break="no" n="33"/>fenbar zu weichen: da brach der <rs key="napoleon">Kaiser</rs> selbst eben von dieser Seite heraus,
-					<pb facs="http://digital.slub-dresden.de/id512116717/546" n="3v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000546.tif.large.jpg/full/full/0/default.jpg" n="3v"/>
 					<lb n="01"/>(vom <placeName key="leipzig.petersthor">Petersthore</placeName>) und nun überstieg die Hitze das Feuers aller Art auf diesem
 					<lb n="02"/>Punkte jeden Begriff. Allem Ansehn nach hatten die <rs key="RU">Russen</rs> die Verbindung jenes
 					<lb n="03"/>ersten und dieses dieses zweiten Corps (über <placeName key="connewitz">Connewitz</placeName>, <placeName key="gautzsch">Gautzsch</placeName> <abbr ana="#etc">e⁊</abbr> links) unterhalten
@@ -330,7 +330,7 @@
 					<lb break="no" n="29"/>wärts, oder auch nur zur Seite hin zu weichen, ununterbrochen fort, bis
 					<lb n="30"/>der Abend schon ganz herein gebrochen war. Mit dem Dunkel minderte sich
 					<lb n="31"/>zwar die Kanonade, aber das <term key="peloton">Pelotonfeuer</term> dauerte bis gegen 7 Uhr, und
-					<pb facs="http://digital.slub-dresden.de/id512116717/547" n="4r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000547.tif.large.jpg/full/full/0/default.jpg" n="4r"/>
 					<lb n="01"/>dieser Punkt wurde fest behauptet von beiden Parteien, so wie die Stellung bei Wolk
 					<lb break="no" n="02"/>witz von den <rs key="AU">Oesterreichern</rs>.</p>
 				<p xml:id="p.3.5" xml:space="preserve">
@@ -370,7 +370,7 @@
 					<lb n="31"/>Feuern. Die <rs key="CO">Alliirten</rs> haben, heißt es, in der Gegend vom <placeName key="leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName key="leipzig.petersthor">Pe
 					<lb break="no" n="32"/>tersthore</placeName> hinaus, das Schlachtfeld in der Nacht verlaßen, und einige Stunden
 					<lb n="33"/>weiter hinaus eine neue Position genommen. Zu <placeName key="connewitz">Connewitz</placeName> war, wie auch
-					<pb facs="http://digital.slub-dresden.de/id512116717/548" n="4v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000548.tif.large.jpg/full/full/0/default.jpg" n="4v"/>
 					<lb n="01"/>in <placeName key="lindenau">Lindenau</placeName> <abbr ana="#etc">e⁊</abbr> mehrmals Feuer, obgleich im erstern Dorfe selbst nicht gefochten
 					<lb n="02"/>wurde. Niemand war da zu löschen, und da durchaus nicht Ein Stück Zugvieh
 					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><abbr ana="#dr">D<am>.</am></abbr></hi> <persName key="hillig">Hilligs</persName> Guth,
@@ -405,7 +405,7 @@
 					<lb n="29"/><placeName key="grimma">Grimma</placeName> hin, gezogen. Man hörte unaufhörlich, doch ziemlich entfernt,
 					<lb n="30"/>das Geschütz. Jetzt, Abends spät, k<del rend="overwritten">o</del>am<del>m</del>en meine Commißäre daher
 					<lb n="31"/>zurück und sagten, sie haben dort einen großen und harten Kampf gehabt,
-					<pb facs="http://digital.slub-dresden.de/id512116717/549" n="5r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000549.tif.large.jpg/full/full/0/default.jpg" n="5r"/>
 					<lb n="01"/>aber gesiegt. Haufenweise habe sie weit und breit Todte und Verwundete liegen
 					<lb n="02"/>gesehen. <metamark>—</metamark> Unser <rs key="friedrich-august">König</rs> hat vom <rs key="karl-johann">König von Schweden</rs> einen Parlementär
 					<lb n="03"/>erhalten, und soll seitdem beschloßen haben, <placeName key="leipzig">Leipzig</placeName> schlechterdings nicht zu ver
@@ -442,7 +442,7 @@
 					<lb break="no" n="30"/>nem Hause noch nicht, als der Knabe weggegangen war. Niemand war da,
 					<lb n="31"/>der löschte. Weiter weiß ich nichts, und will nichts wißen. Helfen kann ich
 					<lb n="32"/>ja doch nicht. <metamark>—</metamark> Indeß nahet die Stunde, wo die Convention zu Ende läuft.
-					<pb facs="http://digital.slub-dresden.de/id512116717/550" n="5v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000550.tif.large.jpg/full/full/0/default.jpg" n="5v"/>
 					<lb n="01"/>Nur wegen Feuers habe ich weniges gepackt und in den Keller geschafft; das Uebri
 					<lb break="no" n="02"/>ge, was leicht sich besorgen läßt, habe ich, so wie die Meinen, verquartiert, in die
 					<lb n="03"/>winzige auf die Straße heraus, die nur noch gebließen ist. Von Schlaflo
@@ -478,7 +478,7 @@
 					<lb n="29"/>gelöscht werden konnte. <metamark>—</metamark> Indeß ist, seit etwa <time>vier Uhr</time>, die Kanonade
 					<lb n="30"/>almählig verstummt, (man war zu nahe <term key="handgemein">handgemein</term>) auch das Feuer des
 					<lb n="31"/>kleinen Gewehrs ist schwächer geworden, hat sich mehr entfernt, und nun, seit
-					<pb facs="http://digital.slub-dresden.de/id512116717/551" n="6r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000551.tif.large.jpg/full/full/0/default.jpg" n="6r"/>
 					<lb n="01"/><time>halb 5 Uhr</time> hört es fast ganz auf, die Passage der Flüchtenden zum <placeName key="leipzig.ranstaedter-thor">ranstädter
 					<lb n="02"/>Thore</placeName> hinaus ward wieder offen, die Officiere im <placeName key="leipzig.klostergasse.162">Kloster</placeName> kehrten eben zu
 					<lb break="no" n="03"/>rück, und trugen noch einen General herein mit seinem Adjutanten, die beide
@@ -517,7 +517,7 @@
 					<lb n="30"/>bis auf Weiteres, durchaus Meister von <placeName key="leipzig">Leipzig</placeName>. Napoleon muß schon bei
 					<lb n="31"/>seiner ersten  Ankunft in <placeName key="leipzig">Leipzig</placeName> jene Stellung beabsichtigt haben, die freilich
 					<lb n="32"/>nicht nur an sich trefflich für <emph>solch</emph> <emph>eine</emph> Armee, sondern auch noch nicht ganz
-					<pb facs="http://digital.slub-dresden.de/id512116717/552" n="6v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000552.tif.large.jpg/full/full/0/default.jpg" n="6v"/>
 					<lb n="01"/>ausgezehrt, und überdieß ein Hauptschlüßel zu einem Ausweg in der Noth.
 					<lb n="02"/>Von den Höhen dort kann er seine schwächere Artillerie gegen die stärkere und
 					<lb n="03"/><emph>schwerere</emph> der <rs key="CO">Alliirten</rs> mit Vortheil brauchen; seine, mit Ausschluß weniger Regi
@@ -555,7 +555,7 @@
 				</p>
 			</div>
 			<div n="10" xml:id="div.10">
-				<pb facs="http://digital.slub-dresden.de/id512116717/553" n="7r"/>
+				<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000553.tif.large.jpg/full/full/0/default.jpg" n="7r"/>
 				<dateline n="01">Abends 7 Uhr.</dateline>
 				<p xml:id="p.10.1" xml:space="preserve">
 					<lb n="02"/>Dieser Tag – <abbr ana="#und">u</abbr> diesen Tag beschreibe, wer es kann! Wo sollte selbst der, wel
@@ -591,7 +591,7 @@
 					<lb n="30"/>selbst habe vor meinen Fenstern gesehen, wie Franzosen mit Franzosen hieben,
 					<lb n="31"/>um einige Minuten Vorsprung zu gewinnen. Aber auch dieß war umsonst. In
 					<lb break="no" n="32"/>dem ich noch unsere Habe ordnete, und schleppte, krachten wieder Granaten herein,
-					<pb facs="http://digital.slub-dresden.de/id512116717/554" n="7v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000554.tif.large.jpg/full/full/0/default.jpg" n="7v"/>
 					<lb n="01"/>und Flintenkugeln fielen in den Hof. Jetzt gab ich dem Bitten der Meinen nach und
 					<lb n="02"/>ging mit hinunter in das Riquetsche Gewölbe<!--?-->, das bombenfest und sehr geräuming ist.
 					<lb n="03"/>Das ganze Personale der Einwohner des <placeName key="leipzig.klostergasse.162">Klosters</placeName> war hier schon versammelt, und es
@@ -624,7 +624,7 @@
 					<lb n="28"/>mirhin, und so ging ich immer wieder in meinen Schwitzkasten. Endlich, endlich –
 					<lb n="29"/>es war drei Viertel auf Ein Uhr, – erhob sich auf der Straße ein gräßliches
 					<lb n="30"/>Zetergeschrei. Es zog vor dem Hause vorüber; ein wilder Tumult folgte, durch den
-					<pb facs="http://digital.slub-dresden.de/id512116717/555" n="8r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000555.tif.large.jpg/full/full/0/default.jpg" n="8r"/>
 					<lb n="01"/>man dann einzelne Männerstimmen vernahm<del>t</del>: es war errungen – das er
 					<lb break="no" n="02"/>ste Corps <rs key="PR">Preußen</rs>, Infanterie, mit einem Trupp <rs key="KS">Kosaken</rs>, drang jauchzend, aber
 					<lb n="03"/>anständig, die Straße herauf. Eine seltsame Wendung machte, daß die ersten
@@ -661,7 +661,7 @@
 					<lb break="no" n="28"/>re wegwarfen und Pardon heulten, wie wohl von dem gehemmten Fuhrwesen
 					<lb n="29"/>vor meinen Fenster und den gestohlnen Heerden alles preisgegeben ward <abbr ana="#etc">e⁊</abbr>
 					<lb n="30"/>So hatten sich doch in Häusern, in den Zwingern, in die Gärten, anlagen <abbr ana="#etc">e⁊</abbr> selbst in unser
-					<pb facs="http://digital.slub-dresden.de/id512116717/556" n="8v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000556.tif.large.jpg/full/full/0/default.jpg" n="8v"/>
 					<lb n="01"/>winziges Gärtchen am Hause und in deßen kleines Lusthaus, <rs key="FR">Franzosen</rs> verstecke, und feuer
 					<lb break="no" n="02"/>ten keck und mit größter Todesverachtung, wo sie glaubten, etwas erreichen zu können.
 					<lb n="03"/>Ja selbst in dieser Stunde <term key="plaenkern">plänkern</term> von den Gärten, Wiesen <abbr ana="#etc">e⁊</abbr> immerfort einzelne
@@ -699,7 +699,7 @@
 					<lg>
 						<l n="31">Was auch das Schicksal ihm geraubt,</l>
 						<l n="32">Ein süßer Trost ist ihm geblieben:</l>
-						<pb facs="http://digital.slub-dresden.de/id512116717/557" n="9r"/>
+						<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000557.tif.large.jpg/full/full/0/default.jpg" n="9r"/>
 						<l n="01">Er zählt die Häupter seiner Lieben,</l>
 						<l n="02a">Und sieh, es fehlt kein theures Haupt. — — </l>
 					</lg>
@@ -736,7 +736,7 @@
 					<lb n="27"/>diesen Morgen? rufen Sie. Da da muß ich doch erwähnen: wir haben an mehrern
 					<lb n="28"/>Orten in der Nacht Feuer gehabt, deren eines, in der <placeName key="leipzig.ranstaedter-vorstadt">ranstädter Vorstadt</placeName>, sehr mäch
 					<lb break="no" n="29"/>tig werden konnte, nun aber doch nur vier Häuser verzehrt hat. Zufällig war ich
-					<pb facs="http://digital.slub-dresden.de/id512116717/558" n="9v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000558.tif.large.jpg/full/full/0/default.jpg" n="9v"/>
 					<lb n="01"/>Einer der Ersten, die geweckt wurden, (die Wohnung des Baumeisters <persName key="vollsack">Vollsack</persName> ist nur
 					<lb n="02"/>durch eine leichte Wand von meinem Schlafzimmer getrennt,) und auf der Straße,
 					<lb n="03"/>als dort noch kaum etwas verlautete. Man durche nemlich nicht stürmen. Ich wand
@@ -767,7 +767,7 @@
 					<lb n="28"/>Das ließ ich folglich bleiben und kehrte <add place="above">bald</add> wieder zurück, um so ehr, da ich mich nun
 					<lb n="29"/>ganz kreuz- und schulterlahm fühlte; – ich mag mich wohl gestern verhoben
 					<lb n="30"/>und übernommen haben. <metamark>—</metamark> Von <placeName key="connewitz">Connewitz</placeName> weiß ich noch nichts, und verstatte
-					<pb facs="http://digital.slub-dresden.de/id512116717/559" n="10r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000559.tif.large.jpg/full/full/0/default.jpg" n="10r"/>
 					<lb n="01"/>Niemanden, hinauszugehen, weil noch immer aus den Gärten und Gehölzen viel
 					<lb n="02"/>einzelne Schüsse fallen. <metamark>—</metamark> Übrigens ist es wohl nichts geradehin Haß zu nennen,
 					<lb n="03"/>wenn man jenes Unglück den <rs key="FR">Franzosen</rs> zuschreibt: man hat wirklich und
@@ -803,7 +803,7 @@
 					<lb n="29"/>Thore ertrunken. Man hat ihn gefunden. Er wollte, als zu keinem Thore mehr
 					<lb n="30"/>hinauszukommen war, durch die <geogName key="elster">Elster</geogName> bei <placeName key="leipzig.richters-garten">Richters Garten</placeName> über die Wiesen.
 					<lb n="31"/>Ein Gleiches vermuthete man mit <persName key="reynier">Reguier</persName>. Doch was vermuthet man nicht! <metamark>—</metamark>
-					<pb facs="http://digital.slub-dresden.de/id512116717/560" n="10v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000560.tif.large.jpg/full/full/0/default.jpg" n="10v"/>
 					<lb n="01"/>Das weiß ich aber von Augenzeugen: <persName key="napoleon">Napoleon</persName>, der <rs key="murat">König von Neapel</rs> <abbr ana="#etc">e⁊</abbr> mit ihren
 					<lb n="02"/>Garden zu Pferde, sind zum Flößthore (der rechten Seite des <placeName key="leipzig.petersthor">Petersthores</placeName>) hinaus,
 					<lb n="03"/>über Wiesen <abbr ana="#etc">e⁊</abbr> nach <placeName key="lindenau">Lindenau</placeName> gekommen, haben dort in der Mühle gegeßen,
@@ -834,7 +834,7 @@
 					<lb n="28"/>vorgehe. Sie mußten mit Gewalt zurückgetrieben werden: der gräuliche Ge
 					<lb break="no" n="29"/>danke war unter sie gekommen, man solle die Kirche mit ihnen allen in die
 					<lb n="30"/>Luft sprengen, um sie nicht mehr ernähren zu müßen. <metamark>—</metamark> <placeName key="wittenberg">Wittenberg</placeName> und
-					<pb facs="http://digital.slub-dresden.de/id512116717/561" n="11r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000561.tif.large.jpg/full/full/0/default.jpg" n="11r"/>
 					<lb n="01"/><placeName key="torgau">Torgau</placeName> sind noch nicht über; von <placeName key="dresden">Dresden</placeName> haben wir keine Nachricht. Ach wahr
 					<lb break="no" n="02"/>scheinlich <del>habt</del><add place="above">seÿd</add> Ihr Freunde einem Schicksal nahe, daß dem unsrigen gleich ist!
 					<lb n="03"/><metamark>—</metamark> Unser König hat sich fest erklärt, bei seiner Verbindung mit <persName key="napoleon">Napoleon</persName>
@@ -869,7 +869,7 @@
 					<lb break="no" n="28"/>gen, <abbr ana="#und">u</abbr>, wie es heißt, (<del>wenn</del><add place="above">de<g ana="#lig-nn">nn</g></add> man sahe eben nichts) verwundet worden in
 					<lb n="29"/>dem großen Gefecht, das die Nachsetzenden bei <persName key="merseburg">Merseburg</persName> und <persName key="weissenfels">Weißenfels</persName>
 					<lb n="30"/>mit ausgezeichnetem Vortheil, g<unclear>e</unclear>liefert haben. Bei <placeName key="erfurt">Erfurt</placeName> stehet eine starke
-					<pb facs="http://digital.slub-dresden.de/id512116717/562" n="11v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000562.tif.large.jpg/full/full/0/default.jpg" n="11v"/>
 					<lb n="01"/>Armee der <rs key="CO">Alliirten</rs>, und nach <placeName key="frankfurt">Frankfurt</placeName> gehet eine zweite, <persName key="napoleon">Napoleon</persName> zu empfangen
 					<lb n="02"/>und jene Verbindung mit <persName key="schmiel">Schmühl</persName> zu verhindern. Dieß erfahre ich <del>als</del> eben als eine
 					<lb n="03"/>ganz zuverläßige Wahrheit. <metamark>—</metamark> Auch der <rs key="casanova.general">Herzog von Padua</rs> ist gefangen. Die Ge
@@ -903,7 +903,7 @@
 					<lb n="27"/>alle dem waren die versteckt gefundenen <rs key="FR">Franzosen</rs> fest überzeugt, und hatten
 					<lb n="28"/>daher lieber verschmachten wollen, nachdem sie sich verschossen, als sich ergeben.
 					<lb n="29"/>Ein Hauptunglück <persName key="napoleon">Napoleons</persName> ist Mangel an groben Geschütz <abbr ana="#und">u</abbr> wenig Munition.
-					<pb facs="http://digital.slub-dresden.de/id512116717/563" n="12r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000563.tif.large.jpg/full/full/0/default.jpg" n="12r"/>
 					<lb n="01"/>Schon hier in <placeName key="leipzig">Leipzig</placeName> sing es sehr an, an letzterer zu gebrechen: man suchte
 					<lb n="02"/>auch nach kleinen Vorräthen angstlich bei den <del>H<unclear extent="1" unit="chars"/></del> Kaufleuten, und mehrere Corps
 					<lb n="03"/>vertheidigten sich zuletzt mit halben Provisionen. <metamark>—</metamark> Der gestern Abend erschie
@@ -933,7 +933,7 @@
 					<lb break="no" n="27"/>logen, weil sie die alten Instrumente, Tonarten, ja meist überhaupt Musik, nicht
 					<lb n="28"/>verstanden. Ich habe gleich die Melodieen aufgezeichnet, und selbst die Rÿthmen
 					<lb n="30"/>der Trommeln <abbr ana="#etc">e⁊</abbr>, doch ich setze lieber etwas darüber für die musikalische Zei-					
-					<pb facs="http://digital.slub-dresden.de/id512116717/564" n="12v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000564.tif.large.jpg/full/full/0/default.jpg" n="12v"/>
 					<lb n="01"/>tung auf, und breche hier davon ab. — — (<hi rend="latin"><abbr ana="#nb">NB<am>.</am></abbr></hi> der <rs>russische Graf</rs>, bei der
 					<lb n="02"/>Frau Baum. <persName>Winkler</persName> einquartiert.)
 				</p>
@@ -969,7 +969,7 @@
 					<lb n="25"/>eine Grenade das Aermchen wegreißt: „Vater, weine nicht: es wächst mit ein
 					<lb n="26"/>anderes: nicht wahr, Mutter?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <abbr ana="#dr">D<am>.</am></abbr> Heim
 					<lb break="no" n="27"/>roth den Verwundeten <abbr ana="#und">u</abbr> Kranken seines Lazareths eichten konnte: etwa
-					<pb facs="http://digital.slub-dresden.de/id512116717/565" n="13r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000565.tif.large.jpg/full/full/0/default.jpg" n="13r"/>
 					<lb n="01"/>zwei Bissen Brodt und ein Löffel Wein.)
 				</p>
 			</div>
@@ -1007,7 +1007,7 @@
 					<lb n="26"/>aus Räubern und Unmenschen besteht, sondern aus recht eigentlich <emph>niederträch</emph>
 					<lb break="no" n="27"/>tigen Räubern, selbst ohne jenen <term key="honnet">honneten</term> Räubersinn, jenen blos furchtbaren
 					<lb n="28"/>Räuberstolz, ohne natürliche, blos voll erkünstelter Wildheit, ohne natürliche, nur
-					<pb facs="http://digital.slub-dresden.de/id512116717/566" n="13v"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000566.tif.large.jpg/full/full/0/default.jpg" n="13v"/>
 					<lb n="01"/>in künstlicher, raffinirender Wuth! <metamark>—</metamark> Was mir geschehen, wird sich für den An
 					<lb break="no" n="02"/>blick und das Urtheil Anderer mit der Zeit allmälig wiederherstellen laßen,
 					<lb n="03"/>obgleich nicht, nach dem Urtheile des Mau<add place="above">r</add>ermeisters, mit geringen Kosten, als
@@ -1036,7 +1036,7 @@
 					<lb n="26"/>Kind, im stande der Unschuld, unter den Bäumen und – Thieren Edens
 					<lb n="27"/>herumgeht, ohne mehr von ihnen zu begreifen, als nöthig ist, ihnen Namen
 					<lb n="28"/>zu geben. <metamark>—</metamark> Soll ich länger leben, Gott! so erhalte in mir nur jene Gerechtig
-					<pb facs="http://digital.slub-dresden.de/id512116717/567" n="14r"/>
+					<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000567.tif.large.jpg/full/full/0/default.jpg" n="14r"/>
 					<lb break="no" n="01"/>keit; woher der Verachtung, woher der Bitterkeit, da kalte Gleichgültigkeit mei
 					<lb break="no" n="02"/>ner ganzen Natur nun einmal entgegen ist, und du mir weder Herrschersinn,
 					<lb n="03"/>noch Herrsch<del>er</del>talent verliehen hast! <emph>Ich</emph> kann nun einmal nur das Ganze im
@@ -1049,7 +1049,7 @@
 					<lb n="10"/>daß ich nicht schlechter werde. —</p>
 				<metamark style="signatureLike" function="end"/>
 			</div>
-			<pb facs="http://digital.slub-dresden.de/id512116717/568" n="14v"/>
+			<pb facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000568.tif.large.jpg/full/full/0/default.jpg" n="14v"/>
 			<!--vacat-->
 		</body>
 		<back>
