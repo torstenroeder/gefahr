@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Register</title>
+				<principal ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</principal>
+			</titleStmt>
+			<publicationStmt>
+				<p>CC BY 4.0</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>
+					<ref
+						target="http://www.deutschefotothek.de/documents/obj/70301916/df_dk_0001191"
+						>Grundriss von der Handels-Stadt Leipzig, ca. 1:3 000, Handzeichnung,
+						1803</ref>
+					<ref
+						target="http://www.deutschefotothek.de/documents/obj/90064016/df_dk_0012014"
+						>Plan der Schlacht bei Wachau und des Gefechts bei Connewitz am 16. October
+						1813, ca. 1:25 000, Lithographie, 1852</ref>
+				</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<!--"Lazarett vor der Stadt" (3000 Pers.) ?-->
+	<text xml:lang="de">
+		<body>
+			<listEvent>
+				<event xml:id="revolution-1775">
+					<label>1775</label>
+					<desc>Beginn der amerikanischen Revolution</desc>
+				</event>
+				<event xml:id="revolution-1788">
+					<label>1788</label>
+					<desc>Vorjahr der französischen Revolution</desc>
+				</event>
+			</listEvent>
+			<list xml:id="abbreviations">
+				<head>Abkürzungen und Ligaturen</head>
+				<item xml:id="und"><abbr>u.</abbr><expan>u<ex>nd</ex></expan></item>
+				<item xml:id="etc"><abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan></item>
+				<item xml:id="udgl"><abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></item>
+				<item xml:id="nb"><abbr>NB</abbr><expan>N<ex>ota</ex>b<ex>ene</ex></expan></item>
+				<item xml:id="dr"><abbr>D.</abbr><expan>D<ex>oktor</ex></expan></item>
+				<item xml:id="rth"><abbr>r⁊.</abbr><expan>Reichsthaler</expan></item>
+			</list>
+			<list xml:id="terms">
+				<head>Begriffe</head>
+				<item xml:id="anhelfen">
+					<label>anhelfen</label>
+					<note>anhelfen: anraten</note>
+				</item>
+				<item xml:id="biwouak">
+					<label>Biwouak, Biwak</label>
+					<note>Lager der Nachtwache</note>
+					<ref target="http://www.zeno.org/nid/20000785636">zeno.org</ref>
+				</item>
+				<item xml:id="eisenreck">
+					<label>Eisenreck</label>
+					<note>svw. Stangen</note>
+				</item>
+				<item xml:id="excediren">
+					<label>excediren</label>
+					<desc>zu weit gehen</desc>
+					<ref target="http://www.zeno.org/nid/20003326632">Herder 1854 (zeno.org)</ref>
+				</item>
+				<item xml:id="fourage">
+					<label>Fourage, Farrage</label>
+					<note>Pferdefutter (Hafer, Heu oder Stroh)</note>
+				</item>
+				<item xml:id="handgemein">
+					<label>handgemein</label>
+					<desc>handgreiflich</desc>
+					<ref target="http://www.zeno.org/nid/20000215619">Adelung 1796 (zeno.org)</ref>
+				</item>
+				<item xml:id="honnet">
+					<label>honnet</label>
+					<note>vgl. frz. honnête: redlich</note>
+				</item>
+				<item xml:id="musjeh">
+					<label>Musjeh</label>
+					<note>landläufig: von frz. Monsieur</note>
+				</item>
+				<item xml:id="peloton">
+					<label>Peloton</label>
+					<note>Kleingewehr</note>
+				</item>
+				<item xml:id="plaenkern">
+					<label>plänkern</label>
+					<note>hier: erklingen (von Schüssen)</note>
+				</item>
+				<item xml:id="reuter">
+					<label>Reuter</label>
+					<desc>Reiter</desc>
+					<ref target="http://www.zeno.org/nid/20000381543">zeno.org</ref>
+				</item>
+				<item xml:id="sauve-garde">
+					<label>Sauve-Garde</label>
+					<note>Schutzwache, die einzelnen Personen von der Truppenführung gewährt werden
+						konnten, um Plünderungen und Mißhandlungen zu verhindern.</note>
+					<ref target="https://de.wikipedia.org/wiki/Sauvegarde">de.wikipedia.org</ref>
+				</item>
+				<item xml:id="tusculanum">
+					<label>Tusculanum</label>
+					<desc>Ciceros Landsitz; wurde von seinen Feinden in Brand gesteckt</desc>
+					<ref target="http://www.zeno.org/nid/20000777978">zeno.org</ref>
+				</item>
+				<item xml:id="twing">
+					<label>Twing</label>
+					<desc>hier: Zwang; eigentlich mittelalterlicher Rechtsbegriff</desc>
+					<ref target="https://de.wikipedia.org/wiki/Zwing_und_Bann"
+						>de.wikipedia.org</ref>
+				</item>
+				<item xml:id="urias-posten">
+					<label>Urias-Posten</label>
+					<desc>Position an der Frontlinie</desc>
+					<ref target="https://www.bibleserver.com/text/EU/2.Samuel11">2 Sam 11</ref>
+				</item>
+				<item xml:id="vierundzwanzigpfuender">
+					<label>Vierundzwanzigpfünder</label>
+					<note>Kaliber einer leichten Kanone (Karronade) von 14,40 cm</note>
+					<ref target="https://de.wikipedia.org/wiki/Karronade">de.wikipedia.org</ref>
+				</item>
+				<item xml:id="weichbild">
+					<label>Weichbild</label>
+					<desc>hier: Stadtgebiet</desc>
+					<ref target="https://de.wikipedia.org/wiki/Weichbild">de.wikipedia.org</ref>
+				</item>
+			</list>
+			<listBibl xml:id="quotes">
+				<head>Zitate</head>
+				<bibl xml:id="ps-2-4">
+					<title level="m">Bibel</title>
+					<title level="a">Psalm 2,4</title>
+					<ref target="https://www.bibleserver.com/text/EU/Psalm2">bibleserver.com</ref>
+				</bibl>
+				<bibl xml:id="jesaja-49-15">
+					<title level="m">Bibel</title>
+					<title level="a">Jesaja 49,15</title>
+					<ref target="https://www.bibleserver.com/text/EU/Jesaja49">bibleserver.com</ref>
+				</bibl>
+				<bibl xml:id="lk-11-20">
+					<title level="m">Bibel</title>
+					<title level="a">Lukas 11,20</title>
+					<ref target="https://www.bibleserver.com/text/EU/Lukas11">bibleserver.com</ref>
+				</bibl>
+				<bibl xml:id="goethe-klio">
+					<author>Johann Wolfgang <surname>Goethe</surname></author>
+					<title level="m">Hermann und Dorothea</title>
+					<title level="a">VI. Klio. Das Zeitalter</title>
+					<biblScope>Z. 19</biblScope>
+					<ref target="http://www.zeno.org/nid/20004849647">zeno.org</ref>
+				</bibl>
+				<bibl xml:id="goethe-mond">
+					<author>Johann Wolfgang <surname>Goethe</surname></author>
+					<title level="a">An den Mond</title>
+					<ref target="http://www.zeno.org/nid/20004839706">zeno.org</ref>
+				</bibl>
+				<bibl xml:id="rabener-ferber">
+					<author>Gottlieb Wilhelm <surname>Rabener</surname></author>
+					<title>Briefe</title>
+					<editor>Christian Felix <surname>Weiße</surname></editor>
+					<pubPlace>Frankfurt</pubPlace>
+					<pubPlace>Hanau</pubPlace>
+					<pubPlace>Leipzig</pubPlace>
+					<date>1776</date>
+					<biblScope>S. 274–282</biblScope>
+					<note>Rabener beschreibt in seinem Brief vom 12. August 1760 an Friedrich
+						Wilhelm Ferber, wie bei der Beschießung Dresdens im vergangenen Juli sein
+						Haus und all seine Habe von den Flammen verzehrt wurden.</note>
+					<ref target="http://resolver.staatsbibliothek-berlin.de/SBB000109F800000344"
+						>SBPK</ref>
+				</bibl>
+				<bibl xml:id="schiller-jaeger">
+					<author>Friedrich <surname>Schiller</surname></author>
+					<title level="m">Wallensteins Lager</title>
+					<title level="a">6. Auftritt</title>
+					<persName>Erster Jäger</persName>
+					<ref target="http://www.zeno.org/nid/20005608279">zeno.org</ref>
+				</bibl>
+				<bibl xml:id="schiller-sklave">
+					<author>Friedrich <surname>Schiller</surname></author>
+					<title level="a">Die Worte des Glaubens</title>
+					<biblScope>Z. 12f.</biblScope>
+					<ref target="http://www.zeno.org/nid/20005596491">zeno.org</ref>
+				</bibl>
+				<bibl xml:id="schiller-wachtmeister">
+					<author>Friedrich <surname>Schiller</surname></author>
+					<title level="m">Wallensteins Lager</title>
+					<title level="a">6. Auftritt</title>
+					<persName>Wachtmeister</persName>
+					<ref target="http://www.zeno.org/nid/20005608279">zeno.org</ref>
+				</bibl>
+			</listBibl>
+			<listPerson xml:id="persons">
+				<!--nicht identifizierbare Personen-->
+				<person xml:id="anonymus">
+					<name>***</name>
+				</person>
+				<!--Rochlitz und Familie-->
+				<person xml:id="rochlitz">
+					<name>Rochlitz, Johann Friedrich</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Johann</forename>
+						<forename>Friedrich</forename>
+						<surname>Rochlitz</surname>
+					</persName>
+					<birth>1769</birth>
+					<death>1842</death>
+					<event>
+						<p>Ehegatte von <persName ref="henriette">Henriette Winkler geb.
+								Hansen</persName></p>
+					</event>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_Rochlitz">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118601644</idno>
+				</person>
+				<person xml:id="rochlitz.vater">
+					<name>Rochlitz (Vater)</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<surname>Rochlitz (Vater)</surname>
+					</persName>
+					<event>
+						<p>Vater von <persName ref="rochlitz">Friedrich Rochlitz</persName></p>
+					</event>
+				</person>
+				<person xml:id="rochlitz.mutter">
+					<name>Rochlitz (Mutter)</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<surname>Rochlitz (Mutter)</surname>
+					</persName>
+					<event>
+						<p>Mutter von <persName ref="rochlitz">Friedrich Rochlitz</persName></p>
+					</event>
+				</person>
+				<person xml:id="henriette">
+					<name>Rochlitz, Henriette</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Henriette</forename>
+						<forename>Friederike</forename>
+						<surname n="3" type="married">Rochlitz</surname>
+						<surname n="2" type="married">Winkler</surname>
+						<surname n="1" type="maiden">Hansen</surname>
+					</persName>
+					<birth>1770</birth>
+					<death>1834</death>
+					<event>
+						<p>Witwe des verstorbenen <persName ref="winkler.junior">Daniel
+								Winkler</persName></p>
+						<p>Ehegattin von <persName ref="rochlitz">Friedrich Rochlitz</persName></p>
+						<p>Mutter von <persName ref="georg">Georg Winkler</persName></p>
+						<p>Mutter von <persName ref="wilhelmine">Wilhelmine Winkler</persName></p>
+					</event>
+					<bibl>
+						<ref target="https://weber-gesamtausgabe.de/de/A001590.html">WeGA</ref>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_Rochlitz">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">13974939X</idno>
+				</person>
+				<person xml:id="georg">
+					<name>Winkler, Georg Friedrich</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Georg</forename>
+						<forename>Friedrich</forename>
+						<surname>Winkler</surname>
+					</persName>
+					<birth>1800</birth>
+					<death>?</death>
+					<event>
+						<p>Sohn von <persName key="henriette">Henriette Hansen</persName> und
+								<persName key="winkler.junior">Friedrich Daniel
+							Winkler</persName></p>
+					</event>
+					<bibl>
+						<ref
+							target="https://books.google.de/books?id=56s3AQAAMAAJ&amp;hl=de&amp;pg=PA253"
+							>Goethe und Leipzig II, S. 253f</ref>
+					</bibl>
+				</person>
+				<person xml:id="wilhelmine">
+					<name>Winkler, Henriette Wilhelmine</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Wilhelmine</forename>
+						<surname>Winkler</surname>
+					</persName>
+					<birth>1796</birth>
+					<death>1833</death>
+					<event>
+						<p>Tochter von <persName key="henriette">Henriette Hansen</persName> und
+								<persName key="winkler.junior">Friedrich Daniel
+							Winkler</persName></p>
+					</event>
+					<bibl>
+						<ref
+							target="https://books.google.de/books?id=56s3AQAAMAAJ&amp;hl=de&amp;pg=PA254"
+							>Goethe und Leipzig II, S. 254</ref>
+					</bibl>
+				</person>
+				<person xml:id="winkler.junior">
+					<name>Winkler, Friedrich Daniel</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Friedrich</forename>
+						<forename>Daniel</forename>
+						<surname>Winkler</surname>
+					</persName>
+					<birth>?</birth>
+					<death>1809</death>
+					<event>
+						<p>Sohn von <persName key="winkler.senior">Gottfried Winckler</persName></p>
+						<p>Ehegatte von <persName key="henriette">Henriette Hansen</persName></p>
+						<p>Vater von <persName ref="georg">Georg Winkler</persName></p>
+						<p>Vater von <persName ref="wilhelmine">Wilhelmine Winkler</persName></p>
+					</event>
+					<bibl>
+						<ref target="http://leipziger-biographie.de/v5d">Leipziger Biographie</ref>
+					</bibl>
+					<idno type="GND">139749217</idno>
+				</person>
+				<person xml:id="winkler.senior">
+					<name>Winkler, Gottfried</name>
+					<affiliation>family</affiliation>
+					<persName>
+						<forename>Gottfried</forename>
+						<surname>Winkler</surname>
+					</persName>
+					<birth>1731</birth>
+					<death>1795</death>
+					<occupation>Kaufmann und Kunstsammler</occupation>
+					<event>
+						<p>Vater von <persName key="winkler.junior">Friedrich Daniel
+								Winckler</persName></p>
+					</event>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Gottfried_Winckler">Wikipedia
+							(de)</ref>
+						<ref target="http://leipziger-biographie.de/v5d">Leipziger Biographie</ref>
+					</bibl>
+					<idno type="GND">142539058</idno>
+				</person>
+				<person xml:id="rummel">
+					<name>Herr R[ummel]</name>
+					<affiliation>family</affiliation>
+					<event>
+						<p>Schwager von <persName key="rochlitz">Friedrich Rochlitz</persName></p>
+					</event>
+				</person>
+				<!--Connewitz-->
+				<person xml:id="hillig">
+					<name>Dr. Hillig</name>
+					<event>
+						<p>Gutsbesitzer in Connewitz</p>
+					</event>
+				</person>
+				<person xml:id="connewitz.nachbar">
+					<name>Ein Nachbar</name>
+					<event>
+						<p>Ein Nachbar in Connewitz</p>
+					</event>
+				</person>
+				<person xml:id="connewitz.nachbarssohn">
+					<name>Ein Nachbarssohn</name>
+					<event>
+						<p>Sohn eines Nachbarn in Connewitz</p>
+					</event>
+				</person>
+				<person xml:id="connewitz.gaertner">
+					<name>Ein Gärtner</name>
+					<event>
+						<p>Gärtner in Rochlitz’ Anwesen in Connewitz</p>
+					</event>
+				</person>
+				<person xml:id="connewitz.gaertnersfrau">
+					<name>Eine Gärtnersfrau</name>
+					<event>
+						<p>Frau des Gärtners in Rochlitz’ Anwesen in Connewitz</p>
+					</event>
+				</person>
+				<person xml:id="carl.witwe">
+					<name>Witwe Carl</name>
+					<event>
+						<p>Gutsbesitzerin in Connewitz (wenzelscher Landsitz)</p>
+					</event>
+				</person>
+				<!--Leipzig-->
+				<person xml:id="ein-viktualienhoeker">
+					<name>Ein Viktualienhöker</name>
+				</person>
+				<person xml:id="ein-besucher">
+					<name>Ein Besucher</name>
+					<affiliation>family</affiliation>
+				</person>
+				<person xml:id="eine-hoekerfrau">
+					<name>Eine Hökerfrau</name>
+				</person>
+				<person xml:id="apel">
+					<name>Apel, Johann August</name>
+					<affiliation>statesman</affiliation>
+					<persName>
+						<forename>Johann</forename>
+						<forename>August</forename>
+						<surname>Apel</surname>
+					</persName>
+					<birth>1771</birth>
+					<death>1816</death>
+					<occupation>Schriftsteller, Jurist und Ratsherr</occupation>
+					<bibl>
+						<ref target="http://www.leipziger-biographie.de/Pdn">Leipzig-Lexikon</ref>
+					</bibl>
+					<idno type="GND">116315865</idno>
+				</person>
+				<person xml:id="dufour">
+					<name>Dufour, Jacques Ferdinand</name>
+					<affiliation>banker</affiliation>
+					<persName>
+						<forename>Jacques</forename>
+						<forename>Ferdinand</forename>
+						<surname>Dufour</surname>
+					</persName>
+					<birth>1766</birth>
+					<death>1817</death>
+					<occupation>Bankier</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Friedrich_Cotta">Wikipedia
+							(de)</ref>
+						<ref target="http://www.leipziger-biographie.de/vJc">Leipzig-Lexikon</ref>
+					</bibl>
+					<idno type="GND">1012538486</idno>
+				</person>
+				<person xml:id="loehr">
+					<name>Löhr, Carl Eberhard</name>
+					<affiliation>banker</affiliation>
+					<persName>
+						<forename>Carl</forename>
+						<forename>Eberhard</forename>
+						<surname>Löhr</surname>
+					</persName>
+					<birth>1763</birth>
+					<death>1813</death>
+					<occupation>Bankier</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Friedrich_Cotta">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">1012538486</idno>
+				</person>
+				<person xml:id="mueller">
+					<name>Johannes Müller</name>
+				</person>
+				<person xml:id="reichenbach">
+					<name>Reichenbach, Christian Wilhelm</name>
+					<affiliation>banker</affiliation>
+					<persName>
+						<forename>Christian</forename>
+						<nameLink>Wilhelm</nameLink>
+						<surname>Reichenbach</surname>
+					</persName>
+					<birth>1778</birth>
+					<death>1857</death>
+					<bibl>
+						<ref target="https://weber-gesamtausgabe.de/de/A001548.html">WeGA</ref>
+					</bibl>
+				</person>
+				<person xml:id="riquet">
+					<name>Riquet, Jean George</name>
+					<affiliation>trader</affiliation>
+					<persName>
+						<forename>Jean</forename>
+						<forename>George</forename>
+						<surname>Riquet</surname>
+					</persName>
+					<birth/>
+					<death/>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Riquet_%26_Co.">Wikipedia
+							(de)</ref>
+					</bibl>
+				</person>
+				<person xml:id="siegmann">
+					<name>Siegmann, Friedrich Huldreich Carl</name>
+					<affiliation>statesman</affiliation>
+					<name>
+						<forename>Friedrich</forename>
+						<forename>Huldreich</forename>
+						<forename>Carl</forename>
+						<surname>Siegmann</surname>
+					</name>
+					<birth>1760</birth>
+					<death>1833</death>
+					<event>
+						<p>Ratsherr, 1813 Bürgermeister (unklar ob vor Oktober)</p>
+					</event>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Friedrich_Huldreich_Carl_Siegmann"
+							>Wikipedia (de)</ref>
+						<ref target="https://www.leipzig-lexikon.de/reg/se.htm"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+					<idno type="GND">104255838</idno>
+				</person>
+				<person xml:id="stieglitz">
+					<name>Stieglitz, Christian Ludwig</name>
+					<affiliation>statesman</affiliation>
+					<name>
+						<forename>Christian</forename>
+						<forename>Ludwig</forename>
+						<surname>Stieglitz</surname>
+					</name>
+					<birth>1756</birth>
+					<death>1836</death>
+					<event>
+						<p>Ratsherr</p>
+					</event>
+					<bibl>
+						<ref
+							target="http://www.leipzig-lexikon.de/biogramm/Stieglitz_Christian_Ludwig_1756.htm"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+					<idno type="GND">100792553</idno>
+				</person>
+				<person xml:id="vollsack">
+					<name>Vollsack, Georg Christian</name>
+					<affiliation>statesman</affiliation>
+					<persName>
+						<forename>Georg</forename>
+						<forename>Christian</forename>
+						<surname>Vollsack</surname>
+					</persName>
+					<birth>1766</birth>
+					<death>1839</death>
+					<event>
+						<desc>Kaufmann und Ratsherr (»Baumeister«) in Leipzig</desc>
+					</event>
+					<bibl>
+						<ref target="http://www.leipziger-biographie.de/qkh">Leipziger
+							Biographie</ref>
+					</bibl>
+					<idno type="GND">1037043529</idno>
+				</person>
+				<!--Schriftsteller-->
+				<person xml:id="arndt">
+					<name>Arndt, Ernst Moritz</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Ernst</forename>
+						<forename>Moritz</forename>
+						<surname>Arndt</surname>
+					</persName>
+					<birth>1769</birth>
+					<death>1860</death>
+					<occupation>Schriftsteller und Historiker</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Ernst_Moritz_Arndt">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118504118</idno>
+				</person>
+				<person xml:id="boettiger">
+					<name>Boettiger, Carl August</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Carl</forename>
+						<forename>August</forename>
+						<surname>Boettiger</surname>
+					</persName>
+					<birth>1760</birth>
+					<death>1835</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Karl_August_Böttiger">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118824775</idno>
+				</person>
+				<person xml:id="cotta">
+					<name>Cotta, Johann Friedrich</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Johann</forename>
+						<forename>Friedrich</forename>
+						<surname>Cotta</surname>
+					</persName>
+					<birth>1764</birth>
+					<death>1832</death>
+					<occupation>Verleger, Industriepionier und Politiker</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Friedrich_Cotta">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">11852240X</idno>
+				</person>
+				<person xml:id="goethe">
+					<name>Goethe, Johann Wolfgang</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Johann</forename>
+						<forename>Wolfgang</forename>
+						<nameLink>von</nameLink>
+						<surname>Goethe</surname>
+					</persName>
+					<birth>1749</birth>
+					<death>1832</death>
+					<occupation>Dichter und Naturforscher</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118540238</idno>
+				</person>
+				<person xml:id="fouque">
+					<name>Fouqué, Friedrich de la Motte</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Friedrich</forename>
+						<nameLink>de</nameLink>
+						<nameLink>la</nameLink>
+						<surname>Motte</surname>
+						<roleName>Baron</roleName>
+						<surname>Fouqué</surname>
+					</persName>
+					<birth>1777</birth>
+					<death>1843</death>
+					<bibl>
+						<ref
+							target="https://en.wikipedia.org/wiki/Friedrich_de_la_Motte_Fouqu%C3%A9"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118534556</idno>
+				</person>
+				<person xml:id="goeschen">
+					<name>Göschen, Georg Joachim</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Georg</forename>
+						<forename>Joachim</forename>
+						<surname>Göschen</surname>
+					</persName>
+					<birth>1752</birth>
+					<death>1828</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Georg_Joachim_Göschen">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118695916</idno>
+				</person>
+				<person xml:id="koerner">
+					<name>Körner, Theodor</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>Carl</forename>
+						<forename>Theodor</forename>
+						<surname>Körner</surname>
+					</persName>
+					<birth>1791</birth>
+					<death>1813</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Theodor_Körner_(Schriftsteller)"
+							>Wikipedia (de)</ref>
+					</bibl>
+				</person>
+				<person xml:id="kotzebue">
+					<name>Kotzebue, August Friedrich Ferdinand</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>August</forename>
+						<forename>Friedrich</forename>
+						<forename>Ferdinand</forename>
+						<nameLink>von</nameLink>
+						<surname>Kotzebue</surname>
+					</persName>
+					<birth>1761</birth>
+					<death>1819</death>
+					<occupation>Dramatiker, Schriftsteller und Librettist</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/August_von_Kotzebue">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118565796</idno>
+				</person>
+				<person xml:id="schlegel">
+					<name>Schlegel, August Wilhelm</name>
+					<affiliation>writer</affiliation>
+					<persName>
+						<forename>August</forename>
+						<forename>Wilhelm</forename>
+						<surname>Schlegel</surname>
+					</persName>
+					<birth>1767</birth>
+					<death>1845</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/August_Wilhelm_Schlegel"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118607960</idno>
+				</person>
+				<!--Künstler-->
+				<person xml:id="casanova.maler">
+					<name>Casanova, Francesco</name>
+					<affiliation>artist</affiliation>
+					<persName>
+						<forename>Francesco</forename>
+						<forename>Giuseppe</forename>
+						<surname>Casanova</surname>
+					</persName>
+					<birth>1727</birth>
+					<death>1803</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Francesco_Casanova">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">122539435</idno>
+				</person>
+				<person xml:id="loutherbourg">
+					<name>Philipp Jakob Loutherbourg</name>
+					<affiliation>artist</affiliation>
+					<persName>
+						<forename>Philipp</forename>
+						<forename>Jakob</forename>
+						<surname>Loutherbourg</surname>
+					</persName>
+					<birth>1740</birth>
+					<death>1812</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Philipp_Jakob_Loutherbourg_der_Jüngere"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118780549</idno>
+				</person>
+				<person xml:id="oeser">
+					<name>Oeser, Adam Friedrich</name>
+					<affiliation>artist</affiliation>
+					<persName>
+						<forename>Adam</forename>
+						<forename>Friedrich</forename>
+						<surname>Oeser</surname>
+					</persName>
+					<birth>1717</birth>
+					<death>1799</death>
+					<occupation>Maler, Bildhauer und Buchillustrator</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Adam_Friedrich_Oeser">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118786792</idno>
+				</person>
+				<person xml:id="poel">
+					<name>Poel, Egbert</name>
+					<affiliation>artist</affiliation>
+					<persName>
+						<forename>Egbert</forename>
+						<nameLink>van der</nameLink>
+						<surname>Poel</surname>
+					</persName>
+					<birth>1621</birth>
+					<death>1664</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Egbert_van_der_Poel">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">138939446</idno>
+				</person>
+				<person xml:id="rembrandt">
+					<name>Rembrandt van Rijn</name>
+					<affiliation>artist</affiliation>
+					<persName>
+						<forename>Rembrandt</forename>
+						<forename>Harmenszoon</forename>
+						<nameLink>van</nameLink>
+						<surname>Rijn</surname>
+					</persName>
+					<birth>1606</birth>
+					<death>1669</death>
+					<occupation>Maler, Bildhauer und Buchillustrator</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Adam_Friedrich_Oeser">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118786792</idno>
+				</person>
+				<!--Adel-->
+				<person xml:id="amalie">
+					<name>Amalie (Sachsen)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Maria</forename>
+						<forename>Amalie</forename>
+						<forename>Auguste</forename>
+						<nameLink>von</nameLink>
+						<surname>Pfalz-Zweibrücken-Birkenfeld-Bischweiler</surname>
+					</persName>
+					<birth>1752</birth>
+					<death>1828</death>
+					<occupation>Königin von Sachsen</occupation>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Amalie_von_Pfalz-Zweibr%C3%BCcken-Birkenfeld-Bischweiler"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118534955</idno>
+				</person>
+				<person xml:id="franz">
+					<name>Franz II. (Österreich)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Franz</forename>
+						<forename>Joseph</forename>
+						<forename>Karl</forename>
+						<genName>II.</genName>
+					</persName>
+					<birth>1768</birth>
+					<death>1835</death>
+					<occupation>Kaiser von Österreich</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Franz_II._(HRR)">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118534955</idno>
+				</person>
+				<person xml:id="friedrich-august">
+					<name>Friedrich August I. (Sachsen)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Friedrich</forename>
+						<forename>August</forename>
+						<genName>I.</genName>
+					</persName>
+					<birth>1750</birth>
+					<death>1827</death>
+					<occupation>König von Sachsen</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_August_I._(Sachsen)"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">119165198</idno>
+				</person>
+				<person xml:id="friedrich-wilhelm">
+					<name>Friedrich Wilhelm III. (Preußen)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Friedrich</forename>
+						<forename>Wilhelm</forename>
+						<genName>III.</genName>
+					</persName>
+					<birth>1770</birth>
+					<death>1840</death>
+					<occupation>König von Preußen</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_Wilhelm_III._(Preußen)"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118535986</idno>
+				</person>
+				<person xml:id="karl-johann">
+					<name>Karl Johann (Schweden)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Karl</forename>
+						<forename>Johann</forename>
+					</persName>
+					<birth>1763</birth>
+					<death>1844</death>
+					<occupation>Kronprinz von Schweden</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Karl_XIV._Johann_(Schweden)"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">119165198</idno>
+				</person>
+				<person xml:id="alexander">
+					<name>Alexander I. (Russland)</name>
+					<affiliation>nobility</affiliation>
+					<persName>
+						<forename>Alexander</forename>
+						<genName>I.</genName>
+						<surname>Pawlowitsch</surname>
+						<surname>Romanow</surname>
+					</persName>
+					<birth>1777</birth>
+					<death>1825</death>
+					<occupation>Kaiser von Russland</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Alexander_I._(Russland)"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118501852</idno>
+				</person>
+				<!--Militär (Frankreich)-->
+				<person xml:id="ein-legationsrath">
+					<name>Ein Legationsrath</name>
+					<affiliation>military</affiliation>
+				</person>
+				<person xml:id="ein-commissaire">
+					<name>Ein Commissaire-Ordonnateur</name>
+					<affiliation>military</affiliation>
+				</person>
+				<person xml:id="schoemlin">
+					<name>Oberstleutnant Schömlin</name>
+					<affiliation>military</affiliation>
+				</person>
+				<person xml:id="ein-herzog">
+					<name>Ein Herzog</name>
+					<affiliation>nobility</affiliation>
+				</person>
+				<person xml:id="augereau">
+					<name>Augereau, Charles Pierre François</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Charles Pierre François</forename>
+						<surname>Augereau</surname>
+					</persName>
+					<birth>1757</birth>
+					<death>1816</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Charles_Pierre_Fran%C3%A7ois_Augereau"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">119075962</idno>
+				</person>
+				<person xml:id="bacher">
+					<name>Bacher, Théobald</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Théobald</forename>
+						<roleName>Baron</roleName>
+						<nameLink>de</nameLink>
+						<surname>Bacher</surname>
+					</persName>
+					<birth>1748</birth>
+					<death>1813</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Théobald_Bacher">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">116026103</idno>
+				</person>
+				<person xml:id="berthier">
+					<name>Berthier, Louis-Alexandre</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Louis-Alexandre</forename>
+						<surname>Berthier</surname>
+					</persName>
+					<birth>1753</birth>
+					<death>1815</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Louis-Alexandre_Berthier"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118658530</idno>
+				</person>
+				<person xml:id="bertrand">
+					<name>Bertrand, Henri-Gatien</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Henri-Gatien</forename>
+						<surname>Bertrand</surname>
+					</persName>
+					<birth>1773</birth>
+					<death>1844</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Henri-Gatien_Bertrand">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">119165953</idno>
+				</person>
+				<person xml:id="casanova.general">
+					<name>Casanova, Jean Toussaint Arrighi</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Jean</forename>
+						<forename>Toussaint</forename>
+						<forename>Arrighi</forename>
+						<nameLink>de</nameLink>
+						<surname>Casanova</surname>
+						<roleName>Herzog von Padua</roleName>
+					</persName>
+					<birth>1778</birth>
+					<death>1853</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Jean_Toussaint_Arrighi_de_Casanova"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">122314085</idno>
+				</person>
+				<person xml:id="caulaincourt">
+					<name>Caulaincourt, Armand</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Armand</forename>
+						<nameLink>de</nameLink>
+						<surname>Caulaincourt</surname>
+						<roleName>Herzog von Vicenza</roleName>
+					</persName>
+					<birth>1773</birth>
+					<death>1827</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Armand_de_Caulaincourt">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">119138581</idno>
+				</person>
+				<person xml:id="davoust">
+					<name>Davoût, Louis-Nicolas</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Louis-Nicolas</forename>
+						<surname>Davoût</surname>
+					</persName>
+					<birth>1770</birth>
+					<death>1823</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Louis-Nicolas_Davout">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">116041749</idno>
+				</person>
+				<person xml:id="gyulay">
+					<name>Gyulay, Ignác</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Ignác</forename>
+						<surname>Gyulay</surname>
+						<roleName>Graf von Maros-Németh und Nádaska</roleName>
+					</persName>
+					<birth>1763</birth>
+					<death>1831</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Ignác_Gyulay">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">117591696</idno>
+				</person>
+				<person xml:id="la-tour-maubourg">
+					<name>La Tour-Maubourg, Marie Victor Nicolas</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Marie Victor Nicolas</forename>
+						<nameLink>de</nameLink>
+						<surname>Fay</surname>
+						<nameLink>de</nameLink>
+						<surname>La Tour-Maubourg</surname>
+					</persName>
+					<birth>1768</birth>
+					<death>1850</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Marie_Victor_Nicolas_de_Fay_de_La_Tour-Maubourg"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">142674141</idno>
+				</person>
+				<person xml:id="lauriston">
+					<name>Lauriston, Alexandre-Jacques-Bernard Law</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Alexandre-Jacques-Bernard</forename>
+						<surname>Law</surname>
+						<surname>Marquis de Lauriston</surname>
+					</persName>
+					<birth>1768</birth>
+					<death>1828</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Alexandre-Jacques-Bernard_Law_de_Lauriston"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">117607266</idno>
+				</person>
+				<person xml:id="macdonald">
+					<name>MacDonald, Jacques</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Étienne</forename>
+						<forename>Jacques</forename>
+						<forename>Joseph</forename>
+						<forename>Alexandre</forename>
+						<surname>MacDonald</surname>
+						<roleName>1. Herzog von Tarent</roleName>
+					</persName>
+					<birth>1765</birth>
+					<death>1840</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Jacques_MacDonald">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118780999</idno>
+				</person>
+				<person xml:id="marmont">
+					<name>Marmont, Auguste Frédéric Louis Viesse</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Auguste Frédéric Louis Viesse</forename>
+						<nameLink>de</nameLink>
+						<surname>Marmont</surname>
+						<roleName>Herzog von Ragusa</roleName>
+					</persName>
+					<birth>1774</birth>
+					<death>1852</death>
+					<bibl>
+						<ref
+							target="https://de.wikipedia.org/wiki/Auguste_Frédéric_Louis_Viesse_de_Marmont"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">119465744</idno>
+				</person>
+				<person xml:id="maret">
+					<name>Maret, Hugues-Bernard</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Hugues-Bernard</forename>
+						<surname>Maret</surname>
+						<roleName>Herzog von Bassano</roleName>
+					</persName>
+					<birth>1763</birth>
+					<death>1839</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Hugues-Bernard_Maret">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">116769211</idno>
+				</person>
+				<person xml:id="murat">
+					<name>Murat, Joachim</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Joachim</forename>
+						<surname>Murat</surname>
+					</persName>
+					<birth>1767</birth>
+					<death>1815</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Joachim_Murat">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118746928</idno>
+				</person>
+				<person xml:id="napoleon">
+					<name>Bonaparte, Napoléon</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Napoléon</forename>
+						<surname>Bonaparte</surname>
+					</persName>
+					<birth>1769</birth>
+					<death>1821</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Napoleon_Bonaparte">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118586408</idno>
+				</person>
+				<person xml:id="ney">
+					<name>Ney, Michel</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Michel</forename>
+						<surname>Ney</surname>
+					</persName>
+					<birth>1769</birth>
+					<death>1815</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Michel_Ney">Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118734725</idno>
+				</person>
+				<person xml:id="poniatowski">
+					<name>Poniatowski, Józef Antoni</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Józef</forename>
+						<forename>Antoni</forename>
+						<surname>Poniatowski</surname>
+					</persName>
+					<birth>1763</birth>
+					<death>1813</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Józef_Antoni_Poniatowski"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118792822</idno>
+				</person>
+				<person xml:id="reynier">
+					<name>Reynier, Jean-Louis-Ebenezer</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Jean-Louis-Ebenezer</forename>
+						<surname>Reynier</surname>
+					</persName>
+					<birth>1771</birth>
+					<death>1814</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Jean-Louis-Ebenezer_Reynier"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">140511075</idno>
+				</person>
+				<person xml:id="schmiel">
+					<name>Schmiel, Johann Nepomuk</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Johann</forename>
+						<forename>Nepomuk</forename>
+						<nameLink>von</nameLink>
+						<surname>Schmiel</surname>
+					</persName>
+					<birth>1774</birth>
+					<death>1850</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Nepomuk_von_Schmiel"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">116795255</idno>
+				</person>
+				<!--Militär (Koalition)-->
+				<person xml:id="bennigsen">
+					<name>Bennigsen, Levin August</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Levin</forename>
+						<forename>August</forename>
+						<nameLink>von</nameLink>
+						<surname>Bennigsen</surname>
+					</persName>
+					<birth>1745</birth>
+					<death>1826</death>
+					<occupation>russischer General</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Levin_August_von_Bennigsen"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">116121467</idno>
+				</person>
+				<person xml:id="bluecher">
+					<name>Blücher, Gebhard Leberecht</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Gebhard</forename>
+						<forename>Leberecht</forename>
+						<nameLink>von</nameLink>
+						<surname>Blücher</surname>
+					</persName>
+					<birth>1742</birth>
+					<death>1819</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118511882</idno>
+				</person>
+				<person xml:id="kleist">
+					<name>Kleist, Friedrich</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Friedrich</forename>
+						<nameLink>von</nameLink>
+						<surname>Kleist</surname>
+					</persName>
+					<birth>1762</birth>
+					<death>1823</death>
+					<occupation>preußischer Offizier</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_von_Kleist">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">11622004X</idno>
+				</person>
+				<person xml:id="schwarzenberg">
+					<name>Schwarzenberg, Karl Ph.</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Karl</forename>
+						<roleName>Philipp</roleName>
+						<nameLink>zu</nameLink>
+						<surname>Schwarzenberg</surname>
+					</persName>
+					<birth>1771</birth>
+					<death>1820</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Karl_Philipp_zu_Schwarzenberg"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118763032</idno>
+				</person>
+				<person xml:id="thielmann">
+					<name>Thielmann, Johann Adolf</name>
+					<affiliation>military</affiliation>
+					<persName>
+						<forename>Johann Adolf</forename>
+						<nameLink>von</nameLink>
+						<surname>Thielmann</surname>
+					</persName>
+					<birth>1765</birth>
+					<death>1824</death>
+					<occupation>russischer General</occupation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Johann_Adolf_von_Thielmann"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">117336351</idno>
+				</person>
+				<person xml:id="ein-russischer-platzcommandant">
+					<name>Ein russischer Platzcommandant</name>
+					<affiliation>military</affiliation>
+				</person>
+				<person xml:id="ein-russischer-general">
+					<name>Ein russischer General</name>
+					<affiliation>military</affiliation>
+				</person>
+				<!--historische Persönlichkeiten-->
+				<person xml:id="aeschylus">
+					<name>Aeschylus</name>
+					<persName>Aischylos, latinisiert: Aeschylus</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Aischylos">Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118500856</idno>
+				</person>
+				<person xml:id="sallust">
+					<name>Sallust</name>
+					<persName>Gaius Sallustius Crispus</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Sallust">Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118605097</idno>
+				</person>
+				<person xml:id="catilina">
+					<name>Catilina</name>
+					<persName>Lucius Sergius Catilina</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Lucius_Sergius_Catilina"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118668811</idno>
+				</person>
+				<person xml:id="wallenstein">
+					<name>Wallenstein</name>
+					<persName>Albrecht Wenzel Eusebius von Waldstein</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Wallenstein">Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118628755</idno>
+				</person>
+				<person xml:id="luther">
+					<name>Luther</name>
+					<persName>Martin Luther</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Martin_Luther">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="GND">118575449</idno>
+				</person>
+				<person xml:id="gustav-adolf">
+					<name>Gustav II. Adolf</name>
+					<persName>Gustav II. Adolf (Schweden)</persName>
+					<affiliation>historical</affiliation>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Gustav_II._Adolf_(Schweden)"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118628755</idno>
+				</person>
+				<person xml:id="rabener">
+					<name>Rabener, Gottlieb Wilhelm</name>
+					<persName>
+						<forename>Gottlieb</forename>
+						<forename>Wilhelm</forename>
+						<surname>Rabener</surname>
+					</persName>
+					<affiliation>writer</affiliation>
+					<birth>1714</birth>
+					<death>1771</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Gottlieb_Wilhelm_Rabener"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">118743368</idno>
+				</person>
+				<person xml:id="ferber">
+					<name>Ferber, Friedrich Wilhelm</name>
+					<persName>
+						<forename>Friedrich</forename>
+						<forename>Wilhelm</forename>
+						<nameLink>von</nameLink>
+						<surname>Ferber</surname>
+					</persName>
+					<affiliation>statesman</affiliation>
+					<birth>1732</birth>
+					<death>1800</death>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Friedrich_Wilhelm_von_Ferber"
+							>Wikipedia (de)</ref>
+					</bibl>
+					<idno type="GND">123379555</idno>
+				</person>
+			</listPerson>
+			<listPlace xml:id="places">
+				<!--Europa-->
+				<place type="settlement" xml:id="berlin">
+					<placeName>Berlin</placeName>
+					<desc>
+						<geo>52.52437 13.41053</geo>
+					</desc>
+					<idno type="geonames.org">2950159</idno>
+				</place>
+				<place type="settlement" xml:id="bruessel">
+					<placeName>Brüssel</placeName>
+					<desc>
+						<geo>50.85045 4.34878</geo>
+					</desc>
+					<idno type="geonames.org">2800866</idno>
+				</place>
+				<place type="settlement" xml:id="dresden">
+					<placeName>Dresden</placeName>
+					<desc>
+						<geo>51.05089 13.73832</geo>
+					</desc>
+					<idno type="geonames.org">2935022</idno>
+				</place>
+				<place type="settlement" xml:id="frankfurt">
+					<placeName>Frankfurt (Main)</placeName>
+					<desc>
+						<geo>50.11552 8.68417</geo>
+					</desc>
+					<idno type="geonames.org">2925533</idno>
+				</place>
+				<place type="settlement" xml:id="hanau">
+					<placeName>Hanau</placeName>
+					<desc>
+						<geo>50.13423 8.91418</geo>
+					</desc>
+					<idno type="geonames.org">2911007</idno>
+				</place>
+				<place type="settlement" xml:id="moskau">
+					<placeName>Moskau</placeName>
+					<desc>
+						<geo>55.75222 37.61556</geo>
+					</desc>
+					<idno type="geonames.org">524901</idno>
+				</place>
+				<place type="settlement" xml:id="prag">
+					<placeName>Prag</placeName>
+					<desc>
+						<geo>50.08804 14.42076</geo>
+					</desc>
+					<idno type="geonames.org">3067696</idno>
+				</place>
+				<place type="settlement" xml:id="rom">
+					<placeName>Rom</placeName>
+					<desc>
+						<geo>41.89193 12.51133</geo>
+					</desc>
+					<idno type="geonames.org">3169070</idno>
+				</place>
+				<place type="settlement" xml:id="rheinsberg">
+					<placeName>Rheinsberg</placeName>
+					<desc>
+						<geo>53.09972 12.89885</geo>
+					</desc>
+					<idno type="geonames.org">2847612</idno>
+				</place>
+				<!--Region Sachsen/Anhalt-->
+				<place type="settlement" xml:id="borna">
+					<placeName>Borna</placeName>
+					<desc>
+						<geo>51.12416 12.49639</geo>
+					</desc>
+					<idno type="geonames.org">2946172</idno>
+				</place>
+				<place type="settlement" xml:id="erfurt">
+					<placeName>Erfurt</placeName>
+					<desc>
+						<geo>50.9787 11.03283</geo>
+					</desc>
+					<idno type="geonames.org">2929670</idno>
+				</place>
+				<place type="settlement" xml:id="gossa">
+					<placeName>Gossa</placeName>
+					<desc>
+						<geo>51.66949 12.44422</geo>
+					</desc>
+					<idno type="geonames.org">2918828</idno>
+				</place>
+				<place type="settlement" xml:id="halle">
+					<placeName>Halle</placeName>
+					<desc>
+						<geo>51.48158 11.97947</geo>
+					</desc>
+					<idno type="geonames.org">2911522</idno>
+				</place>
+				<place type="settlement" xml:id="jena">
+					<placeName>Jena</placeName>
+					<desc>
+						<geo>50.92878 11.5899</geo>
+					</desc>
+					<idno type="geonames.org">2895044</idno>
+				</place>
+				<place type="settlement" xml:id="dessau">
+					<placeName>Dessau</placeName>
+					<desc>
+						<geo>51.83864 12.24555</geo>
+					</desc>
+					<idno type="geonames.org">2937959</idno>
+				</place>
+				<place type="settlement" xml:id="dornburg">
+					<placeName>Dornburg</placeName>
+					<desc>
+						<geo>51.00736 11.6633</geo>
+					</desc>
+					<idno type="geonames.org">2935741</idno>
+				</place>
+				<place type="settlement" xml:id="weimar">
+					<placeName>Weimar</placeName>
+					<desc>
+						<geo>50.9803 11.32903</geo>
+					</desc>
+					<idno type="geonames.org">2812482</idno>
+				</place>
+				<place type="settlement" xml:id="dueben">
+					<placeName>Düben</placeName>
+					<desc>
+						<geo>51.9279 12.38505</geo>
+					</desc>
+					<idno type="geonames.org">2934790</idno>
+				</place>
+				<place type="settlement" xml:id="eisenberg">
+					<placeName>Eisenberg</placeName>
+					<desc>
+						<geo>50.9686 11.90207</geo>
+					</desc>
+					<idno type="geonames.org">2931521</idno>
+				</place>
+				<place type="settlement" xml:id="gohlis">
+					<placeName>Gohlis</placeName>
+					<desc>
+						<geo>51.36667 12.35</geo>
+					</desc>
+					<idno type="geonames.org">2919502</idno>
+				</place>
+				<place type="settlement" xml:id="koesen">
+					<placeName>Kösen</placeName>
+					<desc>
+						<geo>51.13431 11.72203</geo>
+					</desc>
+					<idno type="geonames.org">2953418</idno>
+				</place>
+				<place type="settlement" xml:id="leutsch">
+					<placeName>Leutsch</placeName>
+					<placeName>Leutzsch</placeName>
+					<desc>
+						<geo>51.34863 12.31361</geo>
+					</desc>
+					<idno type="geonames.org">2878256</idno>
+				</place>
+				<place type="settlement" xml:id="luetzen">
+					<placeName>Lützen</placeName>
+					<desc>
+						<geo>51.25671 12.14164</geo>
+					</desc>
+					<idno type="geonames.org">2874747</idno>
+				</place>
+				<!--<place type="settlement" xml:id="meisdorf">
+					<placeName>Meisdorf</placeName>
+					<desc>
+						<geo>51.70921 11.29375</geo>
+					</desc>
+					<idno type="geonames.org">2872192</idno>
+				</place>-->
+				<place type="settlement" xml:id="merseburg">
+					<placeName>Merseburg</placeName>
+					<desc>
+						<geo>51.35478 11.98923</geo>
+					</desc>
+					<idno type="geonames.org">2871736</idno>
+				</place>
+				<place type="settlement" xml:id="naumburg">
+					<placeName>Naumburg</placeName>
+					<desc>
+						<geo>51.14987 11.80979</geo>
+					</desc>
+					<idno type="geonames.org">2866906</idno>
+				</place>
+				<place type="settlement" xml:id="schocher">
+					<placeName>Schocher</placeName>
+					<desc>
+						<geo>51.30147 12.32322</geo>
+					</desc>
+					<idno type="geonames.org">2914796</idno>
+				</place>
+				<place type="settlement" xml:id="schoenau">
+					<placeName>Schönau</placeName>
+					<desc>
+						<geo>51.06402 14.88402</geo>
+					</desc>
+					<idno type="geonames.org">2837041</idno>
+				</place>
+				<place type="settlement" xml:id="torgau">
+					<placeName>Torgau</placeName>
+					<desc>
+						<geo>51.56016 12.99617</geo>
+					</desc>
+					<idno type="geonames.org">2821807</idno>
+				</place>
+				<place type="settlement" xml:id="wachau">
+					<placeName>Wachau</placeName>
+					<desc>
+						<geo>51.27577 12.42752</geo>
+					</desc>
+					<idno type="geonames.org">2815781</idno>
+				</place>
+				<place type="settlement" xml:id="weissenfels">
+					<placeName>Weißenfels</placeName>
+					<desc>
+						<geo>51.20148 11.96843</geo>
+					</desc>
+					<idno type="geonames.org">2811899</idno>
+				</place>
+				<place type="settlement" xml:id="wittenberg">
+					<placeName>Wittenberg</placeName>
+					<desc>
+						<geo>51.8661 12.64973</geo>
+					</desc>
+					<idno type="geonames.org">7303020</idno>
+				</place>
+				<place type="settlement" xml:id="zschochau">
+					<placeName>Zschochau</placeName>
+					<desc>
+						<geo>51.19727 13.19685</geo>
+					</desc>
+					<idno type="geonames.org">2803805</idno>
+				</place>
+				<!--Leipzig / Vororte -->
+				<place type="settlement" xml:id="connewitz">
+					<placeName>Connewitz</placeName>
+					<desc>
+						<geo>51.30785 12.3761</geo>
+					</desc>
+					<idno type="geonames.org">2939878</idno>
+				</place>
+				<place type="settlement" xml:id="connewitz.wenzelscher-landsitz">
+					<placeName>Wenzelscher Landsitz</placeName>
+					<desc>
+						<placeName key="connewitz" role="parentSettlement"/>
+					</desc>
+					<idno type="geonames.org">2939878</idno>
+				</place>
+				<place type="settlement" xml:id="euteritzsch">
+					<placeName>Euteritzsch</placeName>
+					<desc>
+						<geo>51.36675 12.38722</geo>
+					</desc>
+					<idno type="geonames.org">2928376</idno>
+				</place>
+				<place type="settlement" xml:id="gautzsch">
+					<placeName>Gautzsch</placeName>
+					<desc>
+						<geo>51.27818 12.36292</geo>
+					</desc>
+					<idno type="geonames.org">2922229</idno>
+				</place>
+				<place type="settlement" xml:id="grimma">
+					<placeName>Grimma</placeName>
+					<desc>
+						<geo>51.23367 12.71959</geo>
+					</desc>
+					<idno type="geonames.org">2917325</idno>
+				</place>
+				<place type="settlement" xml:id="libertwolkwitz">
+					<placeName>Libertwolkwitz</placeName>
+					<placeName>Wolkwitz</placeName>
+					<desc>
+						<geo>51.28214 12.4653</geo>
+					</desc>
+					<idno type="geonames.org">2877922</idno>
+				</place>
+				<place type="settlement" xml:id="lindenau">
+					<placeName>Lindenau</placeName>
+					<desc>
+						<geo>51.33564 12.32117</geo>
+					</desc>
+					<idno type="geonames.org">2877426</idno>
+				</place>
+				<place type="settlement" xml:id="meusdorf">
+					<placeName>Meusdorf</placeName>
+					<desc>
+						<geo>51.29015 12.43513</geo>
+					</desc>
+					<idno type="geonames.org">2871445</idno>
+				</place>
+				<place type="settlement" xml:id="moekern">
+					<placeName>Mökern</placeName>
+					<desc>
+						<geo>51.36998 12.34827</geo>
+					</desc>
+					<idno type="geonames.org">2870279</idno>
+				</place>
+				<place type="settlement" xml:id="pfaffendorf">
+					<placeName>Pfaffendorf</placeName>
+					<desc>
+						<geo>51.69826 11.90893</geo>
+					</desc>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Pfaffendorf_(Leipzig)">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="geonames.org">2854423</idno>
+				</place>
+				<place type="location" xml:id="pfaffendorf.lazarett">
+					<placeName>Lazarett in Pfaffendorf</placeName>
+					<desc>
+						<placeName key="pfaffendorf" role="parentSettlement"/>
+					</desc>
+				</place>
+				<place type="settlement" xml:id="probstheyde">
+					<placeName>Probstheyde</placeName>
+					<desc>
+						<geo>51.30614 12.42882</geo>
+					</desc>
+					<idno type="geonames.org">2851938</idno>
+				</place>
+				<place type="settlement" xml:id="rosenthal">
+					<placeName>Rosenthal</placeName>
+					<desc>
+						<geo>51.35 12.36667</geo>
+					</desc>
+					<idno type="geonames.org">2844940</idno>
+				</place>
+				<place type="location" xml:id="rosenthal.lazarett">
+					<placeName>Lazarett im Rosenthal</placeName>
+					<desc>
+						<geo>51.346076 12.367217</geo>
+					</desc>
+				</place>
+				<place type="settlement" xml:id="schleusig">
+					<placeName>Schleusig</placeName>
+					<placeName>Schleußig</placeName>
+					<desc>
+						<geo>51.32342 12.34387</geo>
+					</desc>
+					<idno type="geonames.org">2838594</idno>
+				</place>
+				<place type="settlement" xml:id="schoenfeld">
+					<placeName>Schönfeld</placeName>
+					<desc>
+						<geo>51.35479 12.4161</geo>
+					</desc>
+					<idno type="geonames.org">2836760</idno>
+				</place>
+				<place type="location" xml:id="schoenfeld.lazarett">
+					<placeName>Lazarett in Schönfeld</placeName>
+					<desc>
+						<placeName key="schoenfeld" role="parentSettlement"/>
+					</desc>
+				</place>
+				<place type="location" xml:id="peters-schiessgraben">
+					<placeName>Peters-Schießgraben</placeName>
+					<desc>
+						<geo>51.331333 12.373220</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="peters-schiessgraben.lazarett">
+					<placeName>Lazarett am Peters-Schießgraben</placeName>
+					<desc>
+						<placeName key="peters-schiessgraben" role="parentSettlement"/>
+					</desc>
+				</place>
+				<!--Leipzig-->
+				<place type="settlement" xml:id="leipzig">
+					<placeName>Leipzig</placeName>
+					<desc>
+						<geo>51.33962 12.37129</geo>
+					</desc>
+					<idno type="geonames.org">2879139</idno>
+				</place>
+				<place type="location" xml:id="leipzig.alter-markt">
+					<placeName>Alter Markt</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.338378 12.377599</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.angermuehle">
+					<placeName>Angermühle</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.344506 12.368678</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.barfuesser-pforte">
+					<placeName>Barfüßer Pforte</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.bornaische-str">
+					<placeName>Bornaische Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.326692 12.373545</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.boehmische-str">
+					<placeName>Böhmische Straße</placeName>
+					<placeName when="2018">Prager Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.335212 12.391027</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.bruehl">
+					<placeName>Der Brühl</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.343019 12.376557</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/STRASSEN/01009.htm"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.catharinenstr">
+					<placeName>Catharinenstraße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.341945 12.374961</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/STRASSEN/01043.htm"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.catharinenstr.415">
+					<placeName>Catharinenstraße, No. 415</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.342624 12.375142</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.duebener-str">
+					<placeName>Dübener Straße</placeName>
+					<placeName when="2018">Eutrizscher Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.352464 12.376356</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.elsterbruecke">
+					<placeName>Elsterbrücke</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.343347 12.365410</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.fuerstenhaus">
+					<placeName>Fürstenhaus</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339399 12.378091</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.grimmaische-gasse">
+					<placeName>Grimmaische Gasse</placeName>
+					<placeName when="2018">Grimmaische Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339767 12.377251</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.grimmaisches-thor">
+					<placeName>Grimmaisches Thor</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339396 12.379840</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.hallesche-str">
+					<placeName>Hallesche Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo> </geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.hallesches-thor">
+					<placeName>Hallesches Thor</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.343763 12.376886</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.hohenthalsches-haus">
+					<placeName>Hohenthalsches Haus</placeName>
+					<placeName>Hohmanns Hof</placeName>
+					<placeName>No. 32, Petersstraße/Neumarkt</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.338932 12.374809</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/HAUSHOF/HOHMANN2.HTM"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.klostergasse">
+					<placeName>Klostergasse</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340294 12.372998</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.klostergasse.162">
+					<placeName>Klostergasse, No. 162</placeName>
+					<placeName>später: Klostergasse 15</placeName>
+					<placeName>später: Klostergasse 5</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340311 12.372838</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.koenigshaus">
+					<placeName>Königshaus</placeName>
+					<placeName>Thomésches Haus</placeName>
+					<placeName>No. 2, Am Markt</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339775 12.375091</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/HAUSHOF/KOENIGS.HTM"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.kuhthurm">
+					<placeName>Kuhthurm</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.341263 12.362645</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.markt">
+					<placeName>Markt</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340620 12.374614</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/STRASSEN/01016.HTM"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.lindenauer-chaussee">
+					<placeName>Lindenauer Chaussee</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340695 12.352068</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.loehrscher-garten">
+					<placeName>Löhrs Garten</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.346748 12.374685</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.niclaskirche">
+					<placeName>Niclaskirche</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340306 12.378521</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.petersthor">
+					<placeName>Petersthor</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.336806 12.375079</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.ranstaedter-thor">
+					<placeName>Ranstädter Thor</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.343755 12.372023</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.ranstaedter-vorstadt">
+					<placeName>Ranstädter Vorstadt</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.344133 12.369475</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.rathaus">
+					<placeName>Rathaus</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340371 12.375254</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.reichels-garten">
+					<placeName>Reichels Garten</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.338092 12.368587</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.reichenbachs-garten">
+					<placeName>Reichenbachs Garten</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.richters-garten">
+					<placeName>Richters Garten</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.340172 12.368542</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.schloss">
+					<placeName>Schloss</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.336787 12.372829</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/burgbast/b_pl.htm"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+				</place>
+				<place type="location" xml:id="leipzig.schochersche-str">
+					<placeName>Schochersche Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo> </geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.thomaskirche">
+					<placeName>Thomaskirche</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339334 12.372568</geo>
+					</desc>
+					<bibl>
+						<ref target="http://www.leipzig-lexikon.de/KIRCHEN/THOMAS.HTM"
+							>Leipzig-Lexikon</ref>
+					</bibl>
+					<idno type="GND">4468631-6</idno>
+				</place>
+				<place type="location" xml:id="leipzig.thomaskirchhof">
+					<placeName>Thomaskirchhof</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339024 12.372463</geo>
+					</desc>
+				</place>
+				<place type="location" xml:id="leipzig.wurzner-str">
+					<placeName>Wurzner Straße</placeName>
+					<placeName when="2018">Dresdner Straße</placeName>
+					<desc>
+						<placeName key="leipzig" role="parentSettlement"/>
+						<geo>51.339037 12.393627</geo>
+					</desc>
+				</place>
+				<!-- Flüsse und Gebirge -->
+				<place type="river" xml:id="berezina">
+					<geogName>Berezina</geogName>
+					<idno type="getty.edu">7016616</idno>
+					<bibl>
+						<figure
+							source="https://upload.wikimedia.org/wikipedia/commons/d/db/Crossing_the_Berezina_River%2C_by_Peter_von_Hess.jpg"/>
+						<ref
+							target="https://commons.wikimedia.org/wiki/File:Crossing_the_Berezina_River,_by_Peter_von_Hess.jpg"
+							>Peter von Hess [Public domain], via Wikimedia Commons</ref>
+					</bibl>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Bjaresina">Wikipedia (de)</ref>
+					</bibl>
+				</place>
+				<place type="river" xml:id="elbe">
+					<geogName>Elbe</geogName>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Elbe">Wikipedia (de)</ref>
+					</bibl>
+					<idno type="geonames.org">2931271</idno>
+					<idno type="getty.edu">7016548</idno>
+					<idno type="GND">4014170-6</idno>
+				</place>
+				<place type="river" xml:id="elster">
+					<geogName>Elster</geogName>
+					<bibl>
+						<ref target="https://de.wikipedia.org/wiki/Weiße_Elster">Wikipedia
+							(de)</ref>
+					</bibl>
+					<idno type="getty.edu">1131676</idno>
+				</place>
+				<place type="river" xml:id="mulde">
+					<geogName>Mulde</geogName>
+					<idno type="getty.edu">1127445</idno>
+				</place>
+				<place type="river" xml:id="pleisse">
+					<geogName>Pleiße</geogName>
+					<idno type="getty.edu">1128706</idno>
+				</place>
+				<place type="mountains" xml:id="harz">
+					<geogName>Harz</geogName>
+					<idno type="geonames.org">2909965</idno>
+				</place>
+				<!-- Länder -->
+				<place type="country" xml:id="frankreich">
+					<placeName>Frankreich</placeName>
+					<idno type="getty.edu">8698297</idno>
+					<idno type="GND">7503302-1</idno>
+				</place>
+				<place type="country" xml:id="deutschland">
+					<placeName>Deutschland</placeName>
+					<placeName>Rheinbund</placeName>
+					<idno type="getty.edu">7024433</idno>
+					<idno type="GND">2033949-5</idno>
+				</place>
+				<place type="country" xml:id="italien">
+					<placeName>Italien</placeName>
+					<idno type="getty.edu">1000080</idno>
+					<idno type="GND">4027833-5</idno>
+				</place>
+				<place type="country" xml:id="sachsen">
+					<placeName>Sachsen</placeName>
+					<idno type="GND">4051176-5</idno>
+				</place>
+				<place type="country" xml:id="schlesien">
+					<placeName>Schlesien</placeName>
+					<idno type="GND">4052678-1</idno>
+				</place>
+				<place type="country" xml:id="sibirien">
+					<placeName>Sibirien</placeName>
+					<idno type="GND">4054780-2</idno>
+				</place>
+				<place type="country" xml:id="spanien">
+					<placeName>Spanien</placeName>
+					<idno type="GND">4055964-6</idno>
+				</place>
+			</listPlace>
+			<list xml:id="belligerents">
+				<item xml:id="CO">
+					<label>Die Koalition</label>
+				</item>
+				<item xml:id="RU">
+					<label>Russen</label>
+				</item>
+				<item xml:id="KS">
+					<label>Kosaken</label>
+				</item>
+				<item xml:id="DE">
+					<label>Deutsche</label>
+				</item>
+				<item xml:id="PR">
+					<label>Preußen</label>
+				</item>
+				<item xml:id="AU">
+					<label>Österreicher</label>
+				</item>
+				<item xml:id="SW">
+					<label>Schweden</label>
+				</item>
+				<item xml:id="SX">
+					<label>Sachsen</label>
+				</item>
+				<item xml:id="FR">
+					<label>Franzosen</label>
+				</item>
+				<item xml:id="IT">
+					<label>Italiener</label>
+				</item>
+				<item xml:id="PL">
+					<label>Polen</label>
+				</item>
+				<item xml:id="BD">
+					<label>Badenser</label>
+				</item>
+				<item xml:id="LE">
+					<label>Leipziger</label>
+				</item>
+			</list>
+		</body>
+	</text>
+</TEI>
