@@ -1053,9 +1053,9 @@
 			<!--vacat-->
 		</body>
 		<back>
-			<pb n="U3"/>
+			<pb n="U3" facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000569.tif.large.jpg/full/full/0/default.jpg"/>
 			<!--vacat-->
-			<pb n="U4"/>
+			<pb n="U4" facs="https://images.iiif.slub-dresden.de/iiif/2/data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000570.tif.large.jpg/full/full/0/default.jpg"/>
 			<!--vacat-->
 		</back>
 	</text>
