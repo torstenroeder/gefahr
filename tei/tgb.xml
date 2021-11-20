@@ -3,8 +3,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title xml:lang="de">Tagebuch über die Begebenheiten von Leipzig vom 10. October an</title>
-				<title xml:lang="en">Diary about the events in Leipzig from October 10 onwards</title>
+				<title xml:lang="de">Tagebuch über die Begebenheiten von Leipzig vom 10. October
+					an</title>
+				<title xml:lang="en">Diary about the events in Leipzig from October 10
+					onwards</title>
 				<author>Friedrich Rochlitz</author>
 			</titleStmt>
 			<publicationStmt>
@@ -89,11 +91,37 @@
 				<ab>
 					<desc>hi[@rend='u'] - Hervorhebung durch Unterstreichung</desc>
 					<desc>emph[@rend='u'] - Emphase durch Unterstreichung</desc>
-					<desc>hi[@rend='sup uu'] - Endungen von Ordinalzahlen hochgestellt und doppelt unterstrichen</desc>
+					<desc>hi[@rend='sup uu'] - Endungen von Ordinalzahlen hochgestellt und doppelt
+						unterstrichen</desc>
 					<desc>dateline[@rend='right'] - Datumszeilen stehen rechtsbündig</desc>
 					<desc>hi[@rend='latin'] - Lateinische Schrift für frz. und lat. Ausdrücke = </desc>
-					<desc>abbr – Abkürzung, siehe allgemeines Verzeichnis in indices.xml</desc>
-					<desc>g – Ligatur, siehe allgemeines Verzeichnis in indices.xml</desc>
+					<desc>g – Ligatur, siehe <ref target="indices.xml">Verzeichnis</ref></desc>
+				</ab>
+				<ab>
+					<desc>pc - Worttrennung am Zeilenende</desc>
+					<desc>metamark - Markierung von Sinnabschnitten</desc>
+				</ab>
+				<ab>
+					<desc>del - Streichung durch Schreibhand</desc>
+					<desc>add - Hinzufügung durch Schreibhand</desc>
+					<desc>mod - Änderung von Zeichen</desc>
+				</ab>
+				<ab>
+					<desc>unclear - nicht lesbare Zeichenfolge</desc>
+					<desc>surplus - Auslassung durch die Edition</desc>
+					<desc>supplied - Ergänzung durch die Edition</desc>
+				</ab>
+				<ab>
+					<desc>term - spezieller Begriff</desc>
+					<desc>abbr – Abkürzung</desc>
+				</ab>
+				<ab>
+					<desc>persName - Eigennamen von Personen</desc>
+					<desc>orgName - Eigennamen von Körperschaften</desc>
+					<desc>placeName - Eigennamen von bewohnten Orten</desc>
+					<desc>geogName - Eigennamen von Geografika</desc>
+					<desc>rs - a) Bezug zu einer der obenstehenden Entitäten b) Ethnonym c)
+						politische Gruppierung</desc>
 				</ab>
 			</editorialDecl>
 		</encodingDesc>
@@ -173,7 +201,7 @@
 					<lb n="16"/>dauert ununterbrochen fort; in meiner Wohnung habe ich zwei Kriegscom<pc force="weak">-</pc>
 					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <abbr ana="#rth">r⁊.</abbr> für die Ein<pc force="weak">-</pc>
 					<lb break="no" n="18"/>quartierten im Monat <date when="1813-09">September</date>; diese Nacht (ich schreibe <time when="0600">früh gegen 6 Uhr</time>)
-					<lb n="19"/>habe ich, seit dem <time when="1100">11<hi rend="sup">ten</hi></time> zum erstenmale, drei Stunden fest, vor Erschöpfung,
+					<lb n="19"/>habe ich, seit dem <date when="1813-09-11">11<hi rend="sup">ten</hi></date> zum erstenmale, drei Stunden fest, vor Erschöpfung,
 					<lb n="20"/>schlafen können. In der Stadt sind 13000 Kranke und Verwundete: der
 					<lb n="21"/><rs ref="#napoleon">Kaiser</rs> selbst hat vorgestern befohlen, daß man noch für 15000 Raum schaf<pc force="weak">-</pc>
 					<lb break="no" n="22"/>fen müsse, so daß, wenn diese kommen, die Gesamtzahl fast die der Einwohner
@@ -213,7 +241,7 @@
 					<lb n="23"/>sehr ernst und düster, versengt in ungeheuere Anstrengungen, schonungslos
 					<lb n="24"/>gegen sich selbst: nach jenem Gefecht, obgleich es, so weit unsere blöden Augen
 					<lb n="25"/>reichen, gar nichts entschied, ist er, wie man bemerken wollen, heiter und
-					<lb n="26"/>zufrieden. Der <rs>König</rs> schien bei seinem Einritt, vom Anblick der Verwüstung
+					<lb n="26"/>zufrieden. Der <rs ref="#friedrich-august">König</rs> schien bei seinem Einritt, vom Anblick der Verwüstung
 					<lb n="27"/>und der dumpfen Stille aller, durch die er hinzog, gerührt: gleich darauf,
 					<lb n="28"/>als die Deputationen erschienen, zeigte er sich sehr ruhig und gefaßt, be<pc force="weak">-</pc>
 					<lb break="no" n="29"/>zeigte auch seinen Glauben an eine ganz nahe Wiederherstellung <hi rend="latin">in integrum</hi>. <metamark>—</metamark>
@@ -233,7 +261,8 @@
 					<lb break="no" n="11"/>brauch offen <del>gelaßen.</del> und leer stehen laßen. <metamark>—</metamark> Der guten <persName ref="#loehr">Löhr</persName> Woh<pc force="weak">-</pc>
 					<lb break="no" n="12"/>nung in der Stadt, wie ihren Garten, hat man ausgeräumt, und zum ver<pc force="weak">-</pc>
 					<lb break="no" n="13"/>langten, Gebrauch eingerichtet. Alle geräumige Gartenhäuser sind Lazarethe,
-					<lb n="14"/>oder werden eben dazu eingerichtet. Das Löhrsche ist jetzt noch leer. —</p>
+					<lb n="14"/>oder werden eben dazu eingerichtet. Das Löhrsche ist jetzt noch leer. —
+				</p>
 				<p xml:id="p.2.3" xml:space="preserve">
 					<lb n="15"/>Da bricht der Tag an – heiter und glänzend. Reine Sonne: heute hast
 					<lb n="16"/>du wohl noch kein neuvergoßenes Menschenblut, wenn auch unzählige
@@ -244,7 +273,7 @@
 					<lb break="no" n="21"/>nen nur die Augen, nicht einmal die Herzen zu dir erheben! Du bist groß:
 					<lb n="22"/>du wirst bleiben; wir sind klein: wir werden vergehen; und was unter uns
 					<lb n="23"/>groß genannt wird, will es nur seÿn im Schrecken zum Verderben! Nun, so
-					<lb n="24"/>entzünde nur in unsere<del rend="modified">m</del>n Herzen, bei Verzichtleistung auf Erdengröße, von
+					<lb n="24"/>entzünde nur in unsere<mod><del>m</del><add>n</add></mod> Herzen, bei Verzichtleistung auf Erdengröße, von
 					<lb n="25"/>neuem einen reinen Sinn, einen edeln Willen, damit es nicht an uns fehle,
 					<lb n="26"/>wenn uns dereinst auch wieder die reine, edle That verstattet wird! — —
 				</p>
@@ -315,9 +344,9 @@
 					<lb n="18"/>auch ein großes Corps frischer österreichischer Regimenter war ange<pc force="weak">-</pc>
 					<lb break="no" n="19"/>kommen, und das Feuer wars gräßlich. Da indeß das Centrum der
 					<lb n="20"/>Alliirten, (wie es schien, eine bis gegen zwei Stunden weit zurückgedrängt
-					<lb n="21"/>worden war, flog der Courier zu unsere<del rend="modified">m</del>n König mit der – Siegespost.
-					<lb n="22"/>Es war einige Minuten vor 4 Uhr. Die Leibgarde bekam, auf des Königs
-					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName ref="#napoleon">Napoleon</persName> Vivat; der König fuhr in
+					<lb n="21"/>worden war, flog der Courier zu unsere<mod><del>n</del><add>m</add></mod> <rs ref="#friedrich-august">König</rs> mit der – Siegespost.
+					<lb n="22"/>Es war einige Minuten vor 4 Uhr. Die Leibgarde bekam, auf des <rs ref="#friedrich-august">Königs</rs>
+					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName ref="#napoleon">Napoleon</persName> Vivat; der <rs ref="#friedrich-august">König</rs> fuhr in
 					<lb n="24"/>die Schloßkapelle, das <hi rend="latin">Te Deum</hi> sich singen zu laßen; von allen Thürmen
 					<lb n="25"/>mußte geläutet werden, bis gegen 5 Uhr.
 					<note place="bottom" xml:id="n3v">
@@ -332,7 +361,8 @@
 					<lb n="31"/>zwar die Kanonade, aber das <term ref="#peloton">Pelotonfeuer</term> dauerte bis gegen 7 Uhr, und
 					<pb facs="http://digital.slub-dresden.de/id512116717/547" n="4r"/>
 					<lb n="01"/>dieser Punkt wurde fest behauptet von beiden Parteien, so wie die Stellung bei Wolk<pc force="weak">-</pc>
-					<lb break="no" n="02"/>witz von den <rs ref="#AU">Oesterreichern</rs>.</p>
+					<lb break="no" n="02"/>witz von den <rs ref="#AU">Oesterreichern</rs>.
+				</p>
 				<p xml:id="p.3.5" xml:space="preserve">
 					<lb n="03"/>Von dem, was in der Gegend vor dem <placeName ref="#leipzig.hallesches-thor">halleschen Thore</placeName> geschenen, kann ich, da es
 					<lb n="04"/>außer meinem Gesichts- <abbr ana="#und">u</abbr> Gehörskreise lag, nichts sagen, als daß ebenfalls den
@@ -341,7 +371,8 @@
 					<lb n="07"/>Bestätigung, daß wo der <rs ref="#napoleon">Kaiser</rs> selbst ist, alles möglich gemacht wird, daß aber,
 					<lb n="08"/>um zu einer Entscheidung zu gelangen, morgen, oder, will man erst die Todten be<pc force="weak">-</pc>
 					<lb break="no" n="09"/>graben, übermorgen, von neuem auf allen Punkten rund um die Stadt gekämpft
-					<lb n="10"/>werden muß.</p>
+					<lb n="10"/>werden muß.
+				</p>
 				<p xml:id="p.3.6" xml:space="preserve">
 					<lb n="11"/>Gegen Abend brachte man den tapfern <persName ref="#la-tour-maubourg">Latour-Maubourg</persName> herein: ein Fuß ist
 					<lb n="12"/>ihm, vom Schenlen an, weggerißen. Mehrere ebenfalls bedeutende Generale wur<pc force="weak">-</pc>
@@ -376,7 +407,8 @@
 					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><abbr ana="#dr">D<am>.</am></abbr></hi> <persName ref="#hillig">Hilligs</persName> Guth,
 					<lb n="04"/>(Sie kennen ihn ja wohl) deßen Garten an den meinen gränzt, ist danz aus<pc force="weak">-</pc>
 					<lb break="no" n="05"/>gebrannt. Da die Luft still war, hinderten die Gärten die Verbreitung. Mein
-					<lb n="06"/>Haus, soweit es sich nicht stehlen und zum Feuermachen losbrechen läßt, steht noch.</p>
+					<lb n="06"/>Haus, soweit es sich nicht stehlen und zum Feuermachen losbrechen läßt, steht noch.
+				</p>
 			</div>
 			<div n="5" xml:id="div.5">
 				<dateline n="07">Abends.</dateline>
@@ -606,7 +638,7 @@
 					<lb n="12"/>laßen, sondern mit ungeheuerer Eile und Anstrengung gegen alle Corps im
 					<lb n="13"/>Einzelnen gefochten, so daß die Vereinigung nicht statt haben, und der <rs ref="#napoleon">Kaiser</rs> das
 					<lb n="14"/>kühne, trotzige Project aufgeben mußte. Zu der kurzen Unterredung mit unserem
-					<lb n="15"/>Könige hat er, offenbar abfällig, laut genug erklärt: wenn man ihm anmuthe,
+					<lb n="15"/><rs ref="#friedrich-august">Könige</rs> hat er, offenbar abfällig, laut genug erklärt: wenn man ihm anmuthe,
 					<lb n="16"/>gegen die Ehre zu handeln, so werde er schlagen, und wenn er nur nach hundert <term ref="#reuter">Reu<pc force="weak">-</pc>
 					<lb break="no" n="17"/>ter</term> hätte. Dieß erzählten wenigstens, die es wißen konnten.
 				</p>
@@ -671,10 +703,10 @@
 				<p xml:id="p.10.5" xml:space="preserve">
 					<lb n="06"/>Gleich nachdem die Preußen das Pflaster der Stadt betreten hatten, drangen durch alle
 					<lb n="07"/>Thore <del>zugleich</del> und Pforten auch Oesterreicher, Rußen, Schweden herein. Das Corps Baad<pc force="weak">-</pc>
-					<lb break="no" n="08"/>ner streckte auh dem Markte das Gewehr: Bernadotte gab <del>es <unclear extent="1" unit="word"/></del> so gleich zurück
+					<lb break="no" n="08"/>ner streckte auh dem Markte das Gewehr: Bernadotte<!--?--> gab <del>es <unclear extent="1" unit="word"/></del> so gleich zurück
 					<lb n="09"/>und sie schloßen sich augenblicks an die Corps an, die die abziehenden Franzosen verfol<pc force="weak">-</pc>
 					<lb break="no" n="10"/>gen mußten. Das letzte thaten die Sachsen ebenfalls, und, wie wenigstens Jederma<g ana="#lig-nn">nn</g>
-					<lb n="11"/>behauptet und es auch höchstswahrscheinlich ist, ohne Wissen und Wollen des Königs. Das
+					<lb n="11"/>behauptet und es auch höchstswahrscheinlich ist, ohne Wissen und Wollen des <rs ref="#friedrich-august">Königs</rs>. Das
 					<lb n="12"/>Stadtvolk nahm sich gut: es war froh, aber nicht vorlaut, noch viel weniger in irgend
 					<lb n="13"/>einer Weise <term ref="#excediren">excedirend</term>. Aber Unbekannte drückten einander die Hand, flüsterten
 					<lb n="14"/>einander Trostes-, Freudenworte zu; man reichte Lebensmittel, wo man auch etwas hatte;
@@ -758,7 +790,7 @@
 					<lb n="19"/>ganze Passage, und standen nun da und fluchten. Ihr herzlich guter Wille, ihr
 					<lb n="20"/>handfester, aber höchst ungeschickter Eifer, gab die komischsten Situationen,
 					<lb n="21"/>wenn man sie nur vor Mitleid und Sorge hätte genießen können. Mehrere
-					<lb n="22"/>faßten mich u<del rend="modified">n</del>m<del>ter</del> den Arm, (das Küßen haben sie sich abgewöhnt,) und schreien
+					<lb n="22"/>faßten mich <mod><del>un</del><add>um</add></mod><del>ter</del> den Arm, (das Küßen haben sie sich abgewöhnt,) und schreien
 					<lb n="23"/>in mich hine<unclear>i</unclear>n: „siehʼs Franzos? Schelm Franzos! aber caput Franzos! Huhuhu!“
 					<lb n="24"/>Und die nicht so gelahrt waren, wußten wenigstens zu sagen: „Bruder! – <del>ahf</del> ääf,
 					<lb n="25"/>Brüder!“ <metamark>—</metamark> Ich ging nach Hause, die Meinigen zu beruhigen, und nach <time>5 Uhr</time>
@@ -784,7 +816,7 @@
 					<lb n="10"/>Das Innere der Stadt ist so weit in Ordnung, als es bei solcher Menge und Enge
 					<lb n="11"/>möglich seÿn mag: dennoch geht man nur mit viel Gefahr. Jenes Feuer, so
 					<lb n="12"/>wie das in der Eule[?] <abbr ana="#etc">e⁊</abbr> ist wieder. Noch immerfort fallen Musketenschüsse von
-					<lb n="13"/>versteckten <rs ref="#FR">Franzosen</rs>. Die Kaiser und Könige (den unsern ausgenommen, der
+					<lb n="13"/>versteckten <rs ref="#FR">Franzosen</rs>. Die Kaiser und Könige (den <rs ref="#friedrich-august">unsern</rs> ausgenommen, der
 					<lb n="14"/>ganz still im Schloße ist,) gehen mit wenig Begleitung zu Fuß umher, um
 					<lb n="15"/>aufzumuntern <abbr ana="#etc">e⁊</abbr> <persName ref="#alexander">Alexander</persName> sahe ich auf dem Markte unter den ihn anbeten<pc force="weak">-</pc>
 					<lb break="no" n="16"/>den Soldaten: man kann mit wohlwollender Humanität nicht mehr Würde
@@ -837,7 +869,7 @@
 					<pb facs="http://digital.slub-dresden.de/id512116717/561" n="11r"/>
 					<lb n="01"/><placeName ref="#torgau">Torgau</placeName> sind noch nicht über; von <placeName ref="#dresden">Dresden</placeName> haben wir keine Nachricht. Ach wahr<pc force="weak">-</pc>
 					<lb break="no" n="02"/>scheinlich <del>habt</del><add place="above">seÿd</add> Ihr Freunde einem Schicksal nahe, daß dem unsrigen gleich ist!
-					<lb n="03"/><metamark>—</metamark> Unser König hat sich fest erklärt, bei seiner Verbindung mit <persName ref="#napoleon">Napoleon</persName>
+					<lb n="03"/><metamark>—</metamark> Unser <rs ref="#friedrich-august">König</rs> hat sich fest erklärt, bei seiner Verbindung mit <persName ref="#napoleon">Napoleon</persName>
 					<lb n="04"/>zu verbleiben, aber auch <placeName ref="#leipzig">Leipzig</placeName> nicht ohne Gewalt zu verlaßen, und keinen
 					<lb n="05"/>der Seinen zu hindern, wenn er zur <rs ref="#CO">alliirten Parthei</rs> übergehen wolle. So
 					<lb n="06"/>ist er denn als Kriegsgefangener erklärt und selbst seiner Leibgarde beraubt
@@ -1029,7 +1061,7 @@
 					<lb n="19"/>Aufopferung allenfalls des Besten, was nicht eigen ist, gegen das Elendeste,
 					<lb n="20"/>was es ist, und immer weiter gehende Versuche, Eigennutz und Habsucht zu be<pc force="weak">-</pc>
 					<lb break="no" n="21"/>friedigen. Ach es giebt keine Menschenkenntnis zur Menschenliebe, nur
-					<lb n="22"/>eine zur Menschenverachtung; und blos Eine Tugend, u<mod>nm</mod>d diese, <emph rend="u">bei</emph> Menschen<pc force="weak">-</pc>
+					<lb n="22"/>eine zur Menschenverachtung; und blos Eine Tugend, u<mod><del>n</del><add>m</add></mod><del>d</del> diese, <emph rend="u">bei</emph> Menschen<pc force="weak">-</pc>
 					<lb break="no" n="23"/>kenntnis, nicht überhand nehmen zu laßen: Gerechtigkeit. Darum wohl dem,
 					<lb n="24"/>der durch das Leben selbst nicht gezwungen wird, auch in dieser Hinsicht vom
 					<lb n="25"/>Baume des Erkenntnißes Früchte zu brechen, sondern, als ein erwachsenes
