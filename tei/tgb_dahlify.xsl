@@ -18,6 +18,14 @@
 		<xsl:sequence select="$indices//item[@xml:id = current()/substring(@ana, 2)]/*"/>
 	</xsl:template>
 
+	<!-- expand */ref -->
+	<xsl:template match="(persName | placeName | orgName | rs | geogName | term)[@ref]">
+		<xsl:copy>
+			<xsl:attribute name="type">tgb</xsl:attribute>
+			<xsl:apply-templates select="@* | node()"/>
+		</xsl:copy>
+	</xsl:template>
+
 	<!-- replace facsimile link by proper iiif manifesto link -->
 	<xsl:template match="pb/@facs">
 		<xsl:attribute name="facs">
