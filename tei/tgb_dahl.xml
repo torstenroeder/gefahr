@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="de">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" xml:lang="de">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title xml:lang="de">Tagebuch über die Begebenheiten von Leipzig vom 10. October
 					an</title>
-				<title xml:lang="en">Diary about the events in Leipzig from 10th October
+				<title xml:lang="en">Diary about the events in Leipzig from October 10
 					onwards</title>
 				<author>Friedrich Rochlitz</author>
 			</titleStmt>
 			<publicationStmt>
 				<authority>
-					<persName type="tgb" ref="https://orcid.org/0000-0001-7043-7820">Torsten
-						Roeder</persName>
+					<persName type="tgb" ref="https://orcid.org/0000-0001-7043-7820">Torsten Roeder</persName>
 				</authority>
 				<availability>
 					<licence>CC BY 4.0</licence>
@@ -35,23 +33,34 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin>Briefkonvolut von <persName type="tgb" ref="#rochlitz">Friedrich
-								Rochlitz</persName>, entstanden nach eigenen Angaben in den Tagen
-							zwischen dem 25. September und 26. Oktober 1813. Die äußere Form sowie
-							ein Schriftvergleich legen nahe, dass es sich um eine Reinschrift von
-							fremder Hand handelt. Der wahrscheinliche Empfänger ist <persName
-								type="tgb" ref="#boettiger">Carl August Böttiger</persName> in
-								<placeName>Dresden</placeName>. Dies entspricht den Hinweisen im
-							Text auf einen dortigen Adressaten.</origin>
-						<provenance>Im Vorbericht der späteren Publikation des Textes (1816) erwähnt
-							Rochlitz, dass das „ungestalte Conglomerat“ bereits von einem größeren
-							Personenkreis rezipiert wurde: „Ohne mein Wissen ward es damals auch
-							Andern […] vorgelegt“. Ein Hinweis auf diese Praxis sowie auf einen der
-							möglichen Leser des Konvoluts findet sich in einem <ref
-								target="http://kalliope-verbund.info/de/ead?ead.id=DE-611-HS-2968637"
-								>Brief von Christian Truchseß von Wetzhausen </ref>, der Rochlitz
-							berichtet, „dass er dessen letzten Brief von vielen Menschen habe
-							vorlesen lassen.“</provenance>
+						<summary>
+							<p>Brieftagebuch von <persName type="tgb" ref="#rochlitz">Friedrich
+									Rochlitz</persName> über die Geschehnisse in und um Leipzig im
+								Oktober 1813.</p>
+						</summary>
+						<origin>
+							<p>Den Datumsangaben zufolge ist der Text zwischen dem 25. September und
+								26. Oktober 1813 entstanden. Die relativ saubere Form sowie ein
+								Schriftvergleich legen nahe, dass es sich um eine Reinschrift von
+								fremder Hand handelt. Überlieferte Autographe oder Abschriften sind
+								nicht bekannt.</p>
+						</origin>
+						<provenance>
+							<p>Der anzunehmende Adressat des Brieftagebuchs ist <persName type="tgb" ref="#boettiger">Carl August Böttiger</persName>, in dessen
+								Nachlass es sich heute befindet (SLUB Dresden). Dies entspricht der
+								Anrede im Text an einen Freund in Dresden (vgl. fol. 1r, Z. 21-23
+								sowie fol. 11r, Z. 1-2). Es ist unbekannt, wann oder mit welcher
+								Sendung das Tagebuch tatsächlich versendet wurde (möglich ist
+								26.11.1813, siehe. <ref target="https://kalliope-verbund.info/ead?ead.id=DE-611-HS-2563364">Kalliope</ref>).</p>
+							<p>Auch im Vorbericht der späteren Publikation des Textes (1816) erwähnt
+								Rochlitz, dass das „ungestalte Conglomerat“ bereits von einem
+								größeren Personenkreis rezipiert wurde: „Ohne mein Wissen ward es
+								damals auch Andern […] vorgelegt“.</p>
+							<p>Ein Hinweis auf diese Praxis sowie auf einen der möglichen Leser des
+								Konvoluts findet sich in einem <ref target="http://kalliope-verbund.info/de/ead?ead.id=DE-611-HS-2968637">Brief von Christian Truchseß von Wetzhausen </ref>, der
+								berichtet, „dass er dessen letzten Brief von vielen Menschen habe
+								vorlesen lassen.“</p>
+						</provenance>
 					</history>
 					<additional>
 						<surrogates>
@@ -96,16 +105,40 @@
 						unterstrichen</desc>
 					<desc>dateline[@rend='right'] - Datumszeilen stehen rechtsbündig</desc>
 					<desc>hi[@rend='latin'] - Lateinische Schrift für frz. und lat. Ausdrücke = </desc>
-					<desc>abbr – Abkürzung, siehe allgemeines Verzeichnis in indices.xml</desc>
-					<desc>g – Ligatur, siehe allgemeines Verzeichnis in indices.xml</desc>
+					<desc>g – Ligatur, siehe <ref target="indices.xml">Verzeichnis</ref></desc>
+				</ab>
+				<ab>
+					<desc>pc - Worttrennung am Zeilenende</desc>
+					<desc>metamark - Markierung von Sinnabschnitten</desc>
+				</ab>
+				<ab>
+					<desc>del - Streichung durch Schreibhand</desc>
+					<desc>add - Hinzufügung durch Schreibhand</desc>
+					<desc>mod - Änderung von Zeichen</desc>
+				</ab>
+				<ab>
+					<desc>unclear - nicht lesbare Zeichenfolge</desc>
+					<desc>surplus - Auslassung durch die Edition</desc>
+					<desc>supplied - Ergänzung durch die Edition</desc>
+				</ab>
+				<ab>
+					<desc>term - spezieller Begriff</desc>
+					<desc>abbr – Abkürzung</desc>
+				</ab>
+				<ab>
+					<desc>persName - Eigennamen von Personen</desc>
+					<desc>orgName - Eigennamen von Körperschaften</desc>
+					<desc>placeName - Eigennamen von bewohnten Orten</desc>
+					<desc>geogName - Eigennamen von Geografika</desc>
+					<desc>rs - a) Bezug zu einer der obenstehenden Entitäten b) Ethnonym c)
+						politische Gruppierung</desc>
 				</ab>
 			</editorialDecl>
 		</encodingDesc>
 	</teiHeader>
 	<text source="#M1" xml:lang="de">
 		<front>
-			<pb n="U1"
-				facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000539.tif.large.jpg"/>
+			<pb n="U1" facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000539.tif.large.jpg"/>
 			<p xml:space="preserve">
 				<lb n="01"/>Tagebuch über die Begeben<pc force="weak">-</pc>
 				<lb break="no" n="02"/>heiten von <placeName type="tgb" ref="#leipzig">Leipzig</placeName>
@@ -115,17 +148,13 @@
 				<lb n="04"/>von
 				<lb n="05"/>Fr. <hi rend="u">Rochlitz</hi>
 			</p>
-			<pb n="U2"
-				facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000540.tif.large.jpg"/>
+			<pb n="U2" facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000540.tif.large.jpg"/>
 			<!--vacat-->
 		</front>
 		<body>
 			<div n="1" xml:id="div.1">
-				<pb
-					facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000541.tif.large.jpg"
-					n="1r"/>
-				<dateline n="01" rend="right">Den <date when="1813-10-11">11<hi rend="sup uu"
-							>ten</hi> Oct. 1813</date>.</dateline>
+				<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000541.tif.large.jpg" n="1r"/>
+				<dateline n="01" rend="right">Den <date when="1813-10-11">11<hi rend="sup uu">ten</hi> Oct. 1813</date>.</dateline>
 				<p n="1" xml:id="p.1.1" xml:space="preserve">
 					<lb n="02"/>Ich habe in diesen Tagen stündlichen Schreckens und einer Noth, wie wir sie hier
 					<lb n="03"/>noch nicht gekannt, nicht schreiben können, weniger aus äußerer, als aus in<pc force="weak">-</pc>
@@ -145,12 +174,12 @@
 					<lb n="17"/>geschehen, als daß man auch das Haus ansteckt. So handeln Freunde und
 					<lb n="18"/>Alliirte; so die große, die gebildetste Nation, selbst unter den Augen der
 					<lb n="19"/>Generale, in der Nähe unseres <rs type="tgb" ref="#friedrich-august">Königs</rs> und ihres <rs type="tgb" ref="#napoleon">Kaisers</rs>. Wohin es in
-					<lb n="20"/>der Stadt kommen will, da man vergebens nach Brodt läuft <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> das
+					<lb n="20"/>der Stadt kommen will, da man vergebens nach Brodt läuft <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> das
 					<lb n="21"/>mag Gott wißen. Ich weiß es wohl, daß es in und um <placeName type="tgb" ref="#dresden">Dresden</placeName> nicht
 					<lb n="22"/>beßer gegangen: ich wunder mich auch nicht, ich erwähne es blos, da ich
 					<lb n="23"/>nun einmal meine Schicksale Ihnen erzählen soll. <rs type="tgb" ref="#henriette">Meine Frau</rs>, da nicht
 					<lb n="24"/>viel von ihr abzuhalten ist, leidet sehr; <placeName type="tgb" ref="#connewitz">Connewitz</placeName> war ihre Lieblings<pc force="weak">-</pc>
-					<lb break="no" n="25"/>puppe; sie kömmt, durch Sorgen, Schrecken, Mangel an Schlaf <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>, ganz von
+					<lb break="no" n="25"/>puppe; sie kömmt, durch Sorgen, Schrecken, Mangel an Schlaf <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>, ganz von
 					<lb n="26"/>Kräften und fällt sichtbar ab. Mich hält mehr die gewaltsame Spannung a<del><unclear extent="1" unit="chars"/></del>uf<pc force="weak">-</pc>
 					<lb break="no" n="27"/>recht: hinterher werdʼ ichs schon fühlen.
 				</p>
@@ -163,7 +192,7 @@
 					<lb n="30"/>Hause zu <placeName type="tgb" ref="#connewitz">Connewitz</placeName> ist alles, was sich nur zum Verkaufen oder Verbrennen
 					<lb n="31"/>ausbrechen ließ, gestohlen oder verbrannt. Keine Barriere, keine Thüre,
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000542.tif.large.jpg" n="1v"/>
-					<lb n="01"/>keine Gartenwand von Holz mehr <abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan>. Im Garten stahn nur noch die Linden
+					<lb n="01"/>keine Gartenwand von Holz mehr <choice><abbr ana="#udgl">u dgl</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></choice>. Im Garten stahn nur noch die Linden
 					<lb n="02"/>und wenig Bäume, und auch diese sind vielleicht in dieser Nacht gefallen.
 					<lb n="03"/>Den Pavillon haben gestern meine Nachbarn nur durch Zufall gerettet: man
 					<lb n="04"/>hatte Feuer in ihm angelegt, und meines <rs type="tgb" ref="#connewitz.gaertnersfrau">Gärtners Frau</rs> ist, den Mißhandlungen
@@ -179,22 +208,22 @@
 					<lb n="14"/>Wir müßen sterben, aber ihr solltʼs auch! Die Einquartierung in der
 					<lb n="15"/>Stadt – im <placeName type="tgb" ref="#leipzig.catharinenstr.415">Hause der Catharinenstraße</placeName> stets zwischen 40 und 60 Mann,
 					<lb n="16"/>dauert ununterbrochen fort; in meiner Wohnung habe ich zwei Kriegscom<pc force="weak">-</pc>
-					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <abbr>r⁊.</abbr><expan>Reichsthaler</expan> für die Ein<pc force="weak">-</pc>
+					<lb break="no" n="17"/>mißaire mit ihren Leuten; gestern bezahlten wir 618 <choice><abbr ana="#rth">r⁊.</abbr><expan>Reichsthaler</expan></choice> für die Ein<pc force="weak">-</pc>
 					<lb break="no" n="18"/>quartierten im Monat <date when="1813-09">September</date>; diese Nacht (ich schreibe <time when="0600">früh gegen 6 Uhr</time>)
-					<lb n="19"/>habe ich, seit dem <time when="1100">11<hi rend="sup">ten</hi></time> zum erstenmale, drei Stunden fest, vor Erschöpfung,
+					<lb n="19"/>habe ich, seit dem <date when="1813-09-11">11<hi rend="sup">ten</hi></date> zum erstenmale, drei Stunden fest, vor Erschöpfung,
 					<lb n="20"/>schlafen können. In der Stadt sind 13000 Kranke und Verwundete: der
 					<lb n="21"/><rs type="tgb" ref="#napoleon">Kaiser</rs> selbst hat vorgestern befohlen, daß man noch für 15000 Raum schaf<pc force="weak">-</pc>
 					<lb break="no" n="22"/>fen müsse, so daß, wenn diese kommen, die Gesamtzahl fast die der Einwohner
 					<lb n="23"/>erreicht. Brodt hätte ich seit zwei Tagen nicht, wenn auch nicht Freunde un<pc force="weak">-</pc>
 					<lb break="no" n="24"/>terstützten, denen es einquartierte Soldaten verschaffen. Faurrage ist gar
 					<lb n="25"/>nicht mehr da. Statt Stroh bringt und verbraucht man unausgedroschenes
-					<lb n="26"/>Korn <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Weizen – – Soll ich aufhören? O ja, genug, genug! Und doch
+					<lb n="26"/>Korn <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Weizen – – Soll ich aufhören? O ja, genug, genug! Und doch
 					<lb n="27"/>achtʼ ich <emph rend="u">für</emph> <emph rend="u">mich</emph>, was mich betroffen, noch nicht als das Traurigste. Erhalte
-					<lb n="28"/>ich mir <abbr>u.</abbr><expan>u<ex>nd</ex></expan> den Meinigen das Leben, so wird mir auch bleiben, daß ich ein<pc force="weak">-</pc>
+					<lb n="28"/>ich mir <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> den Meinigen das Leben, so wird mir auch bleiben, daß ich ein<pc force="weak">-</pc>
 					<lb break="no" n="29"/>mal, kömmt Ruhe, nicht geringer, nicht sorgenvoller meine Tage ver<pc force="weak">-</pc>
 					<lb break="no" n="30"/>bringen werde, als mit <rs type="tgb" ref="#rochlitz.mutter">meiner Mutter</rs> vor 1806; und <rs type="tgb" ref="#henriette">meine Frau</rs> hat
 					<lb facs="http://digital.slub-dresden.de/id512116717/543" n="2r"/>
-					<lb n="01"/>Geist <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Charakter genug, sich darein zu finden, und darum nicht eben unglück<pc force="weak">-</pc>
+					<lb n="01"/>Geist <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Charakter genug, sich darein zu finden, und darum nicht eben unglück<pc force="weak">-</pc>
 					<lb break="no" n="02"/>lich zu seÿn. Aber was ich sonst sehe und erfahre – den Menschen in seiner
 					<lb n="03"/>Verworfenheit tiefstem Grade, dann, was Andere an uns gethan <del>und</del> oder
 					<lb n="04"/>zugelaßen, mit denen wir, mit denen besonders seit längern Jahren <rs type="tgb" ref="#henriette">meine
@@ -221,7 +250,7 @@
 					<lb n="23"/>sehr ernst und düster, versengt in ungeheuere Anstrengungen, schonungslos
 					<lb n="24"/>gegen sich selbst: nach jenem Gefecht, obgleich es, so weit unsere blöden Augen
 					<lb n="25"/>reichen, gar nichts entschied, ist er, wie man bemerken wollen, heiter und
-					<lb n="26"/>zufrieden. Der <rs>König</rs> schien bei seinem Einritt, vom Anblick der Verwüstung
+					<lb n="26"/>zufrieden. Der <rs type="tgb" ref="#friedrich-august">König</rs> schien bei seinem Einritt, vom Anblick der Verwüstung
 					<lb n="27"/>und der dumpfen Stille aller, durch die er hinzog, gerührt: gleich darauf,
 					<lb n="28"/>als die Deputationen erschienen, zeigte er sich sehr ruhig und gefaßt, be<pc force="weak">-</pc>
 					<lb break="no" n="29"/>zeigte auch seinen Glauben an eine ganz nahe Wiederherstellung <hi rend="latin">in integrum</hi>. <metamark>—</metamark>
@@ -241,7 +270,8 @@
 					<lb break="no" n="11"/>brauch offen <del>gelaßen.</del> und leer stehen laßen. <metamark>—</metamark> Der guten <persName type="tgb" ref="#loehr">Löhr</persName> Woh<pc force="weak">-</pc>
 					<lb break="no" n="12"/>nung in der Stadt, wie ihren Garten, hat man ausgeräumt, und zum ver<pc force="weak">-</pc>
 					<lb break="no" n="13"/>langten, Gebrauch eingerichtet. Alle geräumige Gartenhäuser sind Lazarethe,
-					<lb n="14"/>oder werden eben dazu eingerichtet. Das Löhrsche ist jetzt noch leer. —</p>
+					<lb n="14"/>oder werden eben dazu eingerichtet. Das Löhrsche ist jetzt noch leer. —
+				</p>
 				<p xml:id="p.2.3" xml:space="preserve">
 					<lb n="15"/>Da bricht der Tag an – heiter und glänzend. Reine Sonne: heute hast
 					<lb n="16"/>du wohl noch kein neuvergoßenes Menschenblut, wenn auch unzählige
@@ -252,7 +282,7 @@
 					<lb break="no" n="21"/>nen nur die Augen, nicht einmal die Herzen zu dir erheben! Du bist groß:
 					<lb n="22"/>du wirst bleiben; wir sind klein: wir werden vergehen; und was unter uns
 					<lb n="23"/>groß genannt wird, will es nur seÿn im Schrecken zum Verderben! Nun, so
-					<lb n="24"/>entzünde nur in unsere<del rend="modified">m</del>n Herzen, bei Verzichtleistung auf Erdengröße, von
+					<lb n="24"/>entzünde nur in unsere<mod><del>m</del><add>n</add></mod> Herzen, bei Verzichtleistung auf Erdengröße, von
 					<lb n="25"/>neuem einen reinen Sinn, einen edeln Willen, damit es nicht an uns fehle,
 					<lb n="26"/>wenn uns dereinst auch wieder die reine, edle That verstattet wird! — —
 				</p>
@@ -300,12 +330,12 @@
 					<lb break="no" n="29"/>be herüber gegen <placeName type="tgb" ref="#connewitz">Connewitz</placeName>; der Hauptpun<del rend="overwritten">c</del>kt schien über <placeName type="tgb" ref="#schocher">Schocher</placeName> hinaus und
 					<lb n="30"/>bei <placeName type="tgb" ref="#schoenau">Schönau</placeName> zu seÿn. Ohne einen Augenblick Unterbrechung oder auch nur Nachlaß
 					<lb n="31"/>wurde dieß, so wir die Kanonade, sortgesetzt. Um die Mittagstunde wandelte
-					<lb n="32"/>sich der Hauptpun<del rend="overwritten">c</del>kt weiter gegen <placeName type="tgb" ref="#schleusig">Schleusig</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>, mithin schienen die <abbr>Franz<ex>osen</ex><am>.</am></abbr> hier of<pc force="weak">-</pc>
+					<lb n="32"/>sich der Hauptpun<del rend="overwritten">c</del>kt weiter gegen <placeName type="tgb" ref="#schleusig">Schleusig</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>, mithin schienen die <abbr>Franz<ex>osen</ex><am>.</am></abbr> hier of<pc force="weak">-</pc>
 					<lb break="no" n="33"/>fenbar zu weichen: da brach der <rs type="tgb" ref="#napoleon">Kaiser</rs> selbst eben von dieser Seite heraus,
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000546.tif.large.jpg" n="3v"/>
 					<lb n="01"/>(vom <placeName type="tgb" ref="#leipzig.petersthor">Petersthore</placeName>) und nun überstieg die Hitze das Feuers aller Art auf diesem
 					<lb n="02"/>Punkte jeden Begriff. Allem Ansehn nach hatten die <rs type="tgb" ref="#RU">Russen</rs> die Verbindung jenes
-					<lb n="03"/>ersten und dieses dieses zweiten Corps (über <placeName type="tgb" ref="#connewitz">Connewitz</placeName>, <placeName type="tgb" ref="#gautzsch">Gautzsch</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> links) unterhalten
+					<lb n="03"/>ersten und dieses dieses zweiten Corps (über <placeName type="tgb" ref="#connewitz">Connewitz</placeName>, <placeName type="tgb" ref="#gautzsch">Gautzsch</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> links) unterhalten
 					<lb n="04"/>sollen, und nicht, oder zu schwach und zu wenig klug unf beharrlich, unterhalten.
 					<lb n="05"/>Wie es bei der Unbequemlichkeit des Terrains auf jenem Punkte – überall kleine
 					<lb n="06"/>Gehölze, kleine Gewässer – möglich gesorden, daß der <rs type="tgb" ref="#napoleon">Kaiser</rs>, auch nur
@@ -318,14 +348,14 @@
 					<lb n="13"/>der Franzosen<supplied>.</supplied><ref target="#n3v">*)</ref> Von gegen 2 Uhr an sahen wir von unseren Fenstern durch
 					<lb n="14"/>die Allee 5 oder 6 Regimenter frische Truppen im Eilmarsch und vollkommener
 					<lb n="15"/>Ordnung vorüber, nach dem ranstädter Thore zu, marschiren, welche mithin
-					<lb n="16"/>die Alliirten, von <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> aus, durch brechen und in die Flanke nehmen
+					<lb n="16"/>die Alliirten, von <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> aus, durch brechen und in die Flanke nehmen
 					<lb n="17"/>sollten. Gegen 3 Uhr mochten diese zum Gefecht gekommen seÿn: aber
 					<lb n="18"/>auch ein großes Corps frischer österreichischer Regimenter war ange<pc force="weak">-</pc>
 					<lb break="no" n="19"/>kommen, und das Feuer wars gräßlich. Da indeß das Centrum der
 					<lb n="20"/>Alliirten, (wie es schien, eine bis gegen zwei Stunden weit zurückgedrängt
-					<lb n="21"/>worden war, flog der Courier zu unsere<del rend="modified">m</del>n König mit der – Siegespost.
-					<lb n="22"/>Es war einige Minuten vor 4 Uhr. Die Leibgarde bekam, auf des Königs
-					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName type="tgb" ref="#napoleon">Napoleon</persName> Vivat; der König fuhr in
+					<lb n="21"/>worden war, flog der Courier zu unsere<mod><del>n</del><add>m</add></mod> <rs type="tgb" ref="#friedrich-august">König</rs> mit der – Siegespost.
+					<lb n="22"/>Es war einige Minuten vor 4 Uhr. Die Leibgarde bekam, auf des <rs type="tgb" ref="#friedrich-august">Königs</rs>
+					<lb n="23"/>Befehl, Wein, und rief dem Sieger <persName type="tgb" ref="#napoleon">Napoleon</persName> Vivat; der <rs type="tgb" ref="#friedrich-august">König</rs> fuhr in
 					<lb n="24"/>die Schloßkapelle, das <hi rend="latin">Te Deum</hi> sich singen zu laßen; von allen Thürmen
 					<lb n="25"/>mußte geläutet werden, bis gegen 5 Uhr.
 					<note place="bottom" xml:id="n3v">
@@ -333,23 +363,25 @@
 						<lb n="27"/>te des Gefechtes aber keineswegs der Fall gewesen ist.</note>
 				</p>
 				<p xml:id="p.3.4" xml:space="preserve">
-					<lb n="27"/>Aber auf jenem Flügel der <rs type="tgb" ref="#AU">Oesterreicher</rs>, über <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> dauerte das
+					<lb n="27"/>Aber auf jenem Flügel der <rs type="tgb" ref="#AU">Oesterreicher</rs>, über <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> dauerte das
 					<lb n="28"/>Gefecht immer mit gleicher Heftigkeit, und ohne im mindesten rück- oder vor<pc force="weak">-</pc>
 					<lb break="no" n="29"/>wärts, oder auch nur zur Seite hin zu weichen, ununterbrochen fort, bis
 					<lb n="30"/>der Abend schon ganz herein gebrochen war. Mit dem Dunkel minderte sich
 					<lb n="31"/>zwar die Kanonade, aber das <term type="tgb" ref="#peloton">Pelotonfeuer</term> dauerte bis gegen 7 Uhr, und
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000547.tif.large.jpg" n="4r"/>
 					<lb n="01"/>dieser Punkt wurde fest behauptet von beiden Parteien, so wie die Stellung bei Wolk<pc force="weak">-</pc>
-					<lb break="no" n="02"/>witz von den <rs type="tgb" ref="#AU">Oesterreichern</rs>.</p>
+					<lb break="no" n="02"/>witz von den <rs type="tgb" ref="#AU">Oesterreichern</rs>.
+				</p>
 				<p xml:id="p.3.5" xml:space="preserve">
 					<lb n="03"/>Von dem, was in der Gegend vor dem <placeName type="tgb" ref="#leipzig.hallesches-thor">halleschen Thore</placeName> geschenen, kann ich, da es
-					<lb n="04"/>außer meinem Gesichts- <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Gehörskreise lag, nichts sagen, als daß ebenfalls den
+					<lb n="04"/>außer meinem Gesichts- <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Gehörskreise lag, nichts sagen, als daß ebenfalls den
 					<lb n="05"/>ganzen Tag gefochten, und mit Glück für die <rs type="tgb" ref="#CO">Alliirten</rs> gefochten worden ist. Hier stan<pc force="weak">-</pc>
 					<lb break="no" n="06"/>den vornämlich <rs type="tgb" ref="#PR">Preußen</rs>.<ref target="#n4r">*)</ref><note place="bottom" xml:id="n4r"><label>*)</label> Später zeigte sich, daß dieses Glück außerordentlich groß war.</note> Und so bietet das Ganze, scheint es <add place="above">noch</add>, kein Resultat, außer der
 					<lb n="07"/>Bestätigung, daß wo der <rs type="tgb" ref="#napoleon">Kaiser</rs> selbst ist, alles möglich gemacht wird, daß aber,
 					<lb n="08"/>um zu einer Entscheidung zu gelangen, morgen, oder, will man erst die Todten be<pc force="weak">-</pc>
 					<lb break="no" n="09"/>graben, übermorgen, von neuem auf allen Punkten rund um die Stadt gekämpft
-					<lb n="10"/>werden muß.</p>
+					<lb n="10"/>werden muß.
+				</p>
 				<p xml:id="p.3.6" xml:space="preserve">
 					<lb n="11"/>Gegen Abend brachte man den tapfern <persName type="tgb" ref="#la-tour-maubourg">Latour-Maubourg</persName> herein: ein Fuß ist
 					<lb n="12"/>ihm, vom Schenlen an, weggerißen. Mehrere ebenfalls bedeutende Generale wur<pc force="weak">-</pc>
@@ -374,17 +406,18 @@
 					<lb break="no" n="27"/>zösische Behörden. Von Gefangenen ist indeß noch nichts, außer einigen kleinen
 					<lb n="28"/>Truppen von 50, 60 Mann, eingebracht worden. Wovon sollten sie auch leben?
 					<lb n="29"/>Alle diese Angaben sind übrigens nur nach Gerüchten. Bis jetzt hörte ich, aus<pc force="weak">-</pc>
-					<lb break="no" n="30"/>ser Plänkereien der Vorposten, <rs type="tgb" ref="#KS">Kosaken</rs> <abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan>, gleich früh von 6 Uhr an, kein
+					<lb break="no" n="30"/>ser Plänkereien der Vorposten, <rs type="tgb" ref="#KS">Kosaken</rs> <choice><abbr ana="#udgl">u dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></choice>, gleich früh von 6 Uhr an, kein
 					<lb n="31"/>Feuern. Die <rs type="tgb" ref="#CO">Alliirten</rs> haben, heißt es, in der Gegend vom <placeName type="tgb" ref="#leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName type="tgb" ref="#leipzig.petersthor">Pe<pc force="weak">-</pc>
 					<lb break="no" n="32"/>tersthore</placeName> hinaus, das Schlachtfeld in der Nacht verlaßen, und einige Stunden
 					<lb n="33"/>weiter hinaus eine neue Position genommen. Zu <placeName type="tgb" ref="#connewitz">Connewitz</placeName> war, wie auch
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000548.tif.large.jpg" n="4v"/>
-					<lb n="01"/>in <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> mehrmals Feuer, obgleich im erstern Dorfe selbst nicht gefochten
+					<lb n="01"/>in <placeName type="tgb" ref="#lindenau">Lindenau</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> mehrmals Feuer, obgleich im erstern Dorfe selbst nicht gefochten
 					<lb n="02"/>wurde. Niemand war da zu löschen, und da durchaus nicht Ein Stück Zugvieh
-					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><abbr>D.</abbr><expan>D<ex>oktor</ex></expan></hi> <persName type="tgb" ref="#hillig">Hilligs</persName> Guth,
+					<lb n="03"/>mehr da ist, hätte man auch nichts von Bedeutung thun können. <hi rend="latin"><choice><abbr ana="#dr">D<am>.</am></abbr><expan>D<ex>oktor</ex></expan></choice></hi> <persName type="tgb" ref="#hillig">Hilligs</persName> Guth,
 					<lb n="04"/>(Sie kennen ihn ja wohl) deßen Garten an den meinen gränzt, ist danz aus<pc force="weak">-</pc>
 					<lb break="no" n="05"/>gebrannt. Da die Luft still war, hinderten die Gärten die Verbreitung. Mein
-					<lb n="06"/>Haus, soweit es sich nicht stehlen und zum Feuermachen losbrechen läßt, steht noch.</p>
+					<lb n="06"/>Haus, soweit es sich nicht stehlen und zum Feuermachen losbrechen läßt, steht noch.
+				</p>
 			</div>
 			<div n="5" xml:id="div.5">
 				<dateline n="07">Abends.</dateline>
@@ -402,14 +435,14 @@
 					<lb break="no" n="18"/>kugeln hereingeworfen, die auch alle mehr oder weniger Schaden angerichtet
 					<lb n="19"/>haben. Indeß haben alle Bürger, bei angedroherer härtester Strafe, ab<pc force="weak">-</pc>
 					<lb break="no" n="20"/>liefern, müßen, was eine Armee brauchen kann und sie nur für den Au<pc force="weak">-</pc>
-					<lb break="no" n="21"/>genblick zu entbehren vermögen; selbst Betten, Geräthe, Mundvorrath, Schippen <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>
+					<lb break="no" n="21"/>genblick zu entbehren vermögen; selbst Betten, Geräthe, Mundvorrath, Schippen <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>
 					<lb n="22"/>Alles, was dazu fähig ist, muß hinaus, zum Schanzen. Die Thore und Straßen
 					<lb n="23"/>der Vorstädte, selbst die einzelnen Häuser der letztern, werden befestigt und
 					<lb n="24"/>vom Militär allein besetzt. Sie sollen bis zum letzen Mann vertheidigt
-					<lb n="25"/>werden. Die <rs type="tgb" ref="#AU">Oesterreicher</rs> halten ihre Position bei <placeName type="tgb" ref="#libertwolkwitz">Wolkwitz</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> Die combinirte
+					<lb n="25"/>werden. Die <rs type="tgb" ref="#AU">Oesterreicher</rs> halten ihre Position bei <placeName type="tgb" ref="#libertwolkwitz">Wolkwitz</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> Die combinirte
 					<lb n="26"/>Armee zum <placeName type="tgb" ref="#leipzig.ranstaedter-thor">ranstädter Thore</placeName> hinaus hat eine neue Stellung in derselben
 					<lb n="27"/>Gegend, eine gestern, nur einige Stunden entfernter genommen. Indeßen
-					<lb n="28"/>war (<time>gegen 11 Uhr</time>) ein großes französisches Corps den <rs type="tgb" ref="#RU">Rußen</rs> nach, gegen
+					<lb n="28"/>war (<time when="1100">gegen 11 Uhr</time>) ein großes französisches Corps den <rs type="tgb" ref="#RU">Rußen</rs> nach, gegen
 					<lb n="29"/><placeName type="tgb" ref="#grimma">Grimma</placeName> hin, gezogen. Man hörte unaufhörlich, doch ziemlich entfernt,
 					<lb n="30"/>das Geschütz. Jetzt, Abends spät, k<del rend="overwritten">o</del>am<del>m</del>en meine Commißäre daher
 					<lb n="31"/>zurück und sagten, sie haben dort einen großen und harten Kampf gehabt,
@@ -417,7 +450,7 @@
 					<lb n="01"/>aber gesiegt. Haufenweise habe sie weit und breit Todte und Verwundete liegen
 					<lb n="02"/>gesehen. <metamark>—</metamark> Unser <rs type="tgb" ref="#friedrich-august">König</rs> hat vom <rs type="tgb" ref="#karl-johann">König von Schweden</rs> einen Parlementär
 					<lb n="03"/>erhalten, und soll seitdem beschloßen haben, <placeName type="tgb" ref="#leipzig">Leipzig</placeName> schlechterdings nicht zu ver<pc force="weak">-</pc>
-					<lb break="no" n="04"/>laßen. <persName type="tgb" ref="#napoleon">Napoleon</persName> soll diesen Vormittag von <persName type="tgb" ref="#alexander">Alexander</persName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> einen freien Abzug
+					<lb break="no" n="04"/>laßen. <persName type="tgb" ref="#napoleon">Napoleon</persName> soll diesen Vormittag von <persName type="tgb" ref="#alexander">Alexander</persName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> einen freien Abzug
 					<lb n="05"/>seines Heeres verlangt haben, und dieser ihm auch zu gestanden worden seÿn,
 					<lb n="06"/>wenn er ihn bis <placeName type="tgb" ref="#erfurt">Erfurt</placeName> nähme, und zugleich <placeName type="tgb" ref="#wittenberg">Wittenberg</placeName> und <placeName type="tgb" ref="#torgau">Torgau</placeName> räumte.
 					<lb n="07"/>Das Letzte habe er nicht gemacht, und so sei die Unterhandlung abgebrochen wor<pc force="weak">-</pc>
@@ -427,17 +460,17 @@
 			<div n="6" xml:id="div.6">
 				<dateline n="09">Den 18<hi rend="sup uu">ten</hi>, Vormittags 11 Uhr.</dateline>
 				<p xml:id="p.6.1" xml:space="preserve">
-					<lb n="10"/>Die ganze Nacht hindurch gingen Wagen <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Regimenter an unseren Fenstern
+					<lb n="10"/>Die ganze Nacht hindurch gingen Wagen <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Regimenter an unseren Fenstern
 					<lb n="11"/>in der <placeName type="tgb" ref="#leipzig.catharinenstr">Allee</placeName> vom <placeName type="tgb" ref="#leipzig.ranstaedter-thor">ranstädter</placeName> zum <placeName type="tgb" ref="#leipzig.petersthor">Petersthore</placeName> hin und dort hinaus. Ich habe
 					<lb n="12"/>nicht geschlafen. Mit Tagesanbruch hörte man die Kanonade, welche jene
 					<lb n="13"/>Züge zu hindern schien; dann kam sie vom <placeName type="tgb" ref="#leipzig.hallesches-thor">halleschen Thore</placeName>, und näher, wurde
 					<lb n="14"/>stärker, und endlich fürchterlich stark. Jetzt begann sie in gleicher Weise
-					<lb n="15"/>nach allen vier Thoren hinaus. <persName type="tgb" ref="#ney">Neÿ</persName> <abbr>u.</abbr><expan>u<ex>nd</ex></expan> <persName type="tgb" ref="#marmont">Marmont</persName> sind <add place="above">vor</add>gestern, selbst nach
+					<lb n="15"/>nach allen vier Thoren hinaus. <persName type="tgb" ref="#ney">Neÿ</persName> <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> <persName type="tgb" ref="#marmont">Marmont</persName> sind <add place="above">vor</add>gestern, selbst nach
 					<lb n="16"/>Aussage der <rs type="tgb" ref="#FR">Franzosen</rs>, von <rs type="tgb" ref="#PR">Preußen</rs> und <rs type="tgb" ref="#SW">Schweden</rs>, auf der Straße von
 					<lb n="17"/>Düben her, geschlagen. <persName type="tgb" ref="#napoleon">Napoleon</persName> hat die gestrige Schlacht selbst geliefert,
 					<lb n="18"/>um die Höhen gegen und bei <placeName type="tgb" ref="#grimma">Grimma</placeName> zu gewinnen. Das ist ihm vollkommen
 					<lb n="19"/>gelungen. Er hat nun die Wahl – so weit noch, in solcher Umgebung von
-					<lb n="20"/><emph rend="u">allen</emph> Seiten eine Wahl statt hat – entweder sich, gegen <placeName type="tgb" ref="#luetzen">Lützen</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> hin, durch<pc force="weak">-</pc>
+					<lb n="20"/><emph rend="u">allen</emph> Seiten eine Wahl statt hat – entweder sich, gegen <placeName type="tgb" ref="#luetzen">Lützen</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> hin, durch<pc force="weak">-</pc>
 					<lb break="no" n="21"/>zuschlagen, – was ihm gewiß gelingen wird, da er den Kern seiner gan<pc force="weak">-</pc>
 					<lb break="no" n="22"/>zen Armeen an sich gezogen hat; – oder dort abzuwarten, bis die um <placeName type="tgb" ref="#leipzig">Leipzig</placeName>
 					<lb n="23"/>versammelten Heere ihre Hauptmacht vereinigen und ihn angreifen, wo er
@@ -456,20 +489,20 @@
 					<lb n="03"/>winzige auf die Straße heraus, die nur noch gebließen ist. Von Schlaflo<pc force="weak">-</pc>
 					<lb break="no" n="04"/>sichkeit, körperlicher Anstrengung und innerer Bewegung fühle ich mich, wie
 					<lb n="05"/>an allen Gliedern gelähmt. <metamark>—</metamark> Es schlägt <time>12 Uhr</time>. Gott, welch ein Krachen der
-					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! – Der <rs type="tgb" ref="#friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
+					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! <metamark>—</metamark> Der <rs type="tgb" ref="#friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
 					<lb break="no" n="07"/>tet. Vor den Thoren haben sich überall mit Eins die Passagen der Züge ge<pc force="weak">-</pc>
-					<lb break="no" n="08"/>sperrt: mit Brüllen <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Toben sammelt sich alles auf den Straßen, in der
-					<lb n="09"/>Allee <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> Das Feuer des kleinen Gewehrs vor den äußern Thoren beginnt
+					<lb break="no" n="08"/>sperrt: mit Brüllen <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Toben sammelt sich alles auf den Straßen, in der
+					<lb n="09"/>Allee <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> Das Feuer des kleinen Gewehrs vor den äußern Thoren beginnt
 					<lb n="10"/>mächtig. Es ist — —
 				</p>
 			</div>
 			<div n="7" xml:id="div.7">
-				<dateline n="11">Nachmittags 5 Uhr.</dateline>
+				<dateline n="11"><time when="1700">Nachmittags 5 Uhr</time>.</dateline>
 				<p xml:id="p.7.1" xml:space="preserve">
 					<lb n="12"/>Welche eine Unterbrechung! Vom <placeName type="tgb" ref="#leipzig.hallesches-thor">halleschen Thor</placeName> her warf man, man sagt,
 					<lb n="13"/>nur acht – Bomben in die Stadt, und gleich eine der ersten fiel in <rs type="tgb" ref="#leipzig.klostergasse.162">das Haus,
 					<lb n="14"/>wo ich wohne</rs>, schlug durch, zersprang in der Küche, eine Treppe über mir, bei
-					<lb n="15"/><persName type="tgb" ref="#riquet">Riquets</persName>, zerschmetterte Heerd <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> verwundete die Dienstboten und verbreitete
+					<lb n="15"/><persName type="tgb" ref="#riquet">Riquets</persName>, zerschmetterte Heerd <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> verwundete die Dienstboten und verbreitete
 					<lb n="16"/>Dampf und Pulvergeruch augenblicklich durch das ganze Haus. Die eigne Art
 					<lb n="17"/>dieses Krachens, die Besorgnis in den ersten Momenten, daß die Bombe weiter
 					<lb n="18"/>im Verborgenen gezündet habe; die länger dauernde, daß ihr mehrere folgen
@@ -479,7 +512,7 @@
 					<lb n="22"/>allein, ohne alle Furcht, bewog dann alle die Meinen, selbst die Dienstboten, in
 					<lb n="23"/>die Gewölbe <hi rend="latin">par terre</hi> zu gehen, und blieb ganz allein in der Wohnung, das
 					<lb n="24"/>Weitere erwartend und ruhig überlegend, was bei fortgesetztem Sturm, bei
-					<lb n="25"/>Feuer, bei Plündern <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> zunächst zu thun seÿn möchte. In den nächsten Stunden
+					<lb n="25"/>Feuer, bei Plündern <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> zunächst zu thun seÿn möchte. In den nächsten Stunden
 					<lb n="26"/>fielen in meiner Nachbarschaft noch zwei Grenaden und eine Bombe nieder,
 					<lb n="27"/>zündeten aber sämtlich nicht. Soviel ich bis jetzt erfahren habe, haben über<pc force="weak">-</pc>
 					<lb break="no" n="28"/>haupt nur einige gezündet, nicht in meiner Nahe, und so, daß gleich wieder
@@ -559,16 +592,14 @@
 					<lb n="27"/>Geld ist kein Beistand zu haben; und da ich nun keinen männlichen Bedien<pc force="weak">-</pc>
 					<lb break="no" n="28"/>ten habe, und die Jungmagd schwächlich ist: so werde ich derb angreifen müs<pc force="weak">-</pc>
 					<lb break="no" n="29"/>sen, um wenigstens Einiges so zu ordnen, daß es bei Feuer leichter gerettet wer<pc force="weak">-</pc>
-					<lb break="no" n="30"/>den kö<g ana="#lig-nn">nn</g>e. Nun, ich habe ja einmal wieder gut geschlafen, <abbr>u.</abbr><expan>u<ex>nd</ex></expan> so wirds schon gehen! —
+					<lb break="no" n="30"/>den kö<g ana="#lig-nn">nn</g>e. Nun, ich habe ja einmal wieder gut geschlafen, <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> so wirds schon gehen! —
 				</p>
 			</div>
 			<div n="10" xml:id="div.10">
-				<pb
-					facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000553.tif.large.jpg"
-					n="7r"/>
+				<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000553.tif.large.jpg" n="7r"/>
 				<dateline n="01">Abends 7 Uhr.</dateline>
 				<p xml:id="p.10.1" xml:space="preserve">
-					<lb n="02"/>Dieser Tag – <abbr>u.</abbr><expan>u<ex>nd</ex></expan> diesen Tag beschreibe, wer es kann! Wo sollte selbst der, wel<pc force="weak">-</pc>
+					<lb n="02"/>Dieser Tag – <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> diesen Tag beschreibe, wer es kann! Wo sollte selbst der, wel<pc force="weak">-</pc>
 					<lb break="no" n="03"/>cher nur, was er selbst gesehen und erfahren, schildern wollte, anfangen? wo
 					<lb n="04"/>enden? Indeß <del rend="overwritten">e</del>Einiges, was sich mir eben jetzt, wo ich in meinem gewohnten
 					<lb n="05"/>Stübchen Gott gedankt, daß<del><unclear extent="2" unit="chars"/></del> mich diesen furchtbargroßen Tag hat überleben las<pc force="weak">-</pc>
@@ -595,7 +626,7 @@
 					<lb n="24"/>will man ihn noch in der Stadt gesehen haben; nach 10 Uhr habʼ ich ihn selbst gesehen.) Er machte
 					<lb n="25"/>mit <persName type="tgb" ref="#murat">Mürat</persName> dem <rs type="tgb" ref="#friedrich-august">König</rs> einen kleinen Besuch. <metamark>—</metamark> Ungeheuer war nun, als Napoleon
 					<lb n="26"/>nicht mehr gesehen wurde, der Tumult des französischen Fuhrwesens in den Straßen,
-					<lb n="27"/>auf den Promenaden <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> Alles wollte, und nichts konnte fort. Jetzt schien ein Posten
+					<lb n="27"/>auf den Promenaden <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> Alles wollte, und nichts konnte fort. Jetzt schien ein Posten
 					<lb n="28"/>sich durchgehauen zu haben; alles eilte vor und nach: er ward zurückgeworfen, und
 					<lb n="29"/>alles stockte und drängte, ja über den, der fiel, gingen sogleich die Pferde hin. Ich
 					<lb n="30"/>selbst habe vor meinen Fenstern gesehen, wie Franzosen mit Franzosen hieben,
@@ -616,7 +647,7 @@
 					<lb n="12"/>laßen, sondern mit ungeheuerer Eile und Anstrengung gegen alle Corps im
 					<lb n="13"/>Einzelnen gefochten, so daß die Vereinigung nicht statt haben, und der <rs type="tgb" ref="#napoleon">Kaiser</rs> das
 					<lb n="14"/>kühne, trotzige Project aufgeben mußte. Zu der kurzen Unterredung mit unserem
-					<lb n="15"/>Könige hat er, offenbar abfällig, laut genug erklärt: wenn man ihm anmuthe,
+					<lb n="15"/><rs type="tgb" ref="#friedrich-august">Könige</rs> hat er, offenbar abfällig, laut genug erklärt: wenn man ihm anmuthe,
 					<lb n="16"/>gegen die Ehre zu handeln, so werde er schlagen, und wenn er nur nach hundert <term type="tgb" ref="#reuter">Reu<pc force="weak">-</pc>
 					<lb break="no" n="17"/>ter</term> hätte. Dieß erzählten wenigstens, die es wißen konnten.
 				</p>
@@ -656,7 +687,7 @@
 					<lb n="13"/>So wie die ersten <rs type="tgb" ref="#PR">Preußen</rs> wirklich vor meiner Wohnung gesehen worden wa<pc force="weak">-</pc>
 					<lb break="no" n="14"/>ren, eilte ich hinaus, und ehe ich <add place="above">noch</add> zum Fenster kam, hörte ich den tausendmal ver<pc force="weak">-</pc>
 					<lb break="no" n="15"/>nommenen Marsch der Jagdhörner des preußischen freiwilligen Corps, wor<pc force="weak">-</pc>
-					<lb break="no" n="16"/>unter <persName type="tgb" ref="#koerner">Körner</persName>, <persName type="tgb" ref="#goeschen">Göschen</persName>,  <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> waren. Wie seltsam spielen unsere Sinne mit
+					<lb break="no" n="16"/>unter <persName type="tgb" ref="#koerner">Körner</persName>, <persName type="tgb" ref="#goeschen">Göschen</persName>,  <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> waren. Wie seltsam spielen unsere Sinne mit
 					<lb n="17"/>uns, auch in Momenten hoher Ernstes und geistiger Spannung! Ich wußte ja,
 					<lb n="18"/>was ich schon würde; ich sahʼ es ja noch nicht einmal: und diese wohlbekannten
 					<lb n="19"/>Töne, die es mir verkündigten – nein, kein Wort bezeichnet den Eindruck, den
@@ -669,22 +700,22 @@
 					<lb break="no" n="26"/>gend, für unsere Personen nämlich, vielleicht am wenigsten, vorüber: dann wiewohl
 					<lb n="27"/>nun alles, alles zu fliehen schien, wiewohl ganze Trupps, und zahlreiche, die Geweh<pc force="weak">-</pc>
 					<lb break="no" n="28"/>re wegwarfen und Pardon heulten, wie wohl von dem gehemmten Fuhrwesen
-					<lb n="29"/>vor meinen Fenster und den gestohlnen Heerden alles preisgegeben ward <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>
-					<lb n="30"/>So hatten sich doch in Häusern, in den Zwingern, in die Gärten, anlagen <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> selbst in unser
+					<lb n="29"/>vor meinen Fenster und den gestohlnen Heerden alles preisgegeben ward <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>
+					<lb n="30"/>So hatten sich doch in Häusern, in den Zwingern, in die Gärten, anlagen <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> selbst in unser
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000556.tif.large.jpg" n="8v"/>
 					<lb n="01"/>winziges Gärtchen am Hause und in deßen kleines Lusthaus, <rs type="tgb" ref="#FR">Franzosen</rs> verstecke, und feuer<pc force="weak">-</pc>
 					<lb break="no" n="02"/>ten keck und mit größter Todesverachtung, wo sie glaubten, etwas erreichen zu können.
-					<lb n="03"/>Ja selbst in dieser Stunde <term type="tgb" ref="#plaenkern">plänkern</term> von den Gärten, Wiesen <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> immerfort einzelne
+					<lb n="03"/>Ja selbst in dieser Stunde <term type="tgb" ref="#plaenkern">plänkern</term> von den Gärten, Wiesen <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> immerfort einzelne
 					<lb n="04"/>Schüsse, und es ist doch rabenfinstere Nacht, und solch ein Kerl siehet seinen Tod vor Augen,
 					<lb n="05"/>dem er entkommen könnte, ohne nun ein Schuft zu heißen! —
 				</p>
 				<p xml:id="p.10.5" xml:space="preserve">
 					<lb n="06"/>Gleich nachdem die Preußen das Pflaster der Stadt betreten hatten, drangen durch alle
 					<lb n="07"/>Thore <del>zugleich</del> und Pforten auch Oesterreicher, Rußen, Schweden herein. Das Corps Baad<pc force="weak">-</pc>
-					<lb break="no" n="08"/>ner streckte auh dem Markte das Gewehr: Bernadotte gab <del>es <unclear extent="1" unit="word"/></del> so gleich zurück
+					<lb break="no" n="08"/>ner streckte auh dem Markte das Gewehr: Bernadotte<!--?--> gab <del>es <unclear extent="1" unit="word"/></del> so gleich zurück
 					<lb n="09"/>und sie schloßen sich augenblicks an die Corps an, die die abziehenden Franzosen verfol<pc force="weak">-</pc>
 					<lb break="no" n="10"/>gen mußten. Das letzte thaten die Sachsen ebenfalls, und, wie wenigstens Jederma<g ana="#lig-nn">nn</g>
-					<lb n="11"/>behauptet und es auch höchstswahrscheinlich ist, ohne Wissen und Wollen des Königs. Das
+					<lb n="11"/>behauptet und es auch höchstswahrscheinlich ist, ohne Wissen und Wollen des <rs type="tgb" ref="#friedrich-august">Königs</rs>. Das
 					<lb n="12"/>Stadtvolk nahm sich gut: es war froh, aber nicht vorlaut, noch viel weniger in irgend
 					<lb n="13"/>einer Weise <term type="tgb" ref="#excediren">excedirend</term>. Aber Unbekannte drückten einander die Hand, flüsterten
 					<lb n="14"/>einander Trostes-, Freudenworte zu; man reichte Lebensmittel, wo man auch etwas hatte;
@@ -711,7 +742,7 @@
 						<l n="32">Ein süßer Trost ist ihm geblieben:</l>
 						<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000557.tif.large.jpg" n="9r"/>
 						<l n="01">Er zählt die Häupter seiner Lieben,</l>
-						<l n="02a">Und sieh, es fehlt kein theures Haupt. — — </l>
+						<l n="02a">Und sieh, es fehlt kein theures Haupt. — —</l>
 					</lg>
 					<lb n="02b"/>Und so: <emph rend="u">Gelobt</emph>
 					<lb n="03"/><emph rend="u">sei</emph> <emph rend="u">Gott</emph>! — Damit gute Nacht, Freund! —
@@ -750,17 +781,17 @@
 					<lb n="01"/>Einer der Ersten, die geweckt wurden, (die Wohnung des Baumeisters <persName type="tgb" ref="#vollsack">Vollsack</persName> ist nur
 					<lb n="02"/>durch eine leichte Wand von meinem Schlafzimmer getrennt,) und auf der Straße,
 					<lb n="03"/>als dort noch kaum etwas verlautete. Man durche nemlich nicht stürmen. Ich wand
-					<lb n="04"/>mich zwischen den Pferden hindurch, rief an <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> und kam so übel und böse bis
+					<lb n="04"/>mich zwischen den Pferden hindurch, rief an <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> und kam so übel und böse bis
 					<lb n="05"/>durchs innere Thor. Durt brannten Wachfeuer der Bivouaquirenden, und
 					<lb n="06"/>ich sahe den Greuel der Zerstörung ziemlich, (es war <time>fünf, eben 4 Uhr</time>) um zwischen
 					<lb n="07"/>hin zu klettern: als sich aber die Straße verengte, ließ sich nicht mehr anders schreiten,
 					<lb n="08"/>als über Leichname von Menschen und Pferden, zerbrochne Wagen, Pulver<del>wagen</del><add place="above">karren,</add>
-					<lb n="09"/>kanonen <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> Der <rs type="tgb" ref="#ein-russischer-platzcommandant">rußische Platzcommandant</rs> kam zu Pferde mit einem kleinen
+					<lb n="09"/>kanonen <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> Der <rs type="tgb" ref="#ein-russischer-platzcommandant">rußische Platzcommandant</rs> kam zu Pferde mit einem kleinen
 					<lb n="10"/>Trupp. „Licht und Raum.“ rief ich ihm zu; „und die Sturmglocke, bei welcher Je<pc force="weak">-</pc>
 					<lb break="no" n="11"/>dermann weiß, was er zu thun hat!“ – „Glauben Sie denn, antwortete er,
 					<lb n="12"/>daß ichʼs aus Schonung verboten habe? Unser <rs type="tgb" ref="#napoleon">Kaiser</rs> wäre der Erste dabei!
 					<lb n="13"/>Aber das ganze Heer stürzte dann herbei, und so stopfte sich der Weg, daß gar nichts
-					<lb n="14"/>gethan würde!“ – Indeßen hatten unsre braven Stadthauptleute <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>, klüger,
+					<lb n="14"/>gethan würde!“ – Indeßen hatten unsre braven Stadthauptleute <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>, klüger,
 					<lb n="15"/>als ich, einen Weg von außen durch die Gärten gefunden und eiige Spritzen
 					<lb n="16"/>herbeigeführt. (Die Brücken sind von den <rs type="tgb" ref="#FR">Franzosen</rs> zertrümmert.) Und als ich
 					<lb n="17"/>weiter vordringen wollte, sahe ich, wie wahr der <rs type="tgb" ref="#ein-russischer-platzcommandant">Platzcommandant</rs> gesprochen
@@ -768,7 +799,7 @@
 					<lb n="19"/>ganze Passage, und standen nun da und fluchten. Ihr herzlich guter Wille, ihr
 					<lb n="20"/>handfester, aber höchst ungeschickter Eifer, gab die komischsten Situationen,
 					<lb n="21"/>wenn man sie nur vor Mitleid und Sorge hätte genießen können. Mehrere
-					<lb n="22"/>faßten mich u<del rend="modified">n</del>m<del>ter</del> den Arm, (das Küßen haben sie sich abgewöhnt,) und schreien
+					<lb n="22"/>faßten mich <mod><del>un</del><add>um</add></mod><del>ter</del> den Arm, (das Küßen haben sie sich abgewöhnt,) und schreien
 					<lb n="23"/>in mich hine<unclear>i</unclear>n: „siehʼs Franzos? Schelm Franzos! aber caput Franzos! Huhuhu!“
 					<lb n="24"/>Und die nicht so gelahrt waren, wußten wenigstens zu sagen: „Bruder! – <del>ahf</del> ääf,
 					<lb n="25"/>Brüder!“ <metamark>—</metamark> Ich ging nach Hause, die Meinigen zu beruhigen, und nach <time>5 Uhr</time>
@@ -782,7 +813,7 @@
 					<lb n="02"/>einzelne Schüsse fallen. <metamark>—</metamark> Übrigens ist es wohl nichts geradehin Haß zu nennen,
 					<lb n="03"/>wenn man jenes Unglück den <rs type="tgb" ref="#FR">Franzosen</rs> zuschreibt: man hat wirklich und
 					<lb n="04"/>gleich nach ihrem Abzug in mehrern Häusern Brennmaterialien und entzün<pc force="weak">-</pc>
-					<lb break="no" n="05"/>dete Lunten, in Ställen, auf Böden <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> und von mehrern Spritzen waren Röhren
+					<lb break="no" n="05"/>dete Lunten, in Ställen, auf Böden <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> und von mehrern Spritzen waren Röhren
 					<lb n="06"/>und anderes <term type="tgb" ref="#eisenreck">Eisenreck</term> losgebrochen und gestohlen – was man erst entdeckte, als
 					<lb n="07"/>man die heraus geschleppt hatte. Mag letzteres nun Tücke oder nur Raubsucht
 					<lb n="08"/>gethan haben: es bleibt doch Schändlichkeit. —
@@ -793,10 +824,10 @@
 				<p n="1" xml:space="preserve">
 					<lb n="10"/>Das Innere der Stadt ist so weit in Ordnung, als es bei solcher Menge und Enge
 					<lb n="11"/>möglich seÿn mag: dennoch geht man nur mit viel Gefahr. Jenes Feuer, so
-					<lb n="12"/>wie das in der Eule[?] <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> ist wieder. Noch immerfort fallen Musketenschüsse von
-					<lb n="13"/>versteckten <rs type="tgb" ref="#FR">Franzosen</rs>. Die Kaiser und Könige (den unsern ausgenommen, der
+					<lb n="12"/>wie das in der Eule[?] <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> ist wieder. Noch immerfort fallen Musketenschüsse von
+					<lb n="13"/>versteckten <rs type="tgb" ref="#FR">Franzosen</rs>. Die Kaiser und Könige (den <rs type="tgb" ref="#friedrich-august">unsern</rs> ausgenommen, der
 					<lb n="14"/>ganz still im Schloße ist,) gehen mit wenig Begleitung zu Fuß umher, um
-					<lb n="15"/>aufzumuntern <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> <persName type="tgb" ref="#alexander">Alexander</persName> sahe ich auf dem Markte unter den ihn anbeten<pc force="weak">-</pc>
+					<lb n="15"/>aufzumuntern <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> <persName type="tgb" ref="#alexander">Alexander</persName> sahe ich auf dem Markte unter den ihn anbeten<pc force="weak">-</pc>
 					<lb break="no" n="16"/>den Soldaten: man kann mit wohlwollender Humanität nicht mehr Würde
 					<lb n="17"/>sich verbunden denken, und kein liebenswürdigeres Benehmen sehen. Er ist, seit ich
 					<lb n="18"/>ihn ehemals gesehen, beträchtlich stärker und <emph rend="u">viel</emph> ernster geworden. <metamark>—</metamark> Die Hun<pc force="weak">-</pc>
@@ -814,10 +845,10 @@
 					<lb n="30"/>hinauszukommen war, durch die <geogName type="tgb" ref="#elster">Elster</geogName> bei <placeName type="tgb" ref="#leipzig.richters-garten">Richters Garten</placeName> über die Wiesen.
 					<lb n="31"/>Ein Gleiches vermuthete man mit <persName type="tgb" ref="#reynier">Reguier</persName>. Doch was vermuthet man nicht! <metamark>—</metamark>
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000560.tif.large.jpg" n="10v"/>
-					<lb n="01"/>Das weiß ich aber von Augenzeugen: <persName type="tgb" ref="#napoleon">Napoleon</persName>, der <rs type="tgb" ref="#murat">König von Neapel</rs> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> mit ihren
+					<lb n="01"/>Das weiß ich aber von Augenzeugen: <persName type="tgb" ref="#napoleon">Napoleon</persName>, der <rs type="tgb" ref="#murat">König von Neapel</rs> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> mit ihren
 					<lb n="02"/>Garden zu Pferde, sind zum Flößthore (der rechten Seite des <placeName type="tgb" ref="#leipzig.petersthor">Petersthores</placeName>) hinaus,
-					<lb n="03"/>über Wiesen <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> nach <placeName type="tgb" ref="#lindenau">Lindenau</placeName> gekommen, haben dort in der Mühle gegeßen,
-					<lb n="04"/><abbr>u.</abbr><expan>u<ex>nd</ex></expan> zwar zwischen 12 <abbr>u.</abbr><expan>u<ex>nd</ex></expan> 1 Uhr, (begreife das, werʼs kann,) und in deßen ist zum
+					<lb n="03"/>über Wiesen <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> nach <placeName type="tgb" ref="#lindenau">Lindenau</placeName> gekommen, haben dort in der Mühle gegeßen,
+					<lb n="04"/><choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> zwar zwischen 12 <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> 1 Uhr, (begreife das, werʼs kann,) und in deßen ist zum
 					<lb n="05"/>nochmaligen Plündern des Dorfs förmlich getrommelt worden. Man hat aber
 					<lb n="06"/>fast nichts mehr gefunden. Die <rs type="tgb" ref="#CO">Alliirten</rs> haben durchaus nicht gewußt, daß
 					<lb n="07"/><persName type="tgb" ref="#napoleon">Napoleon</persName> jenen Vormittag noch in <abbr>L<ex>indenau</ex><am>.</am></abbr> seÿ, sind vielmehr durch Nachrichten, die
@@ -826,18 +857,18 @@
 					<lb break="no" n="10"/>tentheils ganz zu Grunde gerichtet worden, und <emph rend="u">ihn</emph> zu fangen, in einer nach
 					<lb n="11"/>allen Seiten offenen Stadt: das konnte man nur im Moment des entbrannten
 					<lb n="12"/>Glücksrausches hoffen! Man glaubt, er schlage sich gegen den <geogName type="tgb" ref="#harz">Harz</geogName>, um sich mit
-					<lb n="13"/><persName type="tgb" ref="#davoust">Eckmühl</persName> zu vereinigen, der zwischen 40 <abbr>u.</abbr><expan>u<ex>nd</ex></expan> 60000 Mann haben soll – aber we<pc force="weak">-</pc>
-					<lb break="no" n="14"/>nig <rs type="tgb" ref="#FR">Franzosen</rs>, sondern Holländer, Westphalen, Hansestädter <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> Der <rs type="tgb" ref="#karl-johann">König
+					<lb n="13"/><persName type="tgb" ref="#davoust">Eckmühl</persName> zu vereinigen, der zwischen 40 <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> 60000 Mann haben soll – aber we<pc force="weak">-</pc>
+					<lb break="no" n="14"/>nig <rs type="tgb" ref="#FR">Franzosen</rs>, sondern Holländer, Westphalen, Hansestädter <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> Der <rs type="tgb" ref="#karl-johann">König
 					<lb n="15"/>von Schweden</rs> verdolt ihn. <metamark>—</metamark> Die, man möchte nun sagen, <emph rend="u">ehemaligen</emph> Prome<pc force="weak">-</pc>
 					<lb break="no" n="16"/>naden um die innere Stadt sehen noch immer ganz, wie ein Schlachtfeld aus: Denn
 					<lb n="17"/>noch hat man zu nichts kommen können, das die Eingänge zu den Thoren frei
 					<lb n="18"/>zu machen. Selbst denen, die dort, schwer verwundet, liegen, (und ihrer sind
 					<lb n="19"/>viele) kann Niemand helfen: sie müßen verschmachten. <metamark>—</metamark> Gegen <time>Mittag</time>
 					<lb n="20"/>war mir eine neue, ganz unvermuthere Gefahr nahe genug. In der <placeName type="tgb" ref="#leipzig.thomaskirche">Thomas<pc force="weak">-</pc>
-					<lb break="no" n="21"/>kirche</placeName> hatten die <rs type="tgb" ref="#FR">Franzosen</rs> eine Menge Patronen <abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan> in einer großen Ka<pc force="weak">-</pc>
+					<lb break="no" n="21"/>kirche</placeName> hatten die <rs type="tgb" ref="#FR">Franzosen</rs> eine Menge Patronen <choice><abbr ana="#udgl">u dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></choice> in einer großen Ka<pc force="weak">-</pc>
 					<lb break="no" n="22"/>pelle verborgen, und Niemand wußte es, da sie längst allein die Schlüssel führten,
 					<lb n="23"/>weil die Kirche ein Lazareth ist. Gott weiß, wodurch – entzündete sich das
-					<lb n="24"/>Pulver, und mit Einem Krach flog die Kapelle <abbr>u.</abbr><expan>u<ex>nd</ex></expan> was an sie sties, in die Luft.
+					<lb n="24"/>Pulver, und mit Einem Krach flog die Kapelle <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> was an sie sties, in die Luft.
 					<lb n="25"/>Da aber der Platz frei war, ist weiter kein Unglück erfolgt. Gräßlich war
 					<lb n="26"/>der Anblick, wie die Elenden und Verstümmelten, gleich großen Haufen von
 					<lb n="27"/>Gewürmen, auf allen Vieren heraus krochen, weil sie nicht wußten, was eigentlich
@@ -847,7 +878,7 @@
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000561.tif.large.jpg" n="11r"/>
 					<lb n="01"/><placeName type="tgb" ref="#torgau">Torgau</placeName> sind noch nicht über; von <placeName type="tgb" ref="#dresden">Dresden</placeName> haben wir keine Nachricht. Ach wahr<pc force="weak">-</pc>
 					<lb break="no" n="02"/>scheinlich <del>habt</del><add place="above">seÿd</add> Ihr Freunde einem Schicksal nahe, daß dem unsrigen gleich ist!
-					<lb n="03"/><metamark>—</metamark> Unser König hat sich fest erklärt, bei seiner Verbindung mit <persName type="tgb" ref="#napoleon">Napoleon</persName>
+					<lb n="03"/><metamark>—</metamark> Unser <rs type="tgb" ref="#friedrich-august">König</rs> hat sich fest erklärt, bei seiner Verbindung mit <persName type="tgb" ref="#napoleon">Napoleon</persName>
 					<lb n="04"/>zu verbleiben, aber auch <placeName type="tgb" ref="#leipzig">Leipzig</placeName> nicht ohne Gewalt zu verlaßen, und keinen
 					<lb n="05"/>der Seinen zu hindern, wenn er zur <rs type="tgb" ref="#CO">alliirten Parthei</rs> übergehen wolle. So
 					<lb n="06"/>ist er denn als Kriegsgefangener erklärt und selbst seiner Leibgarde beraubt
@@ -859,7 +890,7 @@
 					<lb break="no" n="12"/>ste Umgebung wenigstens von dem gesäubert werden, was Seuchen erzeugen
 					<lb n="13"/>müßte. <metamark>—</metamark> General <persName type="tgb" ref="#bertrand">Bertrand</persName>, und mehrere sehr geachtete französische
 					<lb n="14"/>Generale und Obersten, haben sich wirklich kriegsgefangen ergeben. Sie
-					<lb n="15"/>werden sehr anständig behandelt. Auch <persName type="tgb" ref="#lauriston">Lauriston</persName> <abbr>u.</abbr><expan>u<ex>nd</ex></expan> <persName type="tgb" ref="#reynier">Raguir</persName> sind gefangen. —
+					<lb n="15"/>werden sehr anständig behandelt. Auch <persName type="tgb" ref="#lauriston">Lauriston</persName> <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> <persName type="tgb" ref="#reynier">Raguir</persName> sind gefangen. —
 				</p>
 			</div>
 			<div n="13" xml:id="div.13">
@@ -876,7 +907,7 @@
 					<lb n="25"/>stehet. In der Stadt äußert sich alles über den Erfolg ganz sicher. Nun, gebʼ
 					<lb n="26"/>es Gott: denn kämen hieher <rs type="tgb" ref="#FR">Franzosen</rs> zurück – wie würde es der Stadt
 					<lb n="27"/>ergehen! <metamark>—</metamark> Jetzt führt man den Marschall <persName type="tgb" ref="#macdonald">Macdonald</persName> ein: er ist gefan<pc force="weak">-</pc>
-					<lb break="no" n="28"/>gen, <abbr>u.</abbr><expan>u<ex>nd</ex></expan>, wie es heißt, (<del>wenn</del><add place="above">de<g ana="#lig-nn">nn</g></add> man sahe eben nichts) verwundet worden in
+					<lb break="no" n="28"/>gen, <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice>, wie es heißt, (<del>wenn</del><add place="above">de<g ana="#lig-nn">nn</g></add> man sahe eben nichts) verwundet worden in
 					<lb n="29"/>dem großen Gefecht, das die Nachsetzenden bei <persName type="tgb" ref="#merseburg">Merseburg</persName> und <persName type="tgb" ref="#weissenfels">Weißenfels</persName>
 					<lb n="30"/>mit ausgezeichnetem Vortheil, g<unclear>e</unclear>liefert haben. Bei <placeName type="tgb" ref="#erfurt">Erfurt</placeName> stehet eine starke
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000562.tif.large.jpg" n="11v"/>
@@ -899,7 +930,7 @@
 					<lb break="no" n="13"/>menter vorüber, jenen nach, die gestern das sehr glückliche Gefecht gehal<pc force="weak">-</pc>
 					<lb break="no" n="14"/>ten haben, das auch eine Schlacht genannt wird, und das besonders viele
 					<lb n="15"/>Gefangene erworben hat. <persName type="tgb" ref="#napoleon">Napoleon</persName> hat sich bei <placeName type="tgb" ref="#dornburg">Dornburg</placeName> über der Saale
-					<lb n="16"/>festgesetzt: <persName type="tgb" ref="#alexander">Alexander</persName>, <persName type="tgb" ref="#schwarzenberg">Schwarzenberg</persName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> haben heute ihe Hauptquartier
+					<lb n="16"/>festgesetzt: <persName type="tgb" ref="#alexander">Alexander</persName>, <persName type="tgb" ref="#schwarzenberg">Schwarzenberg</persName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> haben heute ihe Hauptquartier
 					<lb n="17"/>zu <persName type="tgb" ref="#eisenberg">Eisenberg</persName>. Beide Feldherren denken wohl ihre Heere durch Erinne<pc force="weak">-</pc>
 					<lb break="no" n="18"/>rung an die Schlacht bei <placeName type="tgb" ref="#jena">Jena</placeName> noch besonders anzufeuern. Man erwar<pc force="weak">-</pc>
 					<lb break="no" n="19"/>tet eine wichtige Schlacht, die, ohngeachtet der großen Ueberlegenheit der <rs type="tgb" ref="#CO">Alliir<pc force="weak">-</pc>
@@ -912,7 +943,7 @@
 					<lb n="26"/>Moskau; wen sie aber verwundet fänden, dem rissen sie den Leib auf. Von
 					<lb n="27"/>alle dem waren die versteckt gefundenen <rs type="tgb" ref="#FR">Franzosen</rs> fest überzeugt, und hatten
 					<lb n="28"/>daher lieber verschmachten wollen, nachdem sie sich verschossen, als sich ergeben.
-					<lb n="29"/>Ein Hauptunglück <persName type="tgb" ref="#napoleon">Napoleons</persName> ist Mangel an groben Geschütz <abbr>u.</abbr><expan>u<ex>nd</ex></expan> wenig Munition.
+					<lb n="29"/>Ein Hauptunglück <persName type="tgb" ref="#napoleon">Napoleons</persName> ist Mangel an groben Geschütz <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> wenig Munition.
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000563.tif.large.jpg" n="12r"/>
 					<lb n="01"/>Schon hier in <placeName type="tgb" ref="#leipzig">Leipzig</placeName> sing es sehr an, an letzterer zu gebrechen: man suchte
 					<lb n="02"/>auch nach kleinen Vorräthen angstlich bei den <del>H<unclear extent="1" unit="chars"/></del> Kaufleuten, und mehrere Corps
@@ -926,7 +957,7 @@
 					<lb n="10"/>von allem, was das Ganze angeht, zu schreiben, da jene Berichte es beßer kön<pc force="weak">-</pc>
 					<lb break="no" n="11"/>nen. Aus diesem sind auch einige Punkte meiner frühern Notizen zu berichtigen
 					<lb n="12"/>oder näher zu bestimmen: doch dürfte ich mich selbst billigen, die Hauptsachen, blos
-					<lb n="13"/>durch eignes Auge <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Ohr, noch so ziemlich aufgefaßt und in ihrem Zusammenhang
+					<lb n="13"/>durch eignes Auge <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Ohr, noch so ziemlich aufgefaßt und in ihrem Zusammenhang
 					<lb n="14"/>gestellt zu haben. <persName type="tgb" ref="#schlegel">A. W. Schlegel</persName>, der hier ist, ist durch den Ernst der Zeit herr<pc force="weak">-</pc>
 					<lb break="no" n="15"/>lich umgestaltet und genießt vieler Achtung in seiner wahrhaft wichtigen Wirk<pc force="weak">-</pc>
 					<lb break="no" n="16"/>samkeit auf die Menge. <persName type="tgb" ref="#kotzebue">Kotzebueʼn</persName> hat man, da er seinen kleinlich neckenden,
@@ -936,15 +967,15 @@
 					<lb break="no" n="20"/>de am allerbesten, auf <emph rend="u">Deutsche</emph> wenigstens. <metamark>—</metamark> Als vorhin die Züge das <rs type="tgb" ref="#CO">alliir<pc force="weak">-</pc>
 					<lb break="no" n="21"/>ten Heers</rs> vor meinen Fenstern vorüber gingen, konnte ich auch in einer Art
 					<lb n="22"/>allgemeiner Übersicht ihre Feldmusik beobachten. <emph rend="u">Das ist das Rechte!</emph> und so
-					<lb n="23"/>(im Wesentlichen) machtenʼs und hattenʼs die Alten – Griechen <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Römer
+					<lb n="23"/>(im Wesentlichen) machtenʼs und hattenʼs die Alten – Griechen <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Römer
 					<lb n="24"/>nämlich – nach allem, was ihre Schriftsteller davon sagen, und um, was
 					<lb n="25"/>unsere Musikverständige nur immer herumgerathen haben, weil sie sich von
-					<lb n="26"/>der Art <emph rend="u">unserer</emph> Märsche <abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan> nicht losmachen konnten, und unsere Philo<pc force="weak">-</pc>
+					<lb n="26"/>der Art <emph rend="u">unserer</emph> Märsche <choice><abbr ana="#udgl">u dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></choice> nicht losmachen konnten, und unsere Philo<pc force="weak">-</pc>
 					<lb break="no" n="27"/>logen, weil sie die alten Instrumente, Tonarten, ja meist überhaupt Musik, nicht
 					<lb n="28"/>verstanden. Ich habe gleich die Melodieen aufgezeichnet, und selbst die Rÿthmen
-					<lb n="30"/>der Trommeln <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>, doch ich setze lieber etwas darüber für die musikalische Zei-					
+					<lb n="30"/>der Trommeln <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>, doch ich setze lieber etwas darüber für die musikalische Zei-					
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000564.tif.large.jpg" n="12v"/>
-					<lb n="01"/>tung auf, und breche hier davon ab. — — (<hi rend="latin"><abbr>NB</abbr><expan>N<ex>ota</ex>b<ex>ene</ex></expan></hi> der <rs>russische Graf</rs>, bei der
+					<lb n="01"/>tung auf, und breche hier davon ab. — — (<hi rend="latin"><choice><abbr ana="#nb">NB<am>.</am></abbr><expan>N<ex>ota</ex>b<ex>ene</ex></expan></choice></hi> der <rs>russische Graf</rs>, bei der
 					<lb n="02"/>Frau Baum. <persName>Winkler</persName> einquartiert.)
 				</p>
 			</div>
@@ -957,7 +988,7 @@
 					<lb break="no" n="07"/>wiesen. <metamark>—</metamark> Die Stadt wird allmählig reiner, aber die Vorstädte noch keines<pc force="weak">-</pc>
 					<lb break="no" n="08"/>weges, da weder Wagen- noch Zugpferde vorhanden sind, und der Brodt<pc force="weak">-</pc>
 					<lb break="no" n="09"/>mangel dauert noch fort. <metamark>—</metamark> <persName type="tgb" ref="#napoleon">Napoleon</persName> hat sich, nach den Verlusten bei <placeName type="tgb" ref="#luetzen">Lützen</placeName>,
-					<lb n="10"/><placeName type="tgb" ref="#weissenfels">Weißenfels</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> nicht zu <placeName type="tgb" ref="#dornburg">Dornburg</placeName> festsetzen können, sondern scheint über <placeName type="tgb" ref="#weissenfels">Wei<pc force="weak">-</pc>
+					<lb n="10"/><placeName type="tgb" ref="#weissenfels">Weißenfels</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> nicht zu <placeName type="tgb" ref="#dornburg">Dornburg</placeName> festsetzen können, sondern scheint über <placeName type="tgb" ref="#weissenfels">Wei<pc force="weak">-</pc>
 					<lb break="no" n="11"/>mar</placeName> sich zurückzuziehen. —
 				</p>
 			</div>
@@ -972,13 +1003,13 @@
 					<lb n="18"/>die, nicht als Einquartierte von dem Bürger, sondern von der Gemeinheit ernährt
 					<lb n="19"/>werden sollen, sind jetzt nach den Belegen der <emph rend="u">Behörden</emph> <emph rend="u">selbst</emph>, nahe zu 40000 hier.
 					<lb n="20"/>— Ich und die Meinen aber, was Brodt anlangt, größtentheils von Geschen<pc force="weak">-</pc>
-					<lb break="no" n="21"/>ken: zu kaufen erlangen wir wenigstens nichts. <metamark>—</metamark> (<abbr>NB</abbr><expan>N<ex>ota</ex>b<ex>ene</ex></expan> Die Militär-Exe<pc force="weak">-</pc>
-					<lb break="no" n="22"/>cution im Hause des <abbr><unclear>OhGsRths</unclear></abbr> <persName type="tgb" ref="#siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
-					<lb n="23"/>der Lazarethe <placeName type="tgb" ref="#pfaffendorf">Pfaffendorf</placeName>, <hi rend="latin">Place de repos</hi> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan>, voller Franzosen, durch Franzosen,
-					<lb n="24"/><emph rend="u">auf</emph> <emph rend="u">Befehl</emph>! <metamark>—</metamark> Das Kind des <abbr>D.</abbr><expan>D<ex>oktor</ex></expan> Römisch, dem auf dem Schoose des Vaters
-					<lb n="25"/>eine Grenade das Aermchen wegreißt: „Vater, weine nicht: es wächst mit ein
-					<lb n="26"/>anderes: nicht wahr, Mutter?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <abbr>D.</abbr><expan>D<ex>oktor</ex></expan> Heim<pc force="weak">-</pc>
-					<lb break="no" n="27"/>roth den Verwundeten <abbr>u.</abbr><expan>u<ex>nd</ex></expan> Kranken seines Lazareths eichten konnte: etwa
+					<lb break="no" n="21"/>ken: zu kaufen erlangen wir wenigstens nichts. <metamark>—</metamark> (<choice><abbr ana="#nb">NB<am>.</am></abbr><expan>N<ex>ota</ex>b<ex>ene</ex></expan></choice> Die Militär-Exe<pc force="weak">-</pc>
+					<lb break="no" n="22"/>cution im Hause des <abbr>OHGsRths</abbr> <persName type="tgb" ref="#siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
+					<lb n="23"/>der Lazarethe <placeName type="tgb" ref="#pfaffendorf">Pfaffendorf</placeName>, <hi rend="latin">Place de repos</hi> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice>, voller Franzosen, durch Franzosen,
+					<lb n="24"/><emph rend="u">auf</emph> <emph rend="u">Befehl</emph>! <metamark>—</metamark> Das <rs type="tgb" ref="#roemisch.tochter">Kind</rs> des <choice><abbr ana="#dr">D<am>.</am></abbr><expan>D<ex>oktor</ex></expan></choice> <persName type="tgb" ref="#roemisch">Römisch</persName>, dem auf dem Schoose des Vaters
+					<lb n="25"/>eine Grenade das Aermchen wegreißt: „<rs type="tgb" ref="#roemisch">Vater</rs>, weine nicht: es wächst mir ein
+					<lb n="26"/>anderes: nicht wahr, <rs type="tgb" ref="#roemisch.frau">Mutter</rs>?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <choice><abbr ana="#dr">D<am>.</am></abbr><expan>D<ex>oktor</ex></expan></choice> <persName type="tgb" ref="#heinroth">Hei<choice><sic>m</sic><corr>n</corr></choice><pc force="weak">-</pc>
+					<lb break="no" n="27"/>roth</persName> den Verwundeten <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> Kranken seines Lazareths reichenen konnte: etwa
 					<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000565.tif.large.jpg" n="13r"/>
 					<lb n="01"/>zwei Bissen Brodt und ein Löffel Wein.)
 				</p>
@@ -987,8 +1018,8 @@
 				<dateline n="02" rend="right">Den 26<hi rend="sup uu">sten</hi></dateline>
 				<p n="1" xml:id="p.17.1" xml:space="preserve">
 					<lb n="03"/>Der erste Gang in das Innere der Stadt, in einige Vorstädte, in den <placeName type="tgb" ref="#leipzig.loehrscher-garten">löhr<pc force="weak">-</pc>
-					<lb break="no" n="04"/>schen Garten</placeName> <abbr>e⁊.</abbr><expan>e<ex>tc</ex></expan> — die <rs type="tgb" ref="#RU">russische</rs> Handhabung der chirurgischen und ähnlichen An<pc force="weak">-</pc>
-					<lb break="no" n="05"/>stalten in Lazarethen <abbr>u. dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan> mit dem stock<!--[?]-->. <metamark>—</metamark> Das feierliche Leichenbegräbnis
+					<lb break="no" n="04"/>schen Garten</placeName> <choice><abbr ana="#etc">e⁊</abbr><expan>e<ex>tc</ex></expan></choice> — die <rs type="tgb" ref="#RU">russische</rs> Handhabung der chirurgischen und ähnlichen An<pc force="weak">-</pc>
+					<lb break="no" n="05"/>stalten in Lazarethen <choice><abbr ana="#udgl">u dgl.</abbr><expan>u<ex>nd</ex> d<ex>er</ex>gl<ex>eichen</ex></expan></choice> mit der Stadt. <metamark>—</metamark> Das feierliche Leichenbegräbnis
 					<lb n="06"/><persName type="tgb" ref="#poniatowski">Poniatowskÿʼs</persName>. <metamark>—</metamark> Die verschiedenen und charakteristischen Geschenke <persName type="tgb" ref="#alexander">Alexanders</persName>
 					<lb n="07"/>und <persName type="tgb" ref="#friedrich-wilhelm">Friedrich Wilhelms</persName> an diejenigen, bei welchen sie gewohnt hatten. <metamark>—</metamark> Allmähliche
 					<lb n="08"/>Rückkehr öffentlicher Ordnung, der nöthigsten Lebensmittel, der bürgerlichen Sicher<pc force="weak">-</pc>
@@ -1008,7 +1039,7 @@
 					<lb n="17"/>betrübt! Ja, recht eigentliche <emph rend="u">Betrübnis</emph> erinnere ich mich kaum Einmal in mei<pc force="weak">-</pc>
 					<lb break="no" n="18"/>nem ganzen Leben so empfunden zu haben. Alle Darstellung des Bildes, was
 					<lb n="19"/>sich mir bot, vermeide ich: mir wird es ewig – leider – in der Seele blei<pc force="weak">-</pc>
-					<lb break="no" n="20"/>ben, dieß Bild, nicht etwa nur des Raubes <abbr>u.</abbr><expan>u<ex>nd</ex></expan> der Mordbrennerei, sondern
+					<lb break="no" n="20"/>ben, dieß Bild, nicht etwa nur des Raubes <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> der Mordbrennerei, sondern
 					<lb n="21"/>des Höhnenden dabei, des geflißentlichen, ganz zweck- und nutzlichen Verü
 					<lb break="no" n="22"/>stens und Beschimpfens, der Lust, des Genußes daran; und Andere will ich die
 					<lb n="23"/>Betr<unclear>a</unclear>chtung dieses Bildes ersparen. Zweifelt doch wohl ohnehin Niemand mehr,
@@ -1039,7 +1070,7 @@
 					<lb n="19"/>Aufopferung allenfalls des Besten, was nicht eigen ist, gegen das Elendeste,
 					<lb n="20"/>was es ist, und immer weiter gehende Versuche, Eigennutz und Habsucht zu be<pc force="weak">-</pc>
 					<lb break="no" n="21"/>friedigen. Ach es giebt keine Menschenkenntnis zur Menschenliebe, nur
-					<lb n="22"/>eine zur Menschenverachtung; und blos Eine Tugend, u<mod>nm</mod>d diese, <emph rend="u">bei</emph> Menschen<pc force="weak">-</pc>
+					<lb n="22"/>eine zur Menschenverachtung; und blos Eine Tugend, u<mod><del>n</del><add>m</add></mod><del>d</del> diese, <emph rend="u">bei</emph> Menschen<pc force="weak">-</pc>
 					<lb break="no" n="23"/>kenntnis, nicht überhand nehmen zu laßen: Gerechtigkeit. Darum wohl dem,
 					<lb n="24"/>der durch das Leben selbst nicht gezwungen wird, auch in dieser Hinsicht vom
 					<lb n="25"/>Baume des Erkenntnißes Früchte zu brechen, sondern, als ein erwachsenes
@@ -1050,26 +1081,22 @@
 					<lb break="no" n="01"/>keit; woher der Verachtung, woher der Bitterkeit, da kalte Gleichgültigkeit mei<pc force="weak">-</pc>
 					<lb break="no" n="02"/>ner ganzen Natur nun einmal entgegen ist, und du mir weder Herrschersinn,
 					<lb n="03"/>noch Herrsch<del>er</del>talent verliehen hast! <emph rend="u">Ich</emph> kann nun einmal nur das Ganze im
-					<lb n="04"/>Einzelnen faßen <abbr>u.</abbr><expan>u<ex>nd</ex></expan> behandeln, nicht das Einzelne im Ganzen: so erhalte denn und
+					<lb n="04"/>Einzelnen faßen <choice><abbr ana="#und">u</abbr><expan>u<ex>nd</ex></expan></choice> behandeln, nicht das Einzelne im Ganzen: so erhalte denn und
 					<lb n="05"/>schenke mir, da ich das Einzelne, <del>so</del><add place="above">das</add> wiedrig wirken <emph rend="u">muß</emph>, so vieles sehen und
 					<lb n="06"/>erfahren soll, auch solches, das ich recht von Herzen, und immerdar, achten und
 					<lb n="07"/>lieben kann, das mein Inneres ausführt, es mildert, stärkt belegt, erhöht; sonst
 					<lb n="08"/>nimm lieber noch in dieser Nach den Geist von mir, den ich so eben dir und
-					<lb n="09"/>dem Schlafe anempfehle! – Nicht des Genußes wegen bitte ichʼs, sondern
+					<lb n="09"/>dem Schlafe anempfehle! <metamark>—</metamark> Nicht des Genußes wegen bitte ichʼs, sondern
 					<lb n="10"/>daß ich nicht schlechter werde. —</p>
 				<metamark style="signatureLike" function="end"/>
 			</div>
-			<pb
-				facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000568.tif.large.jpg"
-				n="14v"/>
+			<pb facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000568.tif.large.jpg" n="14v"/>
 			<!--vacat-->
 		</body>
 		<back>
-			<pb n="U3"
-				facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000569.tif.large.jpg"/>
+			<pb n="U3" facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000569.tif.large.jpg"/>
 			<!--vacat-->
-			<pb n="U4"
-				facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000570.tif.large.jpg"/>
+			<pb n="U4" facs="data%2Fkitodo%2FBttNach_512116717_2020%2FBttNach_512116717_2020_tif%2Fjpegs%2F00000570.tif.large.jpg"/>
 			<!--vacat-->
 		</back>
 	</text>

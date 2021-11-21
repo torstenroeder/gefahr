@@ -34,23 +34,39 @@
 						</objectDesc>
 					</physDesc>
 					<history>
-						<origin>Briefkonvolut von <persName ref="#rochlitz">Friedrich
-								Rochlitz</persName>, entstanden nach eigenen Angaben in den Tagen
-							zwischen dem 25. September und 26. Oktober 1813. Die äußere Form sowie
-							ein Schriftvergleich legen nahe, dass es sich um eine Reinschrift von
-							fremder Hand handelt. Der wahrscheinliche Empfänger ist <persName
-								ref="#boettiger">Carl August Böttiger</persName> in
-								<placeName>Dresden</placeName>. Dies entspricht den Hinweisen im
-							Text auf einen dortigen Adressaten.</origin>
-						<provenance>Im Vorbericht der späteren Publikation des Textes (1816) erwähnt
-							Rochlitz, dass das „ungestalte Conglomerat“ bereits von einem größeren
-							Personenkreis rezipiert wurde: „Ohne mein Wissen ward es damals auch
-							Andern […] vorgelegt“. Ein Hinweis auf diese Praxis sowie auf einen der
-							möglichen Leser des Konvoluts findet sich in einem <ref
-								target="http://kalliope-verbund.info/de/ead?ead.id=DE-611-HS-2968637"
-								>Brief von Christian Truchseß von Wetzhausen </ref>, der Rochlitz
-							berichtet, „dass er dessen letzten Brief von vielen Menschen habe
-							vorlesen lassen.“</provenance>
+						<summary>
+							<p>Brieftagebuch von <persName ref="#rochlitz">Friedrich
+									Rochlitz</persName> über die Geschehnisse in und um Leipzig im
+								Oktober 1813.</p>
+						</summary>
+						<origin>
+							<p>Den Datumsangaben zufolge ist der Text zwischen dem 25. September und
+								26. Oktober 1813 entstanden. Die relativ saubere Form sowie ein
+								Schriftvergleich legen nahe, dass es sich um eine Reinschrift von
+								fremder Hand handelt. Überlieferte Autographe oder Abschriften sind
+								nicht bekannt.</p>
+						</origin>
+						<provenance>
+							<p>Der anzunehmende Adressat des Brieftagebuchs ist <persName
+									ref="#boettiger">Carl August Böttiger</persName>, in dessen
+								Nachlass es sich heute befindet (SLUB Dresden). Dies entspricht der
+								Anrede im Text an einen Freund in Dresden (vgl. fol. 1r, Z. 21-23
+								sowie fol. 11r, Z. 1-2). Es ist unbekannt, wann oder mit welcher
+								Sendung das Tagebuch tatsächlich versendet wurde (möglich ist
+								26.11.1813, siehe. <ref
+									target="https://kalliope-verbund.info/ead?ead.id=DE-611-HS-2563364"
+									>Kalliope</ref>).</p>
+							<p>Auch im Vorbericht der späteren Publikation des Textes (1816) erwähnt
+								Rochlitz, dass das „ungestalte Conglomerat“ bereits von einem
+								größeren Personenkreis rezipiert wurde: „Ohne mein Wissen ward es
+								damals auch Andern […] vorgelegt“.</p>
+							<p>Ein Hinweis auf diese Praxis sowie auf einen der möglichen Leser des
+								Konvoluts findet sich in einem <ref
+									target="http://kalliope-verbund.info/de/ead?ead.id=DE-611-HS-2968637"
+									>Brief von Christian Truchseß von Wetzhausen </ref>, der
+								berichtet, „dass er dessen letzten Brief von vielen Menschen habe
+								vorlesen lassen.“</p>
+						</provenance>
 					</history>
 					<additional>
 						<surrogates>
@@ -433,7 +449,7 @@
 					<lb n="25"/>werden. Die <rs ref="#AU">Oesterreicher</rs> halten ihre Position bei <placeName ref="#libertwolkwitz">Wolkwitz</placeName> <abbr ana="#etc">e⁊</abbr> Die combinirte
 					<lb n="26"/>Armee zum <placeName ref="#leipzig.ranstaedter-thor">ranstädter Thore</placeName> hinaus hat eine neue Stellung in derselben
 					<lb n="27"/>Gegend, eine gestern, nur einige Stunden entfernter genommen. Indeßen
-					<lb n="28"/>war (<time>gegen 11 Uhr</time>) ein großes französisches Corps den <rs ref="#RU">Rußen</rs> nach, gegen
+					<lb n="28"/>war (<time when="1100">gegen 11 Uhr</time>) ein großes französisches Corps den <rs ref="#RU">Rußen</rs> nach, gegen
 					<lb n="29"/><placeName ref="#grimma">Grimma</placeName> hin, gezogen. Man hörte unaufhörlich, doch ziemlich entfernt,
 					<lb n="30"/>das Geschütz. Jetzt, Abends spät, k<del rend="overwritten">o</del>am<del>m</del>en meine Commißäre daher
 					<lb n="31"/>zurück und sagten, sie haben dort einen großen und harten Kampf gehabt,
@@ -480,7 +496,7 @@
 					<lb n="03"/>winzige auf die Straße heraus, die nur noch gebließen ist. Von Schlaflo<pc force="weak">-</pc>
 					<lb break="no" n="04"/>sichkeit, körperlicher Anstrengung und innerer Bewegung fühle ich mich, wie
 					<lb n="05"/>an allen Gliedern gelähmt. <metamark>—</metamark> Es schlägt <time>12 Uhr</time>. Gott, welch ein Krachen der
-					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! – Der <rs ref="#friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
+					<lb n="06"/>Kanonen, zur Begrüßung der Stunde! <metamark>—</metamark> Der <rs ref="#friedrich-august">König</rs> ist ins Schloß geflüch<pc force="weak">-</pc>
 					<lb break="no" n="07"/>tet. Vor den Thoren haben sich überall mit Eins die Passagen der Züge ge<pc force="weak">-</pc>
 					<lb break="no" n="08"/>sperrt: mit Brüllen <abbr ana="#und">u</abbr> Toben sammelt sich alles auf den Straßen, in der
 					<lb n="09"/>Allee <abbr ana="#etc">e⁊</abbr> Das Feuer des kleinen Gewehrs vor den äußern Thoren beginnt
@@ -488,7 +504,7 @@
 				</p>
 			</div>
 			<div n="7" xml:id="div.7">
-				<dateline n="11">Nachmittags 5 Uhr.</dateline>
+				<dateline n="11"><time when="1700">Nachmittags 5 Uhr</time>.</dateline>
 				<p xml:id="p.7.1" xml:space="preserve">
 					<lb n="12"/>Welche eine Unterbrechung! Vom <placeName ref="#leipzig.hallesches-thor">halleschen Thor</placeName> her warf man, man sagt,
 					<lb n="13"/>nur acht – Bomben in die Stadt, und gleich eine der ersten fiel in <rs ref="#leipzig.klostergasse.162">das Haus,
@@ -733,7 +749,7 @@
 						<l n="32">Ein süßer Trost ist ihm geblieben:</l>
 						<pb facs="http://digital.slub-dresden.de/id512116717/557" n="9r"/>
 						<l n="01">Er zählt die Häupter seiner Lieben,</l>
-						<l n="02a">Und sieh, es fehlt kein theures Haupt. — — </l>
+						<l n="02a">Und sieh, es fehlt kein theures Haupt. — —</l>
 					</lg>
 					<lb n="02b"/>Und so: <emph rend="u">Gelobt</emph>
 					<lb n="03"/><emph rend="u">sei</emph> <emph rend="u">Gott</emph>! — Damit gute Nacht, Freund! —
@@ -995,12 +1011,12 @@
 					<lb n="19"/>werden sollen, sind jetzt nach den Belegen der <emph rend="u">Behörden</emph> <emph rend="u">selbst</emph>, nahe zu 40000 hier.
 					<lb n="20"/>— Ich und die Meinen aber, was Brodt anlangt, größtentheils von Geschen<pc force="weak">-</pc>
 					<lb break="no" n="21"/>ken: zu kaufen erlangen wir wenigstens nichts. <metamark>—</metamark> (<abbr ana="#nb">NB<am>.</am></abbr> Die Militär-Exe<pc force="weak">-</pc>
-					<lb break="no" n="22"/>cution im Hause des <abbr><unclear>OhGsRths</unclear></abbr> <persName ref="#siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
+					<lb break="no" n="22"/>cution im Hause des <abbr>OHGsRths</abbr> <persName ref="#siegmann">Siegmann</persName>. Die Plünderung, Zerstörung, Anzündung
 					<lb n="23"/>der Lazarethe <placeName ref="#pfaffendorf">Pfaffendorf</placeName>, <hi rend="latin">Place de repos</hi> <abbr ana="#etc">e⁊</abbr>, voller Franzosen, durch Franzosen,
-					<lb n="24"/><emph rend="u">auf</emph> <emph rend="u">Befehl</emph>! <metamark>—</metamark> Das Kind des <abbr ana="#dr">D<am>.</am></abbr> Römisch, dem auf dem Schoose des Vaters
-					<lb n="25"/>eine Grenade das Aermchen wegreißt: „Vater, weine nicht: es wächst mit ein
-					<lb n="26"/>anderes: nicht wahr, Mutter?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <abbr ana="#dr">D<am>.</am></abbr> Heim<pc force="weak">-</pc>
-					<lb break="no" n="27"/>roth den Verwundeten <abbr ana="#und">u</abbr> Kranken seines Lazareths eichten konnte: etwa
+					<lb n="24"/><emph rend="u">auf</emph> <emph rend="u">Befehl</emph>! <metamark>—</metamark> Das <rs ref="#roemisch.tochter">Kind</rs> des <abbr ana="#dr">D<am>.</am></abbr> <persName ref="#roemisch">Römisch</persName>, dem auf dem Schoose des Vaters
+					<lb n="25"/>eine Grenade das Aermchen wegreißt: „<rs ref="#roemisch">Vater</rs>, weine nicht: es wächst mir ein
+					<lb n="26"/>anderes: nicht wahr, <rs ref="#roemisch.frau">Mutter</rs>?“ <metamark>—</metamark> Noch heute die einige Arzenei, die <abbr ana="#dr">D<am>.</am></abbr> <persName ref="#heinroth">Hei<choice><sic>m</sic><corr>n</corr></choice><pc force="weak">-</pc>
+					<lb break="no" n="27"/>roth</persName> den Verwundeten <abbr ana="#und">u</abbr> Kranken seines Lazareths reichenen konnte: etwa
 					<pb facs="http://digital.slub-dresden.de/id512116717/565" n="13r"/>
 					<lb n="01"/>zwei Bissen Brodt und ein Löffel Wein.)
 				</p>
@@ -1010,7 +1026,7 @@
 				<p n="1" xml:id="p.17.1" xml:space="preserve">
 					<lb n="03"/>Der erste Gang in das Innere der Stadt, in einige Vorstädte, in den <placeName ref="#leipzig.loehrscher-garten">löhr<pc force="weak">-</pc>
 					<lb break="no" n="04"/>schen Garten</placeName> <abbr ana="#etc">e⁊</abbr> — die <rs ref="#RU">russische</rs> Handhabung der chirurgischen und ähnlichen An<pc force="weak">-</pc>
-					<lb break="no" n="05"/>stalten in Lazarethen <abbr ana="#udgl">u dgl.</abbr> mit dem stock<!--[?]-->. <metamark>—</metamark> Das feierliche Leichenbegräbnis
+					<lb break="no" n="05"/>stalten in Lazarethen <abbr ana="#udgl">u dgl.</abbr> mit der Stadt. <metamark>—</metamark> Das feierliche Leichenbegräbnis
 					<lb n="06"/><persName ref="#poniatowski">Poniatowskÿʼs</persName>. <metamark>—</metamark> Die verschiedenen und charakteristischen Geschenke <persName ref="#alexander">Alexanders</persName>
 					<lb n="07"/>und <persName ref="#friedrich-wilhelm">Friedrich Wilhelms</persName> an diejenigen, bei welchen sie gewohnt hatten. <metamark>—</metamark> Allmähliche
 					<lb n="08"/>Rückkehr öffentlicher Ordnung, der nöthigsten Lebensmittel, der bürgerlichen Sicher<pc force="weak">-</pc>
@@ -1077,7 +1093,7 @@
 					<lb n="06"/>erfahren soll, auch solches, das ich recht von Herzen, und immerdar, achten und
 					<lb n="07"/>lieben kann, das mein Inneres ausführt, es mildert, stärkt belegt, erhöht; sonst
 					<lb n="08"/>nimm lieber noch in dieser Nach den Geist von mir, den ich so eben dir und
-					<lb n="09"/>dem Schlafe anempfehle! – Nicht des Genußes wegen bitte ichʼs, sondern
+					<lb n="09"/>dem Schlafe anempfehle! <metamark>—</metamark> Nicht des Genußes wegen bitte ichʼs, sondern
 					<lb n="10"/>daß ich nicht schlechter werde. —</p>
 				<metamark style="signatureLike" function="end"/>
 			</div>

@@ -15,7 +15,10 @@
 
 	<!-- expand abbreviations -->
 	<xsl:template match="abbr[@ana]">
-		<xsl:sequence select="$indices//item[@xml:id = current()/substring(@ana, 2)]/*"/>
+		<choice>
+			<xsl:copy-of select="."/>
+			<xsl:sequence select="$indices//item[@xml:id = current()/substring(@ana, 2)]/expan"/>
+		</choice>
 	</xsl:template>
 
 	<!-- expand */ref -->
